@@ -9,9 +9,11 @@ export default function ComparePage() {
   const [selected, setSelected] = useState<string[]>([]);
   const [comparison, setComparison] = useState<any>(null);
   const [loading, setLoading] = useState(false);
+  const [search, setSearch] = useState("");
+  const [networkFilter, setNetworkFilter] = useState("All");
 
   useEffect(() => {
-    fetch(`${API}/api/events?page_size=50`)
+    fetch(`${API}/api/events?page_size=500`)
       .then(r => r.json()).then(d => setAllEvents(d.events || [])).catch(() => {});
   }, []);
 
@@ -30,6 +32,18 @@ export default function ComparePage() {
     setSelected(prev => prev.includes(id) ? prev.filter(x => x !== id) : [...prev, id].slice(0, 5));
   };
 
+  const networks = Array.from(new Set(allEvents.map(e => e.network).filter(Boolean)));
+
+  const filteredEvents = allEvents.filter(ev => {
+    if (networkFilter !== "All" && ev.network !== networkFilter) return false;
+    if (search) {
+      const s = search.toLowerCase();
+      const searchable = `${ev.event_id} ${ev.shower || ""} ${ev.network || ""}`.toLowerCase();
+      if (!searchable.includes(s)) return false;
+    }
+    return true;
+  });
+
   const events = comparison?.events || [];
 
   const COLORS = ["var(--accent)", "var(--accent2)", "var(--accent3)", "#facc15", "#38bdf8"];
@@ -41,22 +55,64 @@ export default function ComparePage() {
         <div className="heading-actions">
           <button className="btn btn-accent" onClick={handleCompare}
             disabled={selected.length < 2 || loading}>
-            {loading ? "Comparing…" : `Compare ${selected.length} events`}
+            {loading ? "Reconstructing…" : `Compare ${selected.length} events`}
           </button>
           <Link href="/"><button className="btn btn-ghost">← Catalogue</button></Link>
         </div>
       </div>
 
       {/* Event Selector */}
-      <div style={{display:"flex",gap:8,flexWrap:"wrap",marginBottom:20}}>
-        {allEvents.slice(0, 20).map(ev => (
-          <button key={ev.event_id}
-            className={`filter-chip ${selected.includes(ev.event_id) ? "active" : ""}`}
-            onClick={() => toggle(ev.event_id)}
-            style={{fontSize:8}}>
-            {ev.event_id.substring(0, 20)}
-          </button>
-        ))}
+      <div className="panel" style={{marginBottom:20}}>
+        <div className="ph" style={{"--al":"var(--accent)"} as any}>
+          <div className="pt">Select Events ({selected.length}/5 selected · {filteredEvents.length} available)</div>
+        </div>
+        <div style={{padding:"12px 16px",display:"flex",gap:8,alignItems:"center",borderBottom:"1px solid var(--cb)"}}>
+          <input
+            type="text" placeholder="Search events…" value={search}
+            onChange={e => setSearch(e.target.value)}
+            style={{flex:1,background:"rgba(0,0,0,.3)",border:"1px solid var(--cb)",borderRadius:6,padding:"6px 12px",
+              color:"var(--fg)",fontFamily:"var(--mono)",fontSize:10,outline:"none"}}
+          />
+          <select value={networkFilter} onChange={e => setNetworkFilter(e.target.value)}
+            style={{background:"rgba(0,0,0,.3)",border:"1px solid var(--cb)",borderRadius:6,padding:"6px 10px",
+              color:"var(--fg)",fontFamily:"var(--mono)",fontSize:10,outline:"none"}}>
+            <option value="All">All Networks</option>
+            {networks.map(n => <option key={n} value={n}>{n}</option>)}
+          </select>
+        </div>
+        <div style={{maxHeight:220,overflowY:"auto",padding:"4px 0",scrollbarWidth:"none",msOverflowStyle:"none"}} className="hide-scrollbar">
+          {filteredEvents.map(ev => (
+            <div key={ev.event_id}
+              onClick={() => toggle(ev.event_id)}
+              style={{display:"flex",alignItems:"center",gap:10,padding:"6px 16px",cursor:"pointer",
+                borderBottom:"1px solid var(--cb)",
+                background: selected.includes(ev.event_id) ? "rgba(56,189,248,0.08)" : "transparent",
+                transition:"background .15s"}}>
+              <span style={{width:14,height:14,borderRadius:3,border: selected.includes(ev.event_id) ? "2px solid var(--accent)" : "1px solid var(--dim)",
+                display:"flex",alignItems:"center",justifyContent:"center",fontSize:9,color:"var(--accent)",fontWeight:700,flexShrink:0}}>
+                {selected.includes(ev.event_id) ? "✓" : ""}
+              </span>
+              <span style={{fontFamily:"var(--mono)",fontSize:10,color:"var(--fg)",flex:1,minWidth:0,overflow:"hidden",textOverflow:"ellipsis",whiteSpace:"nowrap"}}>
+                {ev.event_id}
+              </span>
+              <span style={{fontFamily:"var(--mono)",fontSize:8,color:"var(--accent2)",flexShrink:0}}>
+                {ev.shower && ev.shower !== "Sporadic" ? ev.shower : ""}
+              </span>
+              <span style={{fontFamily:"var(--mono)",fontSize:8,color:"var(--dim)",flexShrink:0}}>
+                {ev.velocity ? `${ev.velocity.toFixed(1)} km/s` : ""}
+              </span>
+              <span style={{fontFamily:"var(--mono)",fontSize:8,padding:"1px 6px",borderRadius:4,flexShrink:0,
+                background:"rgba(255,255,255,0.04)",color:"var(--muted)"}}>
+                {ev.network}
+              </span>
+            </div>
+          ))}
+          {filteredEvents.length === 0 && (
+            <div style={{padding:24,textAlign:"center",fontFamily:"var(--mono)",fontSize:10,color:"var(--dim)"}}>
+              No events match your search
+            </div>
+          )}
+        </div>
       </div>
 
       {comparison && events.length >= 2 && (
@@ -102,6 +158,13 @@ export default function ComparePage() {
                 <div className="pt">Orbital Elements</div>
               </div>
               <div style={{padding:8,overflowX:"auto"}}>
+                {events.every((ev: any) => ev.orbital_elements?.error || (!ev.orbital_elements?.semi_major_axis_au && ev.orbital_elements?.semi_major_axis_au !== 0)) ? (
+                  <div style={{padding:"20px 12px",fontFamily:"var(--mono)",fontSize:10,color:"var(--dim)",textAlign:"center",lineHeight:1.8}}>
+                    Orbital elements unavailable for selected events.<br/>
+                    Single-station events (e.g. NASA JPL) lack radiant direction data<br/>
+                    required for orbit computation. Try comparing multi-station events (GMN, FRIPON, NASA AFSN).
+                  </div>
+                ) : (
                 <table className="compare-table">
                   <thead>
                     <tr>
@@ -115,11 +178,12 @@ export default function ComparePage() {
                     {[
                       ["a (AU)", "semi_major_axis_au"],
                       ["e", "eccentricity"],
-                      ["i (°)", "inclination_deg"],
-                      ["ω (°)", "argument_of_perihelion_deg"],
-                      ["Ω (°)", "longitude_of_ascending_node_deg"],
+                      ["i (\u00b0)", "inclination_deg"],
+                      ["\u03c9 (\u00b0)", "argument_of_perihelion_deg"],
+                      ["\u03a9 (\u00b0)", "longitude_of_ascending_node_deg"],
                       ["q (AU)", "perihelion_distance_au"],
                       ["Tj", "tisserand_parameter"],
+                      ["Type", "orbit_type"],
                     ].map(([label, key]) => (
                       <tr key={String(key)}>
                         <td style={{color:"var(--muted)"}}>{String(label)}</td>
@@ -127,7 +191,7 @@ export default function ComparePage() {
                           const val = ev.orbital_elements?.[String(key)];
                           return (
                             <td key={i}>
-                              {val !== undefined && val !== null && val !== 0 ? val.toFixed(3) : "N/A"}
+                              {val !== undefined && val !== null ? (typeof val === 'number' ? val.toFixed(3) : val) : "N/A"}
                             </td>
                           );
                         })}
@@ -135,6 +199,7 @@ export default function ComparePage() {
                     ))}
                   </tbody>
                 </table>
+                )}
               </div>
             </div>
 
