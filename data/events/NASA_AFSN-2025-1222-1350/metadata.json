@@ -1,0 +1,19 @@
+{
+  "event_id": "NASA_AFSN-2025-1222-1350",
+  "utc_timestamp": "2025-12-22T13:50:49Z",
+  "unix_timestamp": 1766411448,
+  "network": "NASA_AFSN",
+  "station_count": 7,
+  "region": "Scandinavia",
+  "estimated_velocity_kms": 43.7,
+  "peak_magnitude": -2.6,
+  "entry_altitude_km": 123.7,
+  "terminal_altitude_km": 42.5,
+  "trajectory_length_km": 189.7,
+  "entry_angle_deg": 25.6,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 82.87,
+  "radiant_dec": 43.13,
+  "duration_s": 4.3
+}

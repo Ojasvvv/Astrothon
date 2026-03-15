@@ -1,0 +1,19 @@
+{
+  "event_id": "GMN-2024-0515-2215",
+  "utc_timestamp": "2024-05-15T22:15:41Z",
+  "unix_timestamp": 1715811341,
+  "network": "GMN",
+  "station_count": 6,
+  "region": "UK",
+  "estimated_velocity_kms": 42.2,
+  "peak_magnitude": -12.5,
+  "entry_altitude_km": 91.6,
+  "terminal_altitude_km": 22.9,
+  "trajectory_length_km": 74.8,
+  "entry_angle_deg": 67.2,
+  "shower": "Quadrantids",
+  "shower_code": "QUA",
+  "radiant_ra": 230.1,
+  "radiant_dec": 48.5,
+  "duration_s": 1.77
+}

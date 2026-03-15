@@ -1,0 +1,19 @@
+{
+  "event_id": "AMS-2024-0519-0829",
+  "utc_timestamp": "2024-05-19T08:29:04Z",
+  "unix_timestamp": 1716107344,
+  "network": "AMS",
+  "station_count": 7,
+  "region": "North America E",
+  "estimated_velocity_kms": 67.2,
+  "peak_magnitude": -3.5,
+  "entry_altitude_km": 91.1,
+  "terminal_altitude_km": 30.0,
+  "trajectory_length_km": 74.2,
+  "entry_angle_deg": 55.8,
+  "shower": "Eta Aquariids",
+  "shower_code": "ETA",
+  "radiant_ra": 338.0,
+  "radiant_dec": -1.0,
+  "duration_s": 1.1
+}

@@ -1,0 +1,19 @@
+{
+  "event_id": "GMN-2025-1020-1334",
+  "utc_timestamp": "2025-10-20T13:34:56Z",
+  "unix_timestamp": 1760967296,
+  "network": "GMN",
+  "station_count": 6,
+  "region": "Central Europe",
+  "estimated_velocity_kms": 67.0,
+  "peak_magnitude": -1.3,
+  "entry_altitude_km": 110.7,
+  "terminal_altitude_km": 52.4,
+  "trajectory_length_km": 64.7,
+  "entry_angle_deg": 64.5,
+  "shower": "Orionids",
+  "shower_code": "ORI",
+  "radiant_ra": 95.0,
+  "radiant_dec": 15.5,
+  "duration_s": 0.96
+}

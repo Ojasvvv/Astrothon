@@ -1,0 +1,19 @@
+{
+  "event_id": "GMN-2025-0415-0733",
+  "utc_timestamp": "2025-04-15T07:33:43Z",
+  "unix_timestamp": 1744702423,
+  "network": "GMN",
+  "station_count": 7,
+  "region": "France",
+  "estimated_velocity_kms": 32.9,
+  "peak_magnitude": -11.5,
+  "entry_altitude_km": 102.4,
+  "terminal_altitude_km": 40.3,
+  "trajectory_length_km": 68.5,
+  "entry_angle_deg": 65.3,
+  "shower": "Ursids",
+  "shower_code": "URS",
+  "radiant_ra": 217.0,
+  "radiant_dec": 75.0,
+  "duration_s": 2.08
+}

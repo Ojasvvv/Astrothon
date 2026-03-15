@@ -1,0 +1,7386 @@
+[
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073484.548168,
+    "ra": 214.148226,
+    "dec": 24.372271,
+    "frame_index": 46,
+    "brightness": -10.0
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073484.581781,
+    "ra": 214.459413,
+    "dec": 23.890734,
+    "frame_index": 47,
+    "brightness": -9.87
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073484.615395,
+    "ra": 214.768674,
+    "dec": 23.410427,
+    "frame_index": 48,
+    "brightness": -9.98
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073484.649008,
+    "ra": 215.078217,
+    "dec": 22.947735,
+    "frame_index": 49,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073484.682621,
+    "ra": 215.380003,
+    "dec": 22.463493,
+    "frame_index": 50,
+    "brightness": -10.1
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073484.716235,
+    "ra": 215.684008,
+    "dec": 21.985301,
+    "frame_index": 51,
+    "brightness": -10.21
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073484.749848,
+    "ra": 215.972556,
+    "dec": 21.512197,
+    "frame_index": 52,
+    "brightness": -10.11
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073484.783462,
+    "ra": 216.271337,
+    "dec": 21.029754,
+    "frame_index": 53,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073484.817075,
+    "ra": 216.568954,
+    "dec": 20.574174,
+    "frame_index": 54,
+    "brightness": -10.36
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073484.850689,
+    "ra": 216.850816,
+    "dec": 20.102815,
+    "frame_index": 55,
+    "brightness": -10.22
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073484.884302,
+    "ra": 217.139287,
+    "dec": 19.626798,
+    "frame_index": 56,
+    "brightness": -10.39
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073484.917916,
+    "ra": 217.428339,
+    "dec": 19.157581,
+    "frame_index": 57,
+    "brightness": -10.3
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073484.951529,
+    "ra": 217.700347,
+    "dec": 18.690107,
+    "frame_index": 58,
+    "brightness": -10.44
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073484.985142,
+    "ra": 217.976918,
+    "dec": 18.213223,
+    "frame_index": 59,
+    "brightness": -10.76
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.018756,
+    "ra": 218.2424,
+    "dec": 17.756049,
+    "frame_index": 60,
+    "brightness": -10.64
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.05237,
+    "ra": 218.528603,
+    "dec": 17.294112,
+    "frame_index": 61,
+    "brightness": -10.44
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.085983,
+    "ra": 218.79772,
+    "dec": 16.84104,
+    "frame_index": 62,
+    "brightness": -10.75
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.119596,
+    "ra": 219.071976,
+    "dec": 16.366478,
+    "frame_index": 63,
+    "brightness": -10.72
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.15321,
+    "ra": 219.336412,
+    "dec": 15.915174,
+    "frame_index": 64,
+    "brightness": -10.65
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.186823,
+    "ra": 219.5951,
+    "dec": 15.465478,
+    "frame_index": 65,
+    "brightness": -10.88
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.220437,
+    "ra": 219.855937,
+    "dec": 15.011202,
+    "frame_index": 66,
+    "brightness": -10.96
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.25405,
+    "ra": 220.114987,
+    "dec": 14.551074,
+    "frame_index": 67,
+    "brightness": -10.83
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.287664,
+    "ra": 220.3657,
+    "dec": 14.110391,
+    "frame_index": 68,
+    "brightness": -11.15
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.321277,
+    "ra": 220.61212,
+    "dec": 13.652663,
+    "frame_index": 69,
+    "brightness": -10.77
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.354891,
+    "ra": 220.869772,
+    "dec": 13.214688,
+    "frame_index": 70,
+    "brightness": -10.74
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.388504,
+    "ra": 221.116024,
+    "dec": 12.772983,
+    "frame_index": 71,
+    "brightness": -10.93
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.422117,
+    "ra": 221.359973,
+    "dec": 12.32876,
+    "frame_index": 72,
+    "brightness": -10.86
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.455731,
+    "ra": 221.602652,
+    "dec": 11.893568,
+    "frame_index": 73,
+    "brightness": -10.88
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.489344,
+    "ra": 221.848828,
+    "dec": 11.452643,
+    "frame_index": 74,
+    "brightness": -11.07
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.522958,
+    "ra": 222.084279,
+    "dec": 11.019966,
+    "frame_index": 75,
+    "brightness": -10.94
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.556571,
+    "ra": 222.325094,
+    "dec": 10.59309,
+    "frame_index": 76,
+    "brightness": -10.77
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.590185,
+    "ra": 222.548469,
+    "dec": 10.17062,
+    "frame_index": 77,
+    "brightness": -11.03
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.623798,
+    "ra": 222.78406,
+    "dec": 9.739241,
+    "frame_index": 78,
+    "brightness": -10.99
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.657412,
+    "ra": 223.01636,
+    "dec": 9.314147,
+    "frame_index": 79,
+    "brightness": -10.86
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.691025,
+    "ra": 223.240429,
+    "dec": 8.904935,
+    "frame_index": 80,
+    "brightness": -10.87
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.724638,
+    "ra": 223.475061,
+    "dec": 8.485768,
+    "frame_index": 81,
+    "brightness": -10.75
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.758252,
+    "ra": 223.687827,
+    "dec": 8.078043,
+    "frame_index": 82,
+    "brightness": -10.73
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.791865,
+    "ra": 223.917546,
+    "dec": 7.656802,
+    "frame_index": 83,
+    "brightness": -10.88
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.825479,
+    "ra": 224.136395,
+    "dec": 7.264187,
+    "frame_index": 84,
+    "brightness": -10.66
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.859092,
+    "ra": 224.351527,
+    "dec": 6.849097,
+    "frame_index": 85,
+    "brightness": -10.69
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.892706,
+    "ra": 224.561294,
+    "dec": 6.444119,
+    "frame_index": 86,
+    "brightness": -10.44
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.926319,
+    "ra": 224.771643,
+    "dec": 6.052109,
+    "frame_index": 87,
+    "brightness": -10.56
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.959933,
+    "ra": 224.995505,
+    "dec": 5.6576,
+    "frame_index": 88,
+    "brightness": -10.78
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073485.993546,
+    "ra": 225.201594,
+    "dec": 5.268749,
+    "frame_index": 89,
+    "brightness": -10.41
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.027159,
+    "ra": 225.403968,
+    "dec": 4.874808,
+    "frame_index": 90,
+    "brightness": -10.42
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.060773,
+    "ra": 225.615206,
+    "dec": 4.492469,
+    "frame_index": 91,
+    "brightness": -10.6
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.094386,
+    "ra": 225.82897,
+    "dec": 4.115842,
+    "frame_index": 92,
+    "brightness": -10.84
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.128,
+    "ra": 226.024379,
+    "dec": 3.731746,
+    "frame_index": 93,
+    "brightness": -10.1
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.161613,
+    "ra": 226.225222,
+    "dec": 3.343894,
+    "frame_index": 94,
+    "brightness": -9.96
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.195227,
+    "ra": 226.423488,
+    "dec": 2.98025,
+    "frame_index": 95,
+    "brightness": -9.95
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.22884,
+    "ra": 226.613863,
+    "dec": 2.600995,
+    "frame_index": 96,
+    "brightness": -10.04
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.262454,
+    "ra": 226.811517,
+    "dec": 2.237626,
+    "frame_index": 97,
+    "brightness": -9.85
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.296067,
+    "ra": 227.005276,
+    "dec": 1.874863,
+    "frame_index": 98,
+    "brightness": -10.11
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.32968,
+    "ra": 227.189148,
+    "dec": 1.51679,
+    "frame_index": 99,
+    "brightness": -9.69
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.363294,
+    "ra": 227.385072,
+    "dec": 1.154275,
+    "frame_index": 100,
+    "brightness": -10.0
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.396907,
+    "ra": 227.565758,
+    "dec": 0.800376,
+    "frame_index": 101,
+    "brightness": -9.91
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.430521,
+    "ra": 227.753506,
+    "dec": 0.446887,
+    "frame_index": 102,
+    "brightness": -9.59
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.464134,
+    "ra": 227.935509,
+    "dec": 0.099338,
+    "frame_index": 103,
+    "brightness": -9.56
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.497748,
+    "ra": 228.121826,
+    "dec": -0.249126,
+    "frame_index": 104,
+    "brightness": -9.6
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.531361,
+    "ra": 228.304518,
+    "dec": -0.583872,
+    "frame_index": 105,
+    "brightness": -9.53
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.564975,
+    "ra": 228.473502,
+    "dec": -0.940011,
+    "frame_index": 106,
+    "brightness": -9.4
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.598588,
+    "ra": 228.666231,
+    "dec": -1.26539,
+    "frame_index": 107,
+    "brightness": -9.43
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.632201,
+    "ra": 228.836114,
+    "dec": -1.594906,
+    "frame_index": 108,
+    "brightness": -9.4
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.665815,
+    "ra": 229.016399,
+    "dec": -1.91916,
+    "frame_index": 109,
+    "brightness": -9.64
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.699428,
+    "ra": 229.190017,
+    "dec": -2.249432,
+    "frame_index": 110,
+    "brightness": -9.35
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.733042,
+    "ra": 229.362112,
+    "dec": -2.581776,
+    "frame_index": 111,
+    "brightness": -8.94
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.766655,
+    "ra": 229.525737,
+    "dec": -2.90407,
+    "frame_index": 112,
+    "brightness": -9.18
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.800269,
+    "ra": 229.695422,
+    "dec": -3.213965,
+    "frame_index": 113,
+    "brightness": -9.13
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.833882,
+    "ra": 229.856686,
+    "dec": -3.530751,
+    "frame_index": 114,
+    "brightness": -9.07
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.867496,
+    "ra": 230.024847,
+    "dec": -3.846223,
+    "frame_index": 115,
+    "brightness": -8.94
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.901109,
+    "ra": 230.189969,
+    "dec": -4.161116,
+    "frame_index": 116,
+    "brightness": -8.86
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.934722,
+    "ra": 230.356803,
+    "dec": -4.455402,
+    "frame_index": 117,
+    "brightness": -8.91
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073486.968336,
+    "ra": 230.515084,
+    "dec": -4.767311,
+    "frame_index": 118,
+    "brightness": -8.59
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.001949,
+    "ra": 230.674949,
+    "dec": -5.056186,
+    "frame_index": 119,
+    "brightness": -8.59
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.035563,
+    "ra": 230.836033,
+    "dec": -5.348529,
+    "frame_index": 120,
+    "brightness": -8.54
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.069176,
+    "ra": 230.98644,
+    "dec": -5.655218,
+    "frame_index": 121,
+    "brightness": -8.48
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.10279,
+    "ra": 231.146272,
+    "dec": -5.936639,
+    "frame_index": 122,
+    "brightness": -8.21
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.136403,
+    "ra": 231.304938,
+    "dec": -6.241662,
+    "frame_index": 123,
+    "brightness": -8.55
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.170017,
+    "ra": 231.449017,
+    "dec": -6.525161,
+    "frame_index": 124,
+    "brightness": -8.26
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.20363,
+    "ra": 231.605479,
+    "dec": -6.802388,
+    "frame_index": 125,
+    "brightness": -8.12
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.237243,
+    "ra": 231.75812,
+    "dec": -7.080833,
+    "frame_index": 126,
+    "brightness": -8.16
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.270857,
+    "ra": 231.910837,
+    "dec": -7.363206,
+    "frame_index": 127,
+    "brightness": -8.07
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.30447,
+    "ra": 232.058095,
+    "dec": -7.634484,
+    "frame_index": 128,
+    "brightness": -8.13
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.338084,
+    "ra": 232.199165,
+    "dec": -7.901741,
+    "frame_index": 129,
+    "brightness": -7.74
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.371697,
+    "ra": 232.343177,
+    "dec": -8.181742,
+    "frame_index": 130,
+    "brightness": -8.09
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.405311,
+    "ra": 232.485495,
+    "dec": -8.445839,
+    "frame_index": 131,
+    "brightness": -7.8
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.438924,
+    "ra": 232.630049,
+    "dec": -8.694441,
+    "frame_index": 132,
+    "brightness": -8.01
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.472538,
+    "ra": 232.772216,
+    "dec": -8.966191,
+    "frame_index": 133,
+    "brightness": -7.99
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.506151,
+    "ra": 232.918762,
+    "dec": -9.225655,
+    "frame_index": 134,
+    "brightness": -7.59
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.539764,
+    "ra": 233.055571,
+    "dec": -9.482112,
+    "frame_index": 135,
+    "brightness": -7.84
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.573378,
+    "ra": 233.189296,
+    "dec": -9.738612,
+    "frame_index": 136,
+    "brightness": -7.58
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.606991,
+    "ra": 233.326857,
+    "dec": -9.98211,
+    "frame_index": 137,
+    "brightness": -7.87
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.640605,
+    "ra": 233.468315,
+    "dec": -10.242721,
+    "frame_index": 138,
+    "brightness": -7.61
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.674218,
+    "ra": 233.59744,
+    "dec": -10.482165,
+    "frame_index": 139,
+    "brightness": -7.58
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.707832,
+    "ra": 233.734902,
+    "dec": -10.720125,
+    "frame_index": 140,
+    "brightness": -7.67
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.741445,
+    "ra": 233.86475,
+    "dec": -10.962936,
+    "frame_index": 141,
+    "brightness": -7.51
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.775059,
+    "ra": 234.000587,
+    "dec": -11.199224,
+    "frame_index": 142,
+    "brightness": -7.34
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.808672,
+    "ra": 234.129705,
+    "dec": -11.448803,
+    "frame_index": 143,
+    "brightness": -7.48
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.842285,
+    "ra": 234.261062,
+    "dec": -11.677704,
+    "frame_index": 144,
+    "brightness": -7.26
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.875899,
+    "ra": 234.389586,
+    "dec": -11.904957,
+    "frame_index": 145,
+    "brightness": -7.33
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.909512,
+    "ra": 234.52372,
+    "dec": -12.131758,
+    "frame_index": 146,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.943126,
+    "ra": 234.642011,
+    "dec": -12.357044,
+    "frame_index": 147,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073487.976739,
+    "ra": 234.763185,
+    "dec": -12.58437,
+    "frame_index": 148,
+    "brightness": -7.2
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.010353,
+    "ra": 234.892656,
+    "dec": -12.81093,
+    "frame_index": 149,
+    "brightness": -7.42
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.043966,
+    "ra": 235.019281,
+    "dec": -13.022342,
+    "frame_index": 150,
+    "brightness": -7.36
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.077579,
+    "ra": 235.130505,
+    "dec": -13.249868,
+    "frame_index": 151,
+    "brightness": -7.39
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.111193,
+    "ra": 235.26212,
+    "dec": -13.459745,
+    "frame_index": 152,
+    "brightness": -7.41
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.144806,
+    "ra": 235.381559,
+    "dec": -13.674357,
+    "frame_index": 153,
+    "brightness": -7.23
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.17842,
+    "ra": 235.505689,
+    "dec": -13.882843,
+    "frame_index": 154,
+    "brightness": -7.13
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.212033,
+    "ra": 235.616912,
+    "dec": -14.10095,
+    "frame_index": 155,
+    "brightness": -6.99
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.245647,
+    "ra": 235.744818,
+    "dec": -14.306798,
+    "frame_index": 156,
+    "brightness": -7.15
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.27926,
+    "ra": 235.846419,
+    "dec": -14.511832,
+    "frame_index": 157,
+    "brightness": -7.07
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.312874,
+    "ra": 235.966004,
+    "dec": -14.722746,
+    "frame_index": 158,
+    "brightness": -6.75
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.346487,
+    "ra": 236.072397,
+    "dec": -14.923675,
+    "frame_index": 159,
+    "brightness": -7.02
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.3801,
+    "ra": 236.199276,
+    "dec": -15.121746,
+    "frame_index": 160,
+    "brightness": -6.75
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.413714,
+    "ra": 236.304288,
+    "dec": -15.321187,
+    "frame_index": 161,
+    "brightness": -7.33
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.447327,
+    "ra": 236.417446,
+    "dec": -15.511379,
+    "frame_index": 162,
+    "brightness": -7.05
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.480941,
+    "ra": 236.533107,
+    "dec": -15.70067,
+    "frame_index": 163,
+    "brightness": -6.95
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.514554,
+    "ra": 236.650862,
+    "dec": -15.897905,
+    "frame_index": 164,
+    "brightness": -7.07
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.548168,
+    "ra": 236.752886,
+    "dec": -16.091026,
+    "frame_index": 165,
+    "brightness": -7.04
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.581781,
+    "ra": 236.868801,
+    "dec": -16.274285,
+    "frame_index": 166,
+    "brightness": -7.05
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.615395,
+    "ra": 236.975625,
+    "dec": -16.456062,
+    "frame_index": 167,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.649008,
+    "ra": 237.08111,
+    "dec": -16.64273,
+    "frame_index": 168,
+    "brightness": -7.05
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.682621,
+    "ra": 237.185488,
+    "dec": -16.821095,
+    "frame_index": 169,
+    "brightness": -6.86
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.716235,
+    "ra": 237.294844,
+    "dec": -17.009161,
+    "frame_index": 170,
+    "brightness": -7.03
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.749848,
+    "ra": 237.400217,
+    "dec": -17.187095,
+    "frame_index": 171,
+    "brightness": -6.73
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.783462,
+    "ra": 237.50497,
+    "dec": -17.371045,
+    "frame_index": 172,
+    "brightness": -7.11
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.817075,
+    "ra": 237.604936,
+    "dec": -17.549618,
+    "frame_index": 173,
+    "brightness": -6.84
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.850689,
+    "ra": 237.71591,
+    "dec": -17.715041,
+    "frame_index": 174,
+    "brightness": -6.65
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.884302,
+    "ra": 237.812048,
+    "dec": -17.880648,
+    "frame_index": 175,
+    "brightness": -6.74
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.917916,
+    "ra": 237.909378,
+    "dec": -18.05895,
+    "frame_index": 176,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.951529,
+    "ra": 238.012035,
+    "dec": -18.225401,
+    "frame_index": 177,
+    "brightness": -7.02
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073488.985142,
+    "ra": 238.104094,
+    "dec": -18.395591,
+    "frame_index": 178,
+    "brightness": -6.77
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.018756,
+    "ra": 238.205711,
+    "dec": -18.557377,
+    "frame_index": 179,
+    "brightness": -6.72
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.05237,
+    "ra": 238.307232,
+    "dec": -18.718903,
+    "frame_index": 180,
+    "brightness": -7.04
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.085983,
+    "ra": 238.396836,
+    "dec": -18.887566,
+    "frame_index": 181,
+    "brightness": -6.86
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.119596,
+    "ra": 238.501318,
+    "dec": -19.045285,
+    "frame_index": 182,
+    "brightness": -6.92
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.15321,
+    "ra": 238.597528,
+    "dec": -19.200153,
+    "frame_index": 183,
+    "brightness": -6.78
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.186823,
+    "ra": 238.687313,
+    "dec": -19.362809,
+    "frame_index": 184,
+    "brightness": -6.79
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.220437,
+    "ra": 238.793884,
+    "dec": -19.516798,
+    "frame_index": 185,
+    "brightness": -7.02
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.25405,
+    "ra": 238.875655,
+    "dec": -19.679036,
+    "frame_index": 186,
+    "brightness": -7.05
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.287664,
+    "ra": 238.976689,
+    "dec": -19.835311,
+    "frame_index": 187,
+    "brightness": -6.7
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.321277,
+    "ra": 239.056504,
+    "dec": -19.984053,
+    "frame_index": 188,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.354891,
+    "ra": 239.154957,
+    "dec": -20.130783,
+    "frame_index": 189,
+    "brightness": -7.12
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.388504,
+    "ra": 239.25128,
+    "dec": -20.278754,
+    "frame_index": 190,
+    "brightness": -6.94
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.422117,
+    "ra": 239.337832,
+    "dec": -20.43289,
+    "frame_index": 191,
+    "brightness": -7.0
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.455731,
+    "ra": 239.428193,
+    "dec": -20.571606,
+    "frame_index": 192,
+    "brightness": -6.96
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.489344,
+    "ra": 239.523971,
+    "dec": -20.721954,
+    "frame_index": 193,
+    "brightness": -6.9
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.522958,
+    "ra": 239.612745,
+    "dec": -20.866754,
+    "frame_index": 194,
+    "brightness": -6.86
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.556571,
+    "ra": 239.693129,
+    "dec": -21.013347,
+    "frame_index": 195,
+    "brightness": -6.72
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.590185,
+    "ra": 239.777498,
+    "dec": -21.150847,
+    "frame_index": 196,
+    "brightness": -6.79
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.623798,
+    "ra": 239.874288,
+    "dec": -21.290989,
+    "frame_index": 197,
+    "brightness": -6.74
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.657412,
+    "ra": 239.951392,
+    "dec": -21.419139,
+    "frame_index": 198,
+    "brightness": -6.78
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.691025,
+    "ra": 240.041597,
+    "dec": -21.564876,
+    "frame_index": 199,
+    "brightness": -6.93
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.724638,
+    "ra": 240.131616,
+    "dec": -21.70527,
+    "frame_index": 200,
+    "brightness": -6.82
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.758252,
+    "ra": 240.216846,
+    "dec": -21.82732,
+    "frame_index": 201,
+    "brightness": -6.87
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.791865,
+    "ra": 240.29244,
+    "dec": -21.969441,
+    "frame_index": 202,
+    "brightness": -6.85
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.825479,
+    "ra": 240.380294,
+    "dec": -22.106908,
+    "frame_index": 203,
+    "brightness": -7.0
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.859092,
+    "ra": 240.463755,
+    "dec": -22.230748,
+    "frame_index": 204,
+    "brightness": -6.87
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.892706,
+    "ra": 240.54097,
+    "dec": -22.362893,
+    "frame_index": 205,
+    "brightness": -6.85
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.926319,
+    "ra": 240.618742,
+    "dec": -22.49901,
+    "frame_index": 206,
+    "brightness": -6.93
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.959933,
+    "ra": 240.703429,
+    "dec": -22.620155,
+    "frame_index": 207,
+    "brightness": -7.06
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073489.993546,
+    "ra": 240.787344,
+    "dec": -22.747081,
+    "frame_index": 208,
+    "brightness": -7.01
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073490.027159,
+    "ra": 240.86642,
+    "dec": -22.873862,
+    "frame_index": 209,
+    "brightness": -6.85
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073490.060773,
+    "ra": 240.948164,
+    "dec": -22.98773,
+    "frame_index": 210,
+    "brightness": -6.9
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073490.094386,
+    "ra": 241.030798,
+    "dec": -23.121312,
+    "frame_index": 211,
+    "brightness": -7.01
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073490.128,
+    "ra": 241.108124,
+    "dec": -23.241449,
+    "frame_index": 212,
+    "brightness": -6.91
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073490.161613,
+    "ra": 241.18119,
+    "dec": -23.3563,
+    "frame_index": 213,
+    "brightness": -7.04
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073490.195227,
+    "ra": 241.265019,
+    "dec": -23.483903,
+    "frame_index": 214,
+    "brightness": -6.83
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073490.22884,
+    "ra": 241.328801,
+    "dec": -23.607357,
+    "frame_index": 215,
+    "brightness": -6.9
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073490.262454,
+    "ra": 241.416733,
+    "dec": -23.718532,
+    "frame_index": 216,
+    "brightness": -6.88
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073490.296067,
+    "ra": 241.486691,
+    "dec": -23.8395,
+    "frame_index": 217,
+    "brightness": -6.89
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073490.32968,
+    "ra": 241.569024,
+    "dec": -23.958848,
+    "frame_index": 218,
+    "brightness": -6.7
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073490.363294,
+    "ra": 241.639607,
+    "dec": -24.071846,
+    "frame_index": 219,
+    "brightness": -6.96
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073490.396907,
+    "ra": 241.714244,
+    "dec": -24.184252,
+    "frame_index": 220,
+    "brightness": -6.54
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073490.430521,
+    "ra": 241.792085,
+    "dec": -24.297949,
+    "frame_index": 221,
+    "brightness": -6.76
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073490.464134,
+    "ra": 241.864147,
+    "dec": -24.40338,
+    "frame_index": 222,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073490.497748,
+    "ra": 241.937563,
+    "dec": -24.510867,
+    "frame_index": 223,
+    "brightness": -7.01
+  },
+  {
+    "station_id": "Stockholm-A",
+    "timestamp": 1711073490.531361,
+    "ra": 242.00519,
+    "dec": -24.631435,
+    "frame_index": 224,
+    "brightness": -6.73
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.27563,
+    "ra": 284.17097,
+    "dec": 20.246884,
+    "frame_index": 38,
+    "brightness": -9.22
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.309244,
+    "ra": 284.073049,
+    "dec": 19.90297,
+    "frame_index": 39,
+    "brightness": -9.31
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.342857,
+    "ra": 283.96982,
+    "dec": 19.565923,
+    "frame_index": 40,
+    "brightness": -9.19
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.376471,
+    "ra": 283.876247,
+    "dec": 19.21304,
+    "frame_index": 41,
+    "brightness": -9.47
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.410084,
+    "ra": 283.77816,
+    "dec": 18.87358,
+    "frame_index": 42,
+    "brightness": -9.26
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.443697,
+    "ra": 283.693147,
+    "dec": 18.539841,
+    "frame_index": 43,
+    "brightness": -9.62
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.477311,
+    "ra": 283.599068,
+    "dec": 18.193716,
+    "frame_index": 44,
+    "brightness": -9.94
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.510924,
+    "ra": 283.502983,
+    "dec": 17.851598,
+    "frame_index": 45,
+    "brightness": -9.93
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.544538,
+    "ra": 283.411634,
+    "dec": 17.524905,
+    "frame_index": 46,
+    "brightness": -10.0
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.578151,
+    "ra": 283.325392,
+    "dec": 17.187944,
+    "frame_index": 47,
+    "brightness": -9.87
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.611765,
+    "ra": 283.235615,
+    "dec": 16.862605,
+    "frame_index": 48,
+    "brightness": -9.98
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.645378,
+    "ra": 283.151202,
+    "dec": 16.537987,
+    "frame_index": 49,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.678992,
+    "ra": 283.057835,
+    "dec": 16.195882,
+    "frame_index": 50,
+    "brightness": -10.1
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.712605,
+    "ra": 282.970909,
+    "dec": 15.868544,
+    "frame_index": 51,
+    "brightness": -10.21
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.746218,
+    "ra": 282.885338,
+    "dec": 15.545916,
+    "frame_index": 52,
+    "brightness": -10.11
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.779832,
+    "ra": 282.795967,
+    "dec": 15.217593,
+    "frame_index": 53,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.813445,
+    "ra": 282.71257,
+    "dec": 14.904367,
+    "frame_index": 54,
+    "brightness": -10.36
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.847059,
+    "ra": 282.630743,
+    "dec": 14.578973,
+    "frame_index": 55,
+    "brightness": -10.22
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.880672,
+    "ra": 282.542285,
+    "dec": 14.270546,
+    "frame_index": 56,
+    "brightness": -10.39
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.914286,
+    "ra": 282.460218,
+    "dec": 13.947656,
+    "frame_index": 57,
+    "brightness": -10.3
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.947899,
+    "ra": 282.37764,
+    "dec": 13.636551,
+    "frame_index": 58,
+    "brightness": -10.44
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073484.981513,
+    "ra": 282.296482,
+    "dec": 13.316808,
+    "frame_index": 59,
+    "brightness": -10.76
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.015126,
+    "ra": 282.205235,
+    "dec": 13.011549,
+    "frame_index": 60,
+    "brightness": -10.64
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.04874,
+    "ra": 282.133511,
+    "dec": 12.694929,
+    "frame_index": 61,
+    "brightness": -10.44
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.082353,
+    "ra": 282.057884,
+    "dec": 12.389259,
+    "frame_index": 62,
+    "brightness": -10.75
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.115967,
+    "ra": 281.974087,
+    "dec": 12.085934,
+    "frame_index": 63,
+    "brightness": -10.72
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.14958,
+    "ra": 281.898712,
+    "dec": 11.774176,
+    "frame_index": 64,
+    "brightness": -10.65
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.183193,
+    "ra": 281.82477,
+    "dec": 11.473055,
+    "frame_index": 65,
+    "brightness": -10.88
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.216807,
+    "ra": 281.741914,
+    "dec": 11.178098,
+    "frame_index": 66,
+    "brightness": -10.96
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.25042,
+    "ra": 281.667356,
+    "dec": 10.873949,
+    "frame_index": 67,
+    "brightness": -10.83
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.284034,
+    "ra": 281.579364,
+    "dec": 10.574717,
+    "frame_index": 68,
+    "brightness": -11.15
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.317647,
+    "ra": 281.517826,
+    "dec": 10.28049,
+    "frame_index": 69,
+    "brightness": -10.77
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.351261,
+    "ra": 281.436979,
+    "dec": 9.994427,
+    "frame_index": 70,
+    "brightness": -10.74
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.384874,
+    "ra": 281.361552,
+    "dec": 9.694458,
+    "frame_index": 71,
+    "brightness": -10.93
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.418488,
+    "ra": 281.294226,
+    "dec": 9.41177,
+    "frame_index": 72,
+    "brightness": -10.86
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.452101,
+    "ra": 281.227221,
+    "dec": 9.129258,
+    "frame_index": 73,
+    "brightness": -10.88
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.485714,
+    "ra": 281.13774,
+    "dec": 8.839363,
+    "frame_index": 74,
+    "brightness": -11.07
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.519328,
+    "ra": 281.079896,
+    "dec": 8.543894,
+    "frame_index": 75,
+    "brightness": -10.94
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.552941,
+    "ra": 281.000939,
+    "dec": 8.267787,
+    "frame_index": 76,
+    "brightness": -10.77
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.586555,
+    "ra": 280.92862,
+    "dec": 7.986553,
+    "frame_index": 77,
+    "brightness": -11.03
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.620168,
+    "ra": 280.864176,
+    "dec": 7.70722,
+    "frame_index": 78,
+    "brightness": -10.99
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.653782,
+    "ra": 280.791307,
+    "dec": 7.426827,
+    "frame_index": 79,
+    "brightness": -10.86
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.687395,
+    "ra": 280.724184,
+    "dec": 7.143917,
+    "frame_index": 80,
+    "brightness": -10.87
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.721009,
+    "ra": 280.654122,
+    "dec": 6.873048,
+    "frame_index": 81,
+    "brightness": -10.75
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.754622,
+    "ra": 280.592438,
+    "dec": 6.605797,
+    "frame_index": 82,
+    "brightness": -10.73
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.788235,
+    "ra": 280.520447,
+    "dec": 6.327164,
+    "frame_index": 83,
+    "brightness": -10.88
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.821849,
+    "ra": 280.449008,
+    "dec": 6.062488,
+    "frame_index": 84,
+    "brightness": -10.66
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.855462,
+    "ra": 280.383989,
+    "dec": 5.794364,
+    "frame_index": 85,
+    "brightness": -10.69
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.889076,
+    "ra": 280.317411,
+    "dec": 5.533917,
+    "frame_index": 86,
+    "brightness": -10.44
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.922689,
+    "ra": 280.259785,
+    "dec": 5.264581,
+    "frame_index": 87,
+    "brightness": -10.56
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.956303,
+    "ra": 280.188666,
+    "dec": 5.005887,
+    "frame_index": 88,
+    "brightness": -10.78
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073485.989916,
+    "ra": 280.122689,
+    "dec": 4.743165,
+    "frame_index": 89,
+    "brightness": -10.41
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.02353,
+    "ra": 280.049344,
+    "dec": 4.480994,
+    "frame_index": 90,
+    "brightness": -10.42
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.057143,
+    "ra": 279.991971,
+    "dec": 4.236214,
+    "frame_index": 91,
+    "brightness": -10.6
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.090756,
+    "ra": 279.929717,
+    "dec": 3.970862,
+    "frame_index": 92,
+    "brightness": -10.84
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.12437,
+    "ra": 279.867053,
+    "dec": 3.71948,
+    "frame_index": 93,
+    "brightness": -10.1
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.157983,
+    "ra": 279.810057,
+    "dec": 3.465479,
+    "frame_index": 94,
+    "brightness": -9.96
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.191597,
+    "ra": 279.73401,
+    "dec": 3.221176,
+    "frame_index": 95,
+    "brightness": -9.95
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.22521,
+    "ra": 279.683824,
+    "dec": 2.972174,
+    "frame_index": 96,
+    "brightness": -10.04
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.258824,
+    "ra": 279.632043,
+    "dec": 2.720244,
+    "frame_index": 97,
+    "brightness": -9.85
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.292437,
+    "ra": 279.566212,
+    "dec": 2.466641,
+    "frame_index": 98,
+    "brightness": -10.11
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.326051,
+    "ra": 279.505118,
+    "dec": 2.235887,
+    "frame_index": 99,
+    "brightness": -9.69
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.359664,
+    "ra": 279.445697,
+    "dec": 1.995993,
+    "frame_index": 100,
+    "brightness": -10.0
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.393277,
+    "ra": 279.383829,
+    "dec": 1.747758,
+    "frame_index": 101,
+    "brightness": -9.91
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.426891,
+    "ra": 279.320013,
+    "dec": 1.506951,
+    "frame_index": 102,
+    "brightness": -9.59
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.460504,
+    "ra": 279.269213,
+    "dec": 1.272051,
+    "frame_index": 103,
+    "brightness": -9.56
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.494118,
+    "ra": 279.20931,
+    "dec": 1.041169,
+    "frame_index": 104,
+    "brightness": -9.6
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.527731,
+    "ra": 279.152172,
+    "dec": 0.811088,
+    "frame_index": 105,
+    "brightness": -9.53
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.561345,
+    "ra": 279.095383,
+    "dec": 0.572861,
+    "frame_index": 106,
+    "brightness": -9.4
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.594958,
+    "ra": 279.032665,
+    "dec": 0.335164,
+    "frame_index": 107,
+    "brightness": -9.43
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.628572,
+    "ra": 278.985651,
+    "dec": 0.122924,
+    "frame_index": 108,
+    "brightness": -9.4
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.662185,
+    "ra": 278.932204,
+    "dec": -0.111523,
+    "frame_index": 109,
+    "brightness": -9.64
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.695798,
+    "ra": 278.869944,
+    "dec": -0.344038,
+    "frame_index": 110,
+    "brightness": -9.35
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.729412,
+    "ra": 278.809548,
+    "dec": -0.564012,
+    "frame_index": 111,
+    "brightness": -8.94
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.763025,
+    "ra": 278.76706,
+    "dec": -0.77779,
+    "frame_index": 112,
+    "brightness": -9.18
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.796639,
+    "ra": 278.713502,
+    "dec": -1.003462,
+    "frame_index": 113,
+    "brightness": -9.13
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.830252,
+    "ra": 278.651431,
+    "dec": -1.230587,
+    "frame_index": 114,
+    "brightness": -9.07
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.863866,
+    "ra": 278.597045,
+    "dec": -1.452545,
+    "frame_index": 115,
+    "brightness": -8.94
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.897479,
+    "ra": 278.543154,
+    "dec": -1.665331,
+    "frame_index": 116,
+    "brightness": -8.86
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.931093,
+    "ra": 278.486096,
+    "dec": -1.869289,
+    "frame_index": 117,
+    "brightness": -8.91
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.964706,
+    "ra": 278.441002,
+    "dec": -2.076494,
+    "frame_index": 118,
+    "brightness": -8.59
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073486.998319,
+    "ra": 278.392954,
+    "dec": -2.294473,
+    "frame_index": 119,
+    "brightness": -8.59
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.031933,
+    "ra": 278.333786,
+    "dec": -2.507985,
+    "frame_index": 120,
+    "brightness": -8.54
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.065546,
+    "ra": 278.284516,
+    "dec": -2.70442,
+    "frame_index": 121,
+    "brightness": -8.48
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.09916,
+    "ra": 278.229701,
+    "dec": -2.927262,
+    "frame_index": 122,
+    "brightness": -8.21
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.132773,
+    "ra": 278.176352,
+    "dec": -3.130201,
+    "frame_index": 123,
+    "brightness": -8.55
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.166387,
+    "ra": 278.130573,
+    "dec": -3.334664,
+    "frame_index": 124,
+    "brightness": -8.26
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.2,
+    "ra": 278.081559,
+    "dec": -3.53487,
+    "frame_index": 125,
+    "brightness": -8.12
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.233613,
+    "ra": 278.032283,
+    "dec": -3.735528,
+    "frame_index": 126,
+    "brightness": -8.16
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.267227,
+    "ra": 277.978406,
+    "dec": -3.926094,
+    "frame_index": 127,
+    "brightness": -8.07
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.30084,
+    "ra": 277.934068,
+    "dec": -4.141142,
+    "frame_index": 128,
+    "brightness": -8.13
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.334454,
+    "ra": 277.892418,
+    "dec": -4.32715,
+    "frame_index": 129,
+    "brightness": -7.74
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.368067,
+    "ra": 277.828064,
+    "dec": -4.528225,
+    "frame_index": 130,
+    "brightness": -8.09
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.401681,
+    "ra": 277.794843,
+    "dec": -4.725279,
+    "frame_index": 131,
+    "brightness": -7.8
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.435294,
+    "ra": 277.74443,
+    "dec": -4.918028,
+    "frame_index": 132,
+    "brightness": -8.01
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.468908,
+    "ra": 277.70031,
+    "dec": -5.099281,
+    "frame_index": 133,
+    "brightness": -7.99
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.502521,
+    "ra": 277.646935,
+    "dec": -5.301059,
+    "frame_index": 134,
+    "brightness": -7.59
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.536134,
+    "ra": 277.606313,
+    "dec": -5.481473,
+    "frame_index": 135,
+    "brightness": -7.84
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.569748,
+    "ra": 277.553452,
+    "dec": -5.668507,
+    "frame_index": 136,
+    "brightness": -7.58
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.603361,
+    "ra": 277.510679,
+    "dec": -5.857362,
+    "frame_index": 137,
+    "brightness": -7.87
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.636975,
+    "ra": 277.460252,
+    "dec": -6.046209,
+    "frame_index": 138,
+    "brightness": -7.61
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.670588,
+    "ra": 277.412429,
+    "dec": -6.224504,
+    "frame_index": 139,
+    "brightness": -7.58
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.704202,
+    "ra": 277.368788,
+    "dec": -6.414855,
+    "frame_index": 140,
+    "brightness": -7.67
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.737815,
+    "ra": 277.328903,
+    "dec": -6.591736,
+    "frame_index": 141,
+    "brightness": -7.51
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.771429,
+    "ra": 277.277004,
+    "dec": -6.773598,
+    "frame_index": 142,
+    "brightness": -7.34
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.805042,
+    "ra": 277.227193,
+    "dec": -6.956989,
+    "frame_index": 143,
+    "brightness": -7.48
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.838655,
+    "ra": 277.1872,
+    "dec": -7.123648,
+    "frame_index": 144,
+    "brightness": -7.26
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.872269,
+    "ra": 277.140557,
+    "dec": -7.309359,
+    "frame_index": 145,
+    "brightness": -7.33
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.905882,
+    "ra": 277.102198,
+    "dec": -7.478156,
+    "frame_index": 146,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.939496,
+    "ra": 277.056483,
+    "dec": -7.661977,
+    "frame_index": 147,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073487.973109,
+    "ra": 277.010894,
+    "dec": -7.82286,
+    "frame_index": 148,
+    "brightness": -7.2
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.006723,
+    "ra": 276.968643,
+    "dec": -7.989919,
+    "frame_index": 149,
+    "brightness": -7.42
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.040336,
+    "ra": 276.920727,
+    "dec": -8.170081,
+    "frame_index": 150,
+    "brightness": -7.36
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.07395,
+    "ra": 276.888988,
+    "dec": -8.332662,
+    "frame_index": 151,
+    "brightness": -7.39
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.107563,
+    "ra": 276.843548,
+    "dec": -8.504378,
+    "frame_index": 152,
+    "brightness": -7.41
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.141176,
+    "ra": 276.796013,
+    "dec": -8.676007,
+    "frame_index": 153,
+    "brightness": -7.23
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.17479,
+    "ra": 276.753806,
+    "dec": -8.83637,
+    "frame_index": 154,
+    "brightness": -7.13
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.208403,
+    "ra": 276.723471,
+    "dec": -9.004623,
+    "frame_index": 155,
+    "brightness": -6.99
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.242017,
+    "ra": 276.678522,
+    "dec": -9.160092,
+    "frame_index": 156,
+    "brightness": -7.15
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.27563,
+    "ra": 276.638508,
+    "dec": -9.321081,
+    "frame_index": 157,
+    "brightness": -7.07
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.309244,
+    "ra": 276.59614,
+    "dec": -9.488056,
+    "frame_index": 158,
+    "brightness": -6.75
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.342857,
+    "ra": 276.555811,
+    "dec": -9.643574,
+    "frame_index": 159,
+    "brightness": -7.02
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.376471,
+    "ra": 276.503169,
+    "dec": -9.813524,
+    "frame_index": 160,
+    "brightness": -6.75
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.410084,
+    "ra": 276.470544,
+    "dec": -9.959616,
+    "frame_index": 161,
+    "brightness": -7.33
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.443697,
+    "ra": 276.43687,
+    "dec": -10.11834,
+    "frame_index": 162,
+    "brightness": -7.05
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.477311,
+    "ra": 276.389732,
+    "dec": -10.275155,
+    "frame_index": 163,
+    "brightness": -6.95
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.510924,
+    "ra": 276.352933,
+    "dec": -10.42761,
+    "frame_index": 164,
+    "brightness": -7.07
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.544538,
+    "ra": 276.313591,
+    "dec": -10.585396,
+    "frame_index": 165,
+    "brightness": -7.04
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.578151,
+    "ra": 276.277521,
+    "dec": -10.729762,
+    "frame_index": 166,
+    "brightness": -7.05
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.611765,
+    "ra": 276.240721,
+    "dec": -10.883761,
+    "frame_index": 167,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.645378,
+    "ra": 276.201413,
+    "dec": -11.039167,
+    "frame_index": 168,
+    "brightness": -7.05
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.678992,
+    "ra": 276.160001,
+    "dec": -11.186107,
+    "frame_index": 169,
+    "brightness": -6.86
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.712605,
+    "ra": 276.126246,
+    "dec": -11.328018,
+    "frame_index": 170,
+    "brightness": -7.03
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.746218,
+    "ra": 276.084579,
+    "dec": -11.481666,
+    "frame_index": 171,
+    "brightness": -6.73
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.779832,
+    "ra": 276.056347,
+    "dec": -11.624517,
+    "frame_index": 172,
+    "brightness": -7.11
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.813445,
+    "ra": 276.017093,
+    "dec": -11.768821,
+    "frame_index": 173,
+    "brightness": -6.84
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.847059,
+    "ra": 275.971254,
+    "dec": -11.909442,
+    "frame_index": 174,
+    "brightness": -6.65
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.880672,
+    "ra": 275.943725,
+    "dec": -12.059203,
+    "frame_index": 175,
+    "brightness": -6.74
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.914286,
+    "ra": 275.903385,
+    "dec": -12.201674,
+    "frame_index": 176,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.947899,
+    "ra": 275.860607,
+    "dec": -12.337384,
+    "frame_index": 177,
+    "brightness": -7.02
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073488.981513,
+    "ra": 275.824909,
+    "dec": -12.477434,
+    "frame_index": 178,
+    "brightness": -6.77
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.015126,
+    "ra": 275.793127,
+    "dec": -12.622497,
+    "frame_index": 179,
+    "brightness": -6.72
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.04874,
+    "ra": 275.76098,
+    "dec": -12.758361,
+    "frame_index": 180,
+    "brightness": -7.04
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.082353,
+    "ra": 275.720839,
+    "dec": -12.892596,
+    "frame_index": 181,
+    "brightness": -6.86
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.115967,
+    "ra": 275.687815,
+    "dec": -13.025807,
+    "frame_index": 182,
+    "brightness": -6.92
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.14958,
+    "ra": 275.645758,
+    "dec": -13.166491,
+    "frame_index": 183,
+    "brightness": -6.78
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.183193,
+    "ra": 275.619732,
+    "dec": -13.30138,
+    "frame_index": 184,
+    "brightness": -6.79
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.216807,
+    "ra": 275.588179,
+    "dec": -13.438141,
+    "frame_index": 185,
+    "brightness": -7.02
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.25042,
+    "ra": 275.552494,
+    "dec": -13.565039,
+    "frame_index": 186,
+    "brightness": -7.05
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.284034,
+    "ra": 275.508842,
+    "dec": -13.705433,
+    "frame_index": 187,
+    "brightness": -6.7
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.317647,
+    "ra": 275.482818,
+    "dec": -13.831782,
+    "frame_index": 188,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.351261,
+    "ra": 275.444631,
+    "dec": -13.959737,
+    "frame_index": 189,
+    "brightness": -7.12
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.384874,
+    "ra": 275.413106,
+    "dec": -14.08642,
+    "frame_index": 190,
+    "brightness": -6.94
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.418488,
+    "ra": 275.379139,
+    "dec": -14.215375,
+    "frame_index": 191,
+    "brightness": -7.0
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.452101,
+    "ra": 275.351312,
+    "dec": -14.348935,
+    "frame_index": 192,
+    "brightness": -6.96
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.485714,
+    "ra": 275.311257,
+    "dec": -14.46449,
+    "frame_index": 193,
+    "brightness": -6.9
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.519328,
+    "ra": 275.27454,
+    "dec": -14.600267,
+    "frame_index": 194,
+    "brightness": -6.86
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.552941,
+    "ra": 275.241641,
+    "dec": -14.720551,
+    "frame_index": 195,
+    "brightness": -6.72
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.586555,
+    "ra": 275.209054,
+    "dec": -14.846378,
+    "frame_index": 196,
+    "brightness": -6.79
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.620168,
+    "ra": 275.180237,
+    "dec": -14.969745,
+    "frame_index": 197,
+    "brightness": -6.74
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.653782,
+    "ra": 275.15498,
+    "dec": -15.093745,
+    "frame_index": 198,
+    "brightness": -6.78
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.687395,
+    "ra": 275.106831,
+    "dec": -15.209985,
+    "frame_index": 199,
+    "brightness": -6.93
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.721009,
+    "ra": 275.080965,
+    "dec": -15.33601,
+    "frame_index": 200,
+    "brightness": -6.82
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.754622,
+    "ra": 275.042304,
+    "dec": -15.458835,
+    "frame_index": 201,
+    "brightness": -6.87
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.788235,
+    "ra": 275.010939,
+    "dec": -15.58232,
+    "frame_index": 202,
+    "brightness": -6.85
+  },
+  {
+    "station_id": "Oslo-B",
+    "timestamp": 1711073489.821849,
+    "ra": 274.97804,
+    "dec": -15.690427,
+    "frame_index": 203,
+    "brightness": -7.0
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073483.537855,
+    "ra": 324.626885,
+    "dec": 50.985204,
+    "frame_index": 16,
+    "brightness": -8.07
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073483.571468,
+    "ra": 324.264136,
+    "dec": 50.691515,
+    "frame_index": 17,
+    "brightness": -8.13
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073483.605082,
+    "ra": 323.885319,
+    "dec": 50.402985,
+    "frame_index": 18,
+    "brightness": -8.13
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073483.638695,
+    "ra": 323.52298,
+    "dec": 50.114457,
+    "frame_index": 19,
+    "brightness": -8.02
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073483.672309,
+    "ra": 323.16397,
+    "dec": 49.808346,
+    "frame_index": 20,
+    "brightness": -7.99
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073483.705922,
+    "ra": 322.802661,
+    "dec": 49.521651,
+    "frame_index": 21,
+    "brightness": -8.07
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073483.739536,
+    "ra": 322.435322,
+    "dec": 49.214874,
+    "frame_index": 22,
+    "brightness": -8.41
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073483.773149,
+    "ra": 322.085303,
+    "dec": 48.914892,
+    "frame_index": 23,
+    "brightness": -8.3
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073483.806762,
+    "ra": 321.727703,
+    "dec": 48.621655,
+    "frame_index": 24,
+    "brightness": -8.41
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073483.840376,
+    "ra": 321.380417,
+    "dec": 48.31726,
+    "frame_index": 25,
+    "brightness": -8.36
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073483.873989,
+    "ra": 321.028651,
+    "dec": 47.99783,
+    "frame_index": 26,
+    "brightness": -8.67
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073483.907603,
+    "ra": 320.686779,
+    "dec": 47.690896,
+    "frame_index": 27,
+    "brightness": -8.74
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073483.941216,
+    "ra": 320.351752,
+    "dec": 47.366339,
+    "frame_index": 28,
+    "brightness": -8.79
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073483.97483,
+    "ra": 320.008096,
+    "dec": 47.059971,
+    "frame_index": 29,
+    "brightness": -8.8
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.008443,
+    "ra": 319.670113,
+    "dec": 46.739627,
+    "frame_index": 30,
+    "brightness": -9.27
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.042057,
+    "ra": 319.326613,
+    "dec": 46.430402,
+    "frame_index": 31,
+    "brightness": -8.78
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.07567,
+    "ra": 319.000655,
+    "dec": 46.100336,
+    "frame_index": 32,
+    "brightness": -8.98
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.109283,
+    "ra": 318.670731,
+    "dec": 45.777291,
+    "frame_index": 33,
+    "brightness": -9.09
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.142897,
+    "ra": 318.340404,
+    "dec": 45.44405,
+    "frame_index": 34,
+    "brightness": -9.17
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.17651,
+    "ra": 318.02954,
+    "dec": 45.113656,
+    "frame_index": 35,
+    "brightness": -9.06
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.210124,
+    "ra": 317.69492,
+    "dec": 44.785104,
+    "frame_index": 36,
+    "brightness": -9.26
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.243737,
+    "ra": 317.382979,
+    "dec": 44.455084,
+    "frame_index": 37,
+    "brightness": -9.41
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.277351,
+    "ra": 317.062012,
+    "dec": 44.117562,
+    "frame_index": 38,
+    "brightness": -9.22
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.310964,
+    "ra": 316.747209,
+    "dec": 43.780534,
+    "frame_index": 39,
+    "brightness": -9.31
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.344578,
+    "ra": 316.435364,
+    "dec": 43.444367,
+    "frame_index": 40,
+    "brightness": -9.19
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.378191,
+    "ra": 316.131637,
+    "dec": 43.099326,
+    "frame_index": 41,
+    "brightness": -9.47
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.411804,
+    "ra": 315.82394,
+    "dec": 42.753378,
+    "frame_index": 42,
+    "brightness": -9.26
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.445418,
+    "ra": 315.516384,
+    "dec": 42.408305,
+    "frame_index": 43,
+    "brightness": -9.62
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.479031,
+    "ra": 315.210951,
+    "dec": 42.062565,
+    "frame_index": 44,
+    "brightness": -9.94
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.512645,
+    "ra": 314.916363,
+    "dec": 41.717871,
+    "frame_index": 45,
+    "brightness": -9.93
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.546258,
+    "ra": 314.615789,
+    "dec": 41.361933,
+    "frame_index": 46,
+    "brightness": -10.0
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.579872,
+    "ra": 314.325038,
+    "dec": 41.017918,
+    "frame_index": 47,
+    "brightness": -9.87
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.613485,
+    "ra": 314.028784,
+    "dec": 40.667035,
+    "frame_index": 48,
+    "brightness": -9.98
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.647099,
+    "ra": 313.740446,
+    "dec": 40.308863,
+    "frame_index": 49,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.680712,
+    "ra": 313.454329,
+    "dec": 39.95107,
+    "frame_index": 50,
+    "brightness": -10.1
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.714325,
+    "ra": 313.168119,
+    "dec": 39.597574,
+    "frame_index": 51,
+    "brightness": -10.21
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.747939,
+    "ra": 312.892398,
+    "dec": 39.242972,
+    "frame_index": 52,
+    "brightness": -10.11
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.781552,
+    "ra": 312.606241,
+    "dec": 38.878344,
+    "frame_index": 53,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.815166,
+    "ra": 312.328845,
+    "dec": 38.514581,
+    "frame_index": 54,
+    "brightness": -10.36
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.848779,
+    "ra": 312.057972,
+    "dec": 38.149914,
+    "frame_index": 55,
+    "brightness": -10.22
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.882393,
+    "ra": 311.785169,
+    "dec": 37.781569,
+    "frame_index": 56,
+    "brightness": -10.39
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.916006,
+    "ra": 311.509983,
+    "dec": 37.424254,
+    "frame_index": 57,
+    "brightness": -10.3
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.94962,
+    "ra": 311.225299,
+    "dec": 37.049153,
+    "frame_index": 58,
+    "brightness": -10.44
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073484.983233,
+    "ra": 310.965886,
+    "dec": 36.684899,
+    "frame_index": 59,
+    "brightness": -10.76
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.016847,
+    "ra": 310.717044,
+    "dec": 36.322995,
+    "frame_index": 60,
+    "brightness": -10.64
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.05046,
+    "ra": 310.45354,
+    "dec": 35.947079,
+    "frame_index": 61,
+    "brightness": -10.44
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.084074,
+    "ra": 310.194205,
+    "dec": 35.571983,
+    "frame_index": 62,
+    "brightness": -10.75
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.117687,
+    "ra": 309.941535,
+    "dec": 35.209099,
+    "frame_index": 63,
+    "brightness": -10.72
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.1513,
+    "ra": 309.671754,
+    "dec": 34.829801,
+    "frame_index": 64,
+    "brightness": -10.65
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.184914,
+    "ra": 309.426471,
+    "dec": 34.458714,
+    "frame_index": 65,
+    "brightness": -10.88
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.218527,
+    "ra": 309.171199,
+    "dec": 34.086833,
+    "frame_index": 66,
+    "brightness": -10.96
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.252141,
+    "ra": 308.924179,
+    "dec": 33.716413,
+    "frame_index": 67,
+    "brightness": -10.83
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.285754,
+    "ra": 308.675205,
+    "dec": 33.336565,
+    "frame_index": 68,
+    "brightness": -11.15
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.319368,
+    "ra": 308.437464,
+    "dec": 32.963956,
+    "frame_index": 69,
+    "brightness": -10.77
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.352981,
+    "ra": 308.192196,
+    "dec": 32.583881,
+    "frame_index": 70,
+    "brightness": -10.74
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.386595,
+    "ra": 307.948497,
+    "dec": 32.213005,
+    "frame_index": 71,
+    "brightness": -10.93
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.420208,
+    "ra": 307.713808,
+    "dec": 31.830751,
+    "frame_index": 72,
+    "brightness": -10.86
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.453821,
+    "ra": 307.484631,
+    "dec": 31.468563,
+    "frame_index": 73,
+    "brightness": -10.88
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.487435,
+    "ra": 307.247256,
+    "dec": 31.071497,
+    "frame_index": 74,
+    "brightness": -11.07
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.521048,
+    "ra": 307.008572,
+    "dec": 30.702786,
+    "frame_index": 75,
+    "brightness": -10.94
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.554662,
+    "ra": 306.778422,
+    "dec": 30.323206,
+    "frame_index": 76,
+    "brightness": -10.77
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.588275,
+    "ra": 306.549523,
+    "dec": 29.946975,
+    "frame_index": 77,
+    "brightness": -11.03
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.621889,
+    "ra": 306.321412,
+    "dec": 29.57256,
+    "frame_index": 78,
+    "brightness": -10.99
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.655502,
+    "ra": 306.09961,
+    "dec": 29.185514,
+    "frame_index": 79,
+    "brightness": -10.86
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.689116,
+    "ra": 305.870191,
+    "dec": 28.806785,
+    "frame_index": 80,
+    "brightness": -10.87
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.722729,
+    "ra": 305.657675,
+    "dec": 28.434659,
+    "frame_index": 81,
+    "brightness": -10.75
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.756342,
+    "ra": 305.43254,
+    "dec": 28.060703,
+    "frame_index": 82,
+    "brightness": -10.73
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.789956,
+    "ra": 305.21401,
+    "dec": 27.668969,
+    "frame_index": 83,
+    "brightness": -10.88
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.823569,
+    "ra": 305.000316,
+    "dec": 27.293961,
+    "frame_index": 84,
+    "brightness": -10.66
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.857183,
+    "ra": 304.78868,
+    "dec": 26.93142,
+    "frame_index": 85,
+    "brightness": -10.69
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.890796,
+    "ra": 304.578759,
+    "dec": 26.555879,
+    "frame_index": 86,
+    "brightness": -10.44
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.92441,
+    "ra": 304.374509,
+    "dec": 26.168961,
+    "frame_index": 87,
+    "brightness": -10.56
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.958023,
+    "ra": 304.158547,
+    "dec": 25.800987,
+    "frame_index": 88,
+    "brightness": -10.78
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073485.991637,
+    "ra": 303.951639,
+    "dec": 25.414589,
+    "frame_index": 89,
+    "brightness": -10.41
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.02525,
+    "ra": 303.748085,
+    "dec": 25.051415,
+    "frame_index": 90,
+    "brightness": -10.42
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.058863,
+    "ra": 303.548766,
+    "dec": 24.670638,
+    "frame_index": 91,
+    "brightness": -10.6
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.092477,
+    "ra": 303.349266,
+    "dec": 24.304403,
+    "frame_index": 92,
+    "brightness": -10.84
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.12609,
+    "ra": 303.146473,
+    "dec": 23.936305,
+    "frame_index": 93,
+    "brightness": -10.1
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.159704,
+    "ra": 302.94213,
+    "dec": 23.557416,
+    "frame_index": 94,
+    "brightness": -9.96
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.193317,
+    "ra": 302.753574,
+    "dec": 23.180821,
+    "frame_index": 95,
+    "brightness": -9.95
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.226931,
+    "ra": 302.559258,
+    "dec": 22.803977,
+    "frame_index": 96,
+    "brightness": -10.04
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.260544,
+    "ra": 302.362264,
+    "dec": 22.441634,
+    "frame_index": 97,
+    "brightness": -9.85
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.294158,
+    "ra": 302.173742,
+    "dec": 22.070408,
+    "frame_index": 98,
+    "brightness": -10.11
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.327771,
+    "ra": 301.975989,
+    "dec": 21.698445,
+    "frame_index": 99,
+    "brightness": -9.69
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.361384,
+    "ra": 301.78694,
+    "dec": 21.332998,
+    "frame_index": 100,
+    "brightness": -10.0
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.394998,
+    "ra": 301.604447,
+    "dec": 20.969158,
+    "frame_index": 101,
+    "brightness": -9.91
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.428611,
+    "ra": 301.405832,
+    "dec": 20.6039,
+    "frame_index": 102,
+    "brightness": -9.59
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.462225,
+    "ra": 301.236014,
+    "dec": 20.237795,
+    "frame_index": 103,
+    "brightness": -9.56
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.495838,
+    "ra": 301.046054,
+    "dec": 19.871552,
+    "frame_index": 104,
+    "brightness": -9.6
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.529452,
+    "ra": 300.866081,
+    "dec": 19.519081,
+    "frame_index": 105,
+    "brightness": -9.53
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.563065,
+    "ra": 300.691505,
+    "dec": 19.149746,
+    "frame_index": 106,
+    "brightness": -9.4
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.596678,
+    "ra": 300.514821,
+    "dec": 18.790761,
+    "frame_index": 107,
+    "brightness": -9.43
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.630292,
+    "ra": 300.323253,
+    "dec": 18.436717,
+    "frame_index": 108,
+    "brightness": -9.4
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.663905,
+    "ra": 300.159733,
+    "dec": 18.08551,
+    "frame_index": 109,
+    "brightness": -9.64
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.697519,
+    "ra": 299.986615,
+    "dec": 17.72499,
+    "frame_index": 110,
+    "brightness": -9.35
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.731132,
+    "ra": 299.807236,
+    "dec": 17.363206,
+    "frame_index": 111,
+    "brightness": -8.94
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.764746,
+    "ra": 299.640389,
+    "dec": 17.01642,
+    "frame_index": 112,
+    "brightness": -9.18
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.798359,
+    "ra": 299.468434,
+    "dec": 16.660644,
+    "frame_index": 113,
+    "brightness": -9.13
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.831973,
+    "ra": 299.303988,
+    "dec": 16.31865,
+    "frame_index": 114,
+    "brightness": -9.07
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.865586,
+    "ra": 299.141332,
+    "dec": 15.970927,
+    "frame_index": 115,
+    "brightness": -8.94
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.899199,
+    "ra": 298.966578,
+    "dec": 15.622747,
+    "frame_index": 116,
+    "brightness": -8.86
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.932813,
+    "ra": 298.812243,
+    "dec": 15.27155,
+    "frame_index": 117,
+    "brightness": -8.91
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073486.966426,
+    "ra": 298.650644,
+    "dec": 14.935048,
+    "frame_index": 118,
+    "brightness": -8.59
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.00004,
+    "ra": 298.483047,
+    "dec": 14.586469,
+    "frame_index": 119,
+    "brightness": -8.59
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.033653,
+    "ra": 298.316596,
+    "dec": 14.236264,
+    "frame_index": 120,
+    "brightness": -8.54
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.067267,
+    "ra": 298.167604,
+    "dec": 13.901269,
+    "frame_index": 121,
+    "brightness": -8.48
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.10088,
+    "ra": 298.009641,
+    "dec": 13.556945,
+    "frame_index": 122,
+    "brightness": -8.21
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.134494,
+    "ra": 297.847316,
+    "dec": 13.229208,
+    "frame_index": 123,
+    "brightness": -8.55
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.168107,
+    "ra": 297.694062,
+    "dec": 12.893846,
+    "frame_index": 124,
+    "brightness": -8.26
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.20172,
+    "ra": 297.54461,
+    "dec": 12.557377,
+    "frame_index": 125,
+    "brightness": -8.12
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.235334,
+    "ra": 297.394378,
+    "dec": 12.217286,
+    "frame_index": 126,
+    "brightness": -8.16
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.268947,
+    "ra": 297.243134,
+    "dec": 11.890711,
+    "frame_index": 127,
+    "brightness": -8.07
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.302561,
+    "ra": 297.089357,
+    "dec": 11.580308,
+    "frame_index": 128,
+    "brightness": -8.13
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.336174,
+    "ra": 296.93171,
+    "dec": 11.249003,
+    "frame_index": 129,
+    "brightness": -7.74
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.369788,
+    "ra": 296.78527,
+    "dec": 10.914161,
+    "frame_index": 130,
+    "brightness": -8.09
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.403401,
+    "ra": 296.643281,
+    "dec": 10.592158,
+    "frame_index": 131,
+    "brightness": -7.8
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.437015,
+    "ra": 296.500228,
+    "dec": 10.276566,
+    "frame_index": 132,
+    "brightness": -8.01
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.470628,
+    "ra": 296.355628,
+    "dec": 9.96055,
+    "frame_index": 133,
+    "brightness": -7.99
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.504241,
+    "ra": 296.203097,
+    "dec": 9.641041,
+    "frame_index": 134,
+    "brightness": -7.59
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.537855,
+    "ra": 296.063663,
+    "dec": 9.314817,
+    "frame_index": 135,
+    "brightness": -7.84
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.571468,
+    "ra": 295.92372,
+    "dec": 9.007797,
+    "frame_index": 136,
+    "brightness": -7.58
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.605082,
+    "ra": 295.786203,
+    "dec": 8.685474,
+    "frame_index": 137,
+    "brightness": -7.87
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.638695,
+    "ra": 295.643046,
+    "dec": 8.381997,
+    "frame_index": 138,
+    "brightness": -7.61
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.672309,
+    "ra": 295.512628,
+    "dec": 8.077133,
+    "frame_index": 139,
+    "brightness": -7.58
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.705922,
+    "ra": 295.368978,
+    "dec": 7.764635,
+    "frame_index": 140,
+    "brightness": -7.67
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.739536,
+    "ra": 295.227218,
+    "dec": 7.462531,
+    "frame_index": 141,
+    "brightness": -7.51
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.773149,
+    "ra": 295.101819,
+    "dec": 7.162691,
+    "frame_index": 142,
+    "brightness": -7.34
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.806762,
+    "ra": 294.969982,
+    "dec": 6.854979,
+    "frame_index": 143,
+    "brightness": -7.48
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.840376,
+    "ra": 294.833213,
+    "dec": 6.553694,
+    "frame_index": 144,
+    "brightness": -7.26
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.873989,
+    "ra": 294.700403,
+    "dec": 6.254036,
+    "frame_index": 145,
+    "brightness": -7.33
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.907603,
+    "ra": 294.557939,
+    "dec": 5.960555,
+    "frame_index": 146,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.941216,
+    "ra": 294.433243,
+    "dec": 5.669833,
+    "frame_index": 147,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073487.97483,
+    "ra": 294.304149,
+    "dec": 5.376255,
+    "frame_index": 148,
+    "brightness": -7.2
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.008443,
+    "ra": 294.188594,
+    "dec": 5.09148,
+    "frame_index": 149,
+    "brightness": -7.42
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.042057,
+    "ra": 294.046622,
+    "dec": 4.806592,
+    "frame_index": 150,
+    "brightness": -7.36
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.07567,
+    "ra": 293.936802,
+    "dec": 4.508248,
+    "frame_index": 151,
+    "brightness": -7.39
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.109283,
+    "ra": 293.795292,
+    "dec": 4.224838,
+    "frame_index": 152,
+    "brightness": -7.41
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.142897,
+    "ra": 293.673112,
+    "dec": 3.944766,
+    "frame_index": 153,
+    "brightness": -7.23
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.17651,
+    "ra": 293.553564,
+    "dec": 3.672155,
+    "frame_index": 154,
+    "brightness": -7.13
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.210124,
+    "ra": 293.43095,
+    "dec": 3.386349,
+    "frame_index": 155,
+    "brightness": -6.99
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.243737,
+    "ra": 293.300951,
+    "dec": 3.112258,
+    "frame_index": 156,
+    "brightness": -7.15
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.277351,
+    "ra": 293.191093,
+    "dec": 2.830649,
+    "frame_index": 157,
+    "brightness": -7.07
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.310964,
+    "ra": 293.074639,
+    "dec": 2.551461,
+    "frame_index": 158,
+    "brightness": -6.75
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.344578,
+    "ra": 292.952165,
+    "dec": 2.290692,
+    "frame_index": 159,
+    "brightness": -7.02
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.378191,
+    "ra": 292.825011,
+    "dec": 2.024521,
+    "frame_index": 160,
+    "brightness": -6.75
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.411804,
+    "ra": 292.705962,
+    "dec": 1.76126,
+    "frame_index": 161,
+    "brightness": -7.33
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.445418,
+    "ra": 292.598697,
+    "dec": 1.478918,
+    "frame_index": 162,
+    "brightness": -7.05
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.479031,
+    "ra": 292.47439,
+    "dec": 1.228231,
+    "frame_index": 163,
+    "brightness": -6.95
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.512645,
+    "ra": 292.366905,
+    "dec": 0.96193,
+    "frame_index": 164,
+    "brightness": -7.07
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.546258,
+    "ra": 292.25504,
+    "dec": 0.701192,
+    "frame_index": 165,
+    "brightness": -7.04
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.579872,
+    "ra": 292.138803,
+    "dec": 0.446092,
+    "frame_index": 166,
+    "brightness": -7.05
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.613485,
+    "ra": 292.025197,
+    "dec": 0.189335,
+    "frame_index": 167,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.647099,
+    "ra": 291.921277,
+    "dec": -0.07695,
+    "frame_index": 168,
+    "brightness": -7.05
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.680712,
+    "ra": 291.798731,
+    "dec": -0.332533,
+    "frame_index": 169,
+    "brightness": -6.86
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.714325,
+    "ra": 291.697038,
+    "dec": -0.5701,
+    "frame_index": 170,
+    "brightness": -7.03
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.747939,
+    "ra": 291.588845,
+    "dec": -0.822517,
+    "frame_index": 171,
+    "brightness": -6.73
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.781552,
+    "ra": 291.477923,
+    "dec": -1.063069,
+    "frame_index": 172,
+    "brightness": -7.11
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.815166,
+    "ra": 291.359535,
+    "dec": -1.308389,
+    "frame_index": 173,
+    "brightness": -6.84
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.848779,
+    "ra": 291.255692,
+    "dec": -1.561738,
+    "frame_index": 174,
+    "brightness": -6.65
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.882393,
+    "ra": 291.150758,
+    "dec": -1.811865,
+    "frame_index": 175,
+    "brightness": -6.74
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.916006,
+    "ra": 291.041424,
+    "dec": -2.033491,
+    "frame_index": 176,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.94962,
+    "ra": 290.943934,
+    "dec": -2.282977,
+    "frame_index": 177,
+    "brightness": -7.02
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073488.983233,
+    "ra": 290.842252,
+    "dec": -2.514774,
+    "frame_index": 178,
+    "brightness": -6.77
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.016847,
+    "ra": 290.740797,
+    "dec": -2.756047,
+    "frame_index": 179,
+    "brightness": -6.72
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.05046,
+    "ra": 290.628894,
+    "dec": -2.992508,
+    "frame_index": 180,
+    "brightness": -7.04
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.084074,
+    "ra": 290.5393,
+    "dec": -3.218733,
+    "frame_index": 181,
+    "brightness": -6.86
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.117687,
+    "ra": 290.43729,
+    "dec": -3.437436,
+    "frame_index": 182,
+    "brightness": -6.92
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.1513,
+    "ra": 290.328952,
+    "dec": -3.676002,
+    "frame_index": 183,
+    "brightness": -6.78
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.184914,
+    "ra": 290.245237,
+    "dec": -3.903136,
+    "frame_index": 184,
+    "brightness": -6.79
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.218527,
+    "ra": 290.13567,
+    "dec": -4.128449,
+    "frame_index": 185,
+    "brightness": -7.02
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.252141,
+    "ra": 290.033926,
+    "dec": -4.354542,
+    "frame_index": 186,
+    "brightness": -7.05
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.285754,
+    "ra": 289.937684,
+    "dec": -4.57084,
+    "frame_index": 187,
+    "brightness": -6.7
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.319368,
+    "ra": 289.839894,
+    "dec": -4.795399,
+    "frame_index": 188,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.352981,
+    "ra": 289.738413,
+    "dec": -5.018911,
+    "frame_index": 189,
+    "brightness": -7.12
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.386595,
+    "ra": 289.640263,
+    "dec": -5.222861,
+    "frame_index": 190,
+    "brightness": -6.94
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.420208,
+    "ra": 289.557775,
+    "dec": -5.450446,
+    "frame_index": 191,
+    "brightness": -7.0
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.453821,
+    "ra": 289.462986,
+    "dec": -5.665138,
+    "frame_index": 192,
+    "brightness": -6.96
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.487435,
+    "ra": 289.365309,
+    "dec": -5.869593,
+    "frame_index": 193,
+    "brightness": -6.9
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.521048,
+    "ra": 289.26594,
+    "dec": -6.080214,
+    "frame_index": 194,
+    "brightness": -6.86
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.554662,
+    "ra": 289.185917,
+    "dec": -6.292975,
+    "frame_index": 195,
+    "brightness": -6.72
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.588275,
+    "ra": 289.084756,
+    "dec": -6.499136,
+    "frame_index": 196,
+    "brightness": -6.79
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.621889,
+    "ra": 288.993268,
+    "dec": -6.711456,
+    "frame_index": 197,
+    "brightness": -6.74
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.655502,
+    "ra": 288.904905,
+    "dec": -6.912779,
+    "frame_index": 198,
+    "brightness": -6.78
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.689116,
+    "ra": 288.814496,
+    "dec": -7.116352,
+    "frame_index": 199,
+    "brightness": -6.93
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.722729,
+    "ra": 288.7205,
+    "dec": -7.304573,
+    "frame_index": 200,
+    "brightness": -6.82
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.756342,
+    "ra": 288.631961,
+    "dec": -7.508531,
+    "frame_index": 201,
+    "brightness": -6.87
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.789956,
+    "ra": 288.548581,
+    "dec": -7.702717,
+    "frame_index": 202,
+    "brightness": -6.85
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.823569,
+    "ra": 288.458615,
+    "dec": -7.907397,
+    "frame_index": 203,
+    "brightness": -7.0
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.857183,
+    "ra": 288.380563,
+    "dec": -8.102532,
+    "frame_index": 204,
+    "brightness": -6.87
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.890796,
+    "ra": 288.291702,
+    "dec": -8.298759,
+    "frame_index": 205,
+    "brightness": -6.85
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.92441,
+    "ra": 288.198476,
+    "dec": -8.486464,
+    "frame_index": 206,
+    "brightness": -6.93
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.958023,
+    "ra": 288.108481,
+    "dec": -8.684351,
+    "frame_index": 207,
+    "brightness": -7.06
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073489.991637,
+    "ra": 288.022291,
+    "dec": -8.870201,
+    "frame_index": 208,
+    "brightness": -7.01
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073490.02525,
+    "ra": 287.937748,
+    "dec": -9.062242,
+    "frame_index": 209,
+    "brightness": -6.85
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073490.058863,
+    "ra": 287.855942,
+    "dec": -9.239493,
+    "frame_index": 210,
+    "brightness": -6.9
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073490.092477,
+    "ra": 287.781714,
+    "dec": -9.431732,
+    "frame_index": 211,
+    "brightness": -7.01
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073490.12609,
+    "ra": 287.688539,
+    "dec": -9.612119,
+    "frame_index": 212,
+    "brightness": -6.91
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073490.159704,
+    "ra": 287.61036,
+    "dec": -9.791392,
+    "frame_index": 213,
+    "brightness": -7.04
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073490.193317,
+    "ra": 287.530364,
+    "dec": -9.972541,
+    "frame_index": 214,
+    "brightness": -6.83
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073490.226931,
+    "ra": 287.445042,
+    "dec": -10.15461,
+    "frame_index": 215,
+    "brightness": -6.9
+  },
+  {
+    "station_id": "Helsinki-C",
+    "timestamp": 1711073490.260544,
+    "ra": 287.364011,
+    "dec": -10.334031,
+    "frame_index": 216,
+    "brightness": -6.88
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073484.45092,
+    "ra": 247.698583,
+    "dec": 24.897909,
+    "frame_index": 43,
+    "brightness": -9.62
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073484.484533,
+    "ra": 247.806489,
+    "dec": 24.377097,
+    "frame_index": 44,
+    "brightness": -9.94
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073484.518147,
+    "ra": 247.907997,
+    "dec": 23.866542,
+    "frame_index": 45,
+    "brightness": -9.93
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073484.55176,
+    "ra": 248.010389,
+    "dec": 23.35323,
+    "frame_index": 46,
+    "brightness": -10.0
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073484.585374,
+    "ra": 248.11269,
+    "dec": 22.838776,
+    "frame_index": 47,
+    "brightness": -9.87
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073484.618987,
+    "ra": 248.220699,
+    "dec": 22.330169,
+    "frame_index": 48,
+    "brightness": -9.98
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073484.652601,
+    "ra": 248.316888,
+    "dec": 21.833945,
+    "frame_index": 49,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073484.686214,
+    "ra": 248.421952,
+    "dec": 21.333413,
+    "frame_index": 50,
+    "brightness": -10.1
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073484.719827,
+    "ra": 248.518114,
+    "dec": 20.83783,
+    "frame_index": 51,
+    "brightness": -10.21
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073484.753441,
+    "ra": 248.623935,
+    "dec": 20.348303,
+    "frame_index": 52,
+    "brightness": -10.11
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073484.787054,
+    "ra": 248.731721,
+    "dec": 19.851491,
+    "frame_index": 53,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073484.820668,
+    "ra": 248.818873,
+    "dec": 19.357232,
+    "frame_index": 54,
+    "brightness": -10.36
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073484.854281,
+    "ra": 248.903427,
+    "dec": 18.8822,
+    "frame_index": 55,
+    "brightness": -10.22
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073484.887895,
+    "ra": 248.994184,
+    "dec": 18.39575,
+    "frame_index": 56,
+    "brightness": -10.39
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073484.921508,
+    "ra": 249.098756,
+    "dec": 17.930568,
+    "frame_index": 57,
+    "brightness": -10.3
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073484.955122,
+    "ra": 249.186183,
+    "dec": 17.454332,
+    "frame_index": 58,
+    "brightness": -10.44
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073484.988735,
+    "ra": 249.275575,
+    "dec": 16.986812,
+    "frame_index": 59,
+    "brightness": -10.76
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.022349,
+    "ra": 249.368766,
+    "dec": 16.512374,
+    "frame_index": 60,
+    "brightness": -10.64
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.055962,
+    "ra": 249.450596,
+    "dec": 16.050472,
+    "frame_index": 61,
+    "brightness": -10.44
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.089576,
+    "ra": 249.539351,
+    "dec": 15.589318,
+    "frame_index": 62,
+    "brightness": -10.75
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.123189,
+    "ra": 249.622961,
+    "dec": 15.133465,
+    "frame_index": 63,
+    "brightness": -10.72
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.156802,
+    "ra": 249.721728,
+    "dec": 14.684603,
+    "frame_index": 64,
+    "brightness": -10.65
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.190416,
+    "ra": 249.794221,
+    "dec": 14.234388,
+    "frame_index": 65,
+    "brightness": -10.88
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.224029,
+    "ra": 249.871624,
+    "dec": 13.784538,
+    "frame_index": 66,
+    "brightness": -10.96
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.257643,
+    "ra": 249.959258,
+    "dec": 13.338618,
+    "frame_index": 67,
+    "brightness": -10.83
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.291256,
+    "ra": 250.033461,
+    "dec": 12.901731,
+    "frame_index": 68,
+    "brightness": -11.15
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.32487,
+    "ra": 250.116908,
+    "dec": 12.472245,
+    "frame_index": 69,
+    "brightness": -10.77
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.358483,
+    "ra": 250.187777,
+    "dec": 12.035442,
+    "frame_index": 70,
+    "brightness": -10.74
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.392097,
+    "ra": 250.269034,
+    "dec": 11.606391,
+    "frame_index": 71,
+    "brightness": -10.93
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.42571,
+    "ra": 250.352311,
+    "dec": 11.189458,
+    "frame_index": 72,
+    "brightness": -10.86
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.459323,
+    "ra": 250.426619,
+    "dec": 10.757948,
+    "frame_index": 73,
+    "brightness": -10.88
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.492937,
+    "ra": 250.507064,
+    "dec": 10.35106,
+    "frame_index": 74,
+    "brightness": -11.07
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.52655,
+    "ra": 250.585279,
+    "dec": 9.93165,
+    "frame_index": 75,
+    "brightness": -10.94
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.560164,
+    "ra": 250.645747,
+    "dec": 9.533511,
+    "frame_index": 76,
+    "brightness": -10.77
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.593777,
+    "ra": 250.723611,
+    "dec": 9.125792,
+    "frame_index": 77,
+    "brightness": -11.03
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.627391,
+    "ra": 250.800385,
+    "dec": 8.709624,
+    "frame_index": 78,
+    "brightness": -10.99
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.661004,
+    "ra": 250.871871,
+    "dec": 8.325385,
+    "frame_index": 79,
+    "brightness": -10.86
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.694618,
+    "ra": 250.940301,
+    "dec": 7.923897,
+    "frame_index": 80,
+    "brightness": -10.87
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.728231,
+    "ra": 251.012823,
+    "dec": 7.531051,
+    "frame_index": 81,
+    "brightness": -10.75
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.761844,
+    "ra": 251.081109,
+    "dec": 7.154192,
+    "frame_index": 82,
+    "brightness": -10.73
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.795458,
+    "ra": 251.136142,
+    "dec": 6.759772,
+    "frame_index": 83,
+    "brightness": -10.88
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.829071,
+    "ra": 251.207628,
+    "dec": 6.384545,
+    "frame_index": 84,
+    "brightness": -10.66
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.862685,
+    "ra": 251.274356,
+    "dec": 6.005687,
+    "frame_index": 85,
+    "brightness": -10.69
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.896298,
+    "ra": 251.34805,
+    "dec": 5.640698,
+    "frame_index": 86,
+    "brightness": -10.44
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.929912,
+    "ra": 251.409568,
+    "dec": 5.264459,
+    "frame_index": 87,
+    "brightness": -10.56
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.963525,
+    "ra": 251.475103,
+    "dec": 4.909222,
+    "frame_index": 88,
+    "brightness": -10.78
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073485.997139,
+    "ra": 251.537261,
+    "dec": 4.539304,
+    "frame_index": 89,
+    "brightness": -10.41
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.030752,
+    "ra": 251.59895,
+    "dec": 4.176655,
+    "frame_index": 90,
+    "brightness": -10.42
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.064365,
+    "ra": 251.674735,
+    "dec": 3.820029,
+    "frame_index": 91,
+    "brightness": -10.6
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.097979,
+    "ra": 251.722989,
+    "dec": 3.46963,
+    "frame_index": 92,
+    "brightness": -10.84
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.131592,
+    "ra": 251.78019,
+    "dec": 3.116097,
+    "frame_index": 93,
+    "brightness": -10.1
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.165206,
+    "ra": 251.843398,
+    "dec": 2.770408,
+    "frame_index": 94,
+    "brightness": -9.96
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.198819,
+    "ra": 251.899703,
+    "dec": 2.424386,
+    "frame_index": 95,
+    "brightness": -9.95
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.232433,
+    "ra": 251.963012,
+    "dec": 2.094998,
+    "frame_index": 96,
+    "brightness": -10.04
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.266046,
+    "ra": 252.017121,
+    "dec": 1.755847,
+    "frame_index": 97,
+    "brightness": -9.85
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.299659,
+    "ra": 252.073974,
+    "dec": 1.421528,
+    "frame_index": 98,
+    "brightness": -10.11
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.333273,
+    "ra": 252.138176,
+    "dec": 1.099509,
+    "frame_index": 99,
+    "brightness": -9.69
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.366886,
+    "ra": 252.183632,
+    "dec": 0.774322,
+    "frame_index": 100,
+    "brightness": -10.0
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.4005,
+    "ra": 252.244985,
+    "dec": 0.440857,
+    "frame_index": 101,
+    "brightness": -9.91
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.434113,
+    "ra": 252.302163,
+    "dec": 0.120049,
+    "frame_index": 102,
+    "brightness": -9.59
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.467727,
+    "ra": 252.363873,
+    "dec": -0.188738,
+    "frame_index": 103,
+    "brightness": -9.56
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.50134,
+    "ra": 252.417986,
+    "dec": -0.50878,
+    "frame_index": 104,
+    "brightness": -9.6
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.534954,
+    "ra": 252.465292,
+    "dec": -0.819078,
+    "frame_index": 105,
+    "brightness": -9.53
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.568567,
+    "ra": 252.519861,
+    "dec": -1.12061,
+    "frame_index": 106,
+    "brightness": -9.4
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.60218,
+    "ra": 252.568346,
+    "dec": -1.429431,
+    "frame_index": 107,
+    "brightness": -9.43
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.635794,
+    "ra": 252.627412,
+    "dec": -1.721669,
+    "frame_index": 108,
+    "brightness": -9.4
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.669407,
+    "ra": 252.679247,
+    "dec": -2.032119,
+    "frame_index": 109,
+    "brightness": -9.64
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.703021,
+    "ra": 252.730416,
+    "dec": -2.319263,
+    "frame_index": 110,
+    "brightness": -9.35
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.736634,
+    "ra": 252.783669,
+    "dec": -2.611138,
+    "frame_index": 111,
+    "brightness": -8.94
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.770248,
+    "ra": 252.824687,
+    "dec": -2.903934,
+    "frame_index": 112,
+    "brightness": -9.18
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.803861,
+    "ra": 252.880184,
+    "dec": -3.19733,
+    "frame_index": 113,
+    "brightness": -9.13
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.837475,
+    "ra": 252.930975,
+    "dec": -3.473569,
+    "frame_index": 114,
+    "brightness": -9.07
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.871088,
+    "ra": 252.976426,
+    "dec": -3.755257,
+    "frame_index": 115,
+    "brightness": -8.94
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.904701,
+    "ra": 253.030619,
+    "dec": -4.035042,
+    "frame_index": 116,
+    "brightness": -8.86
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.938315,
+    "ra": 253.084358,
+    "dec": -4.302429,
+    "frame_index": 117,
+    "brightness": -8.91
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073486.971928,
+    "ra": 253.128813,
+    "dec": -4.575301,
+    "frame_index": 118,
+    "brightness": -8.59
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.005542,
+    "ra": 253.175915,
+    "dec": -4.8511,
+    "frame_index": 119,
+    "brightness": -8.59
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.039155,
+    "ra": 253.219245,
+    "dec": -5.117746,
+    "frame_index": 120,
+    "brightness": -8.54
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.072769,
+    "ra": 253.263824,
+    "dec": -5.378878,
+    "frame_index": 121,
+    "brightness": -8.48
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.106382,
+    "ra": 253.30823,
+    "dec": -5.646862,
+    "frame_index": 122,
+    "brightness": -8.21
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.139996,
+    "ra": 253.351295,
+    "dec": -5.900414,
+    "frame_index": 123,
+    "brightness": -8.55
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.173609,
+    "ra": 253.397936,
+    "dec": -6.161515,
+    "frame_index": 124,
+    "brightness": -8.26
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.207222,
+    "ra": 253.446044,
+    "dec": -6.408585,
+    "frame_index": 125,
+    "brightness": -8.12
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.240836,
+    "ra": 253.49955,
+    "dec": -6.664138,
+    "frame_index": 126,
+    "brightness": -8.16
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.274449,
+    "ra": 253.538905,
+    "dec": -6.915599,
+    "frame_index": 127,
+    "brightness": -8.07
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.308063,
+    "ra": 253.575881,
+    "dec": -7.163097,
+    "frame_index": 128,
+    "brightness": -8.13
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.341676,
+    "ra": 253.623666,
+    "dec": -7.404599,
+    "frame_index": 129,
+    "brightness": -7.74
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.37529,
+    "ra": 253.675737,
+    "dec": -7.639432,
+    "frame_index": 130,
+    "brightness": -8.09
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.408903,
+    "ra": 253.70628,
+    "dec": -7.883724,
+    "frame_index": 131,
+    "brightness": -7.8
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.442517,
+    "ra": 253.761434,
+    "dec": -8.121147,
+    "frame_index": 132,
+    "brightness": -8.01
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.47613,
+    "ra": 253.797508,
+    "dec": -8.35529,
+    "frame_index": 133,
+    "brightness": -7.99
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.509743,
+    "ra": 253.832816,
+    "dec": -8.59167,
+    "frame_index": 134,
+    "brightness": -7.59
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.543357,
+    "ra": 253.875912,
+    "dec": -8.819441,
+    "frame_index": 135,
+    "brightness": -7.84
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.57697,
+    "ra": 253.913367,
+    "dec": -9.050457,
+    "frame_index": 136,
+    "brightness": -7.58
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.610584,
+    "ra": 253.954329,
+    "dec": -9.273088,
+    "frame_index": 137,
+    "brightness": -7.87
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.644197,
+    "ra": 253.996581,
+    "dec": -9.498083,
+    "frame_index": 138,
+    "brightness": -7.61
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.677811,
+    "ra": 254.03228,
+    "dec": -9.719017,
+    "frame_index": 139,
+    "brightness": -7.58
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.711424,
+    "ra": 254.075832,
+    "dec": -9.937039,
+    "frame_index": 140,
+    "brightness": -7.67
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.745038,
+    "ra": 254.108362,
+    "dec": -10.15992,
+    "frame_index": 141,
+    "brightness": -7.51
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.778651,
+    "ra": 254.148507,
+    "dec": -10.363854,
+    "frame_index": 142,
+    "brightness": -7.34
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.812264,
+    "ra": 254.195009,
+    "dec": -10.577845,
+    "frame_index": 143,
+    "brightness": -7.48
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.845878,
+    "ra": 254.230343,
+    "dec": -10.791976,
+    "frame_index": 144,
+    "brightness": -7.26
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.879491,
+    "ra": 254.272513,
+    "dec": -10.997235,
+    "frame_index": 145,
+    "brightness": -7.33
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.913105,
+    "ra": 254.302964,
+    "dec": -11.214497,
+    "frame_index": 146,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.946718,
+    "ra": 254.345528,
+    "dec": -11.407989,
+    "frame_index": 147,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073487.980332,
+    "ra": 254.374098,
+    "dec": -11.614484,
+    "frame_index": 148,
+    "brightness": -7.2
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.013945,
+    "ra": 254.417359,
+    "dec": -11.808764,
+    "frame_index": 149,
+    "brightness": -7.42
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.047559,
+    "ra": 254.452331,
+    "dec": -12.012788,
+    "frame_index": 150,
+    "brightness": -7.36
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.081172,
+    "ra": 254.4844,
+    "dec": -12.216066,
+    "frame_index": 151,
+    "brightness": -7.39
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.114785,
+    "ra": 254.528923,
+    "dec": -12.411536,
+    "frame_index": 152,
+    "brightness": -7.41
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.148399,
+    "ra": 254.549026,
+    "dec": -12.597487,
+    "frame_index": 153,
+    "brightness": -7.23
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.182012,
+    "ra": 254.587979,
+    "dec": -12.784944,
+    "frame_index": 154,
+    "brightness": -7.13
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.215626,
+    "ra": 254.624362,
+    "dec": -12.978891,
+    "frame_index": 155,
+    "brightness": -6.99
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.249239,
+    "ra": 254.66202,
+    "dec": -13.174245,
+    "frame_index": 156,
+    "brightness": -7.15
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.282853,
+    "ra": 254.696286,
+    "dec": -13.358799,
+    "frame_index": 157,
+    "brightness": -7.07
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.316466,
+    "ra": 254.730446,
+    "dec": -13.548437,
+    "frame_index": 158,
+    "brightness": -6.75
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.35008,
+    "ra": 254.7672,
+    "dec": -13.733587,
+    "frame_index": 159,
+    "brightness": -7.02
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.383693,
+    "ra": 254.787041,
+    "dec": -13.905097,
+    "frame_index": 160,
+    "brightness": -6.75
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.417306,
+    "ra": 254.831741,
+    "dec": -14.081053,
+    "frame_index": 161,
+    "brightness": -7.33
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.45092,
+    "ra": 254.858966,
+    "dec": -14.260977,
+    "frame_index": 162,
+    "brightness": -7.05
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.484533,
+    "ra": 254.901018,
+    "dec": -14.442384,
+    "frame_index": 163,
+    "brightness": -6.95
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.518147,
+    "ra": 254.938189,
+    "dec": -14.618908,
+    "frame_index": 164,
+    "brightness": -7.07
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.55176,
+    "ra": 254.964772,
+    "dec": -14.779947,
+    "frame_index": 165,
+    "brightness": -7.04
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.585374,
+    "ra": 255.003465,
+    "dec": -14.949976,
+    "frame_index": 166,
+    "brightness": -7.05
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.618987,
+    "ra": 255.022462,
+    "dec": -15.126067,
+    "frame_index": 167,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.652601,
+    "ra": 255.060432,
+    "dec": -15.29001,
+    "frame_index": 168,
+    "brightness": -7.05
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.686214,
+    "ra": 255.090735,
+    "dec": -15.454909,
+    "frame_index": 169,
+    "brightness": -6.86
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.719827,
+    "ra": 255.123769,
+    "dec": -15.6221,
+    "frame_index": 170,
+    "brightness": -7.03
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.753441,
+    "ra": 255.14701,
+    "dec": -15.789303,
+    "frame_index": 171,
+    "brightness": -6.73
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.787054,
+    "ra": 255.182599,
+    "dec": -15.94783,
+    "frame_index": 172,
+    "brightness": -7.11
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.820668,
+    "ra": 255.203406,
+    "dec": -16.112026,
+    "frame_index": 173,
+    "brightness": -6.84
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.854281,
+    "ra": 255.238605,
+    "dec": -16.276762,
+    "frame_index": 174,
+    "brightness": -6.65
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.887895,
+    "ra": 255.268524,
+    "dec": -16.422276,
+    "frame_index": 175,
+    "brightness": -6.74
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.921508,
+    "ra": 255.301658,
+    "dec": -16.586035,
+    "frame_index": 176,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.955122,
+    "ra": 255.324094,
+    "dec": -16.742543,
+    "frame_index": 177,
+    "brightness": -7.02
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073488.988735,
+    "ra": 255.357087,
+    "dec": -16.894802,
+    "frame_index": 178,
+    "brightness": -6.77
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.022349,
+    "ra": 255.391688,
+    "dec": -17.045744,
+    "frame_index": 179,
+    "brightness": -6.72
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.055962,
+    "ra": 255.416596,
+    "dec": -17.191618,
+    "frame_index": 180,
+    "brightness": -7.04
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.089576,
+    "ra": 255.440831,
+    "dec": -17.336244,
+    "frame_index": 181,
+    "brightness": -6.86
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.123189,
+    "ra": 255.473772,
+    "dec": -17.49606,
+    "frame_index": 182,
+    "brightness": -6.92
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.156802,
+    "ra": 255.50111,
+    "dec": -17.631861,
+    "frame_index": 183,
+    "brightness": -6.78
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.190416,
+    "ra": 255.526395,
+    "dec": -17.789181,
+    "frame_index": 184,
+    "brightness": -6.79
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.224029,
+    "ra": 255.554643,
+    "dec": -17.928593,
+    "frame_index": 185,
+    "brightness": -7.02
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.257643,
+    "ra": 255.581948,
+    "dec": -18.06588,
+    "frame_index": 186,
+    "brightness": -7.05
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.291256,
+    "ra": 255.614766,
+    "dec": -18.218048,
+    "frame_index": 187,
+    "brightness": -6.7
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.32487,
+    "ra": 255.642795,
+    "dec": -18.344439,
+    "frame_index": 188,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.358483,
+    "ra": 255.67297,
+    "dec": -18.494241,
+    "frame_index": 189,
+    "brightness": -7.12
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.392097,
+    "ra": 255.685754,
+    "dec": -18.631339,
+    "frame_index": 190,
+    "brightness": -6.94
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.42571,
+    "ra": 255.716219,
+    "dec": -18.760194,
+    "frame_index": 191,
+    "brightness": -7.0
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.459323,
+    "ra": 255.749877,
+    "dec": -18.892661,
+    "frame_index": 192,
+    "brightness": -6.96
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.492937,
+    "ra": 255.772167,
+    "dec": -19.036783,
+    "frame_index": 193,
+    "brightness": -6.9
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.52655,
+    "ra": 255.79646,
+    "dec": -19.171839,
+    "frame_index": 194,
+    "brightness": -6.86
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.560164,
+    "ra": 255.824485,
+    "dec": -19.302572,
+    "frame_index": 195,
+    "brightness": -6.72
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.593777,
+    "ra": 255.844543,
+    "dec": -19.440249,
+    "frame_index": 196,
+    "brightness": -6.79
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.627391,
+    "ra": 255.87539,
+    "dec": -19.561396,
+    "frame_index": 197,
+    "brightness": -6.74
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.661004,
+    "ra": 255.901897,
+    "dec": -19.705122,
+    "frame_index": 198,
+    "brightness": -6.78
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.694618,
+    "ra": 255.9313,
+    "dec": -19.825531,
+    "frame_index": 199,
+    "brightness": -6.93
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.728231,
+    "ra": 255.952133,
+    "dec": -19.951449,
+    "frame_index": 200,
+    "brightness": -6.82
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.761844,
+    "ra": 255.971494,
+    "dec": -20.07773,
+    "frame_index": 201,
+    "brightness": -6.87
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.795458,
+    "ra": 256.004126,
+    "dec": -20.207825,
+    "frame_index": 202,
+    "brightness": -6.85
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.829071,
+    "ra": 256.0287,
+    "dec": -20.32364,
+    "frame_index": 203,
+    "brightness": -7.0
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.862685,
+    "ra": 256.04708,
+    "dec": -20.449167,
+    "frame_index": 204,
+    "brightness": -6.87
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.896298,
+    "ra": 256.077931,
+    "dec": -20.574658,
+    "frame_index": 205,
+    "brightness": -6.85
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.929912,
+    "ra": 256.095699,
+    "dec": -20.678991,
+    "frame_index": 206,
+    "brightness": -6.93
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.963525,
+    "ra": 256.123198,
+    "dec": -20.811966,
+    "frame_index": 207,
+    "brightness": -7.06
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073489.997139,
+    "ra": 256.144622,
+    "dec": -20.924336,
+    "frame_index": 208,
+    "brightness": -7.01
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073490.030752,
+    "ra": 256.172528,
+    "dec": -21.046809,
+    "frame_index": 209,
+    "brightness": -6.85
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073490.064365,
+    "ra": 256.194488,
+    "dec": -21.159638,
+    "frame_index": 210,
+    "brightness": -6.9
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073490.097979,
+    "ra": 256.212269,
+    "dec": -21.277552,
+    "frame_index": 211,
+    "brightness": -7.01
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073490.131592,
+    "ra": 256.240135,
+    "dec": -21.397899,
+    "frame_index": 212,
+    "brightness": -6.91
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073490.165206,
+    "ra": 256.2581,
+    "dec": -21.502073,
+    "frame_index": 213,
+    "brightness": -7.04
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073490.198819,
+    "ra": 256.283395,
+    "dec": -21.621971,
+    "frame_index": 214,
+    "brightness": -6.83
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073490.232433,
+    "ra": 256.31602,
+    "dec": -21.734388,
+    "frame_index": 215,
+    "brightness": -6.9
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073490.266046,
+    "ra": 256.332094,
+    "dec": -21.841929,
+    "frame_index": 216,
+    "brightness": -6.88
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073490.299659,
+    "ra": 256.342719,
+    "dec": -21.96222,
+    "frame_index": 217,
+    "brightness": -6.89
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073490.333273,
+    "ra": 256.373756,
+    "dec": -22.053671,
+    "frame_index": 218,
+    "brightness": -6.7
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073490.366886,
+    "ra": 256.399525,
+    "dec": -22.17365,
+    "frame_index": 219,
+    "brightness": -6.96
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073490.4005,
+    "ra": 256.422338,
+    "dec": -22.283149,
+    "frame_index": 220,
+    "brightness": -6.54
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073490.434113,
+    "ra": 256.428672,
+    "dec": -22.386697,
+    "frame_index": 221,
+    "brightness": -6.76
+  },
+  {
+    "station_id": "G\u00f6teborg-D",
+    "timestamp": 1711073490.467727,
+    "ra": 256.458028,
+    "dec": -22.493284,
+    "frame_index": 222,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.010131,
+    "ra": 278.153817,
+    "dec": 7.160611,
+    "frame_index": 30,
+    "brightness": -9.27
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.043745,
+    "ra": 278.120659,
+    "dec": 6.940022,
+    "frame_index": 31,
+    "brightness": -8.78
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.077358,
+    "ra": 278.069069,
+    "dec": 6.726305,
+    "frame_index": 32,
+    "brightness": -8.98
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.110972,
+    "ra": 278.018111,
+    "dec": 6.50186,
+    "frame_index": 33,
+    "brightness": -9.09
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.144585,
+    "ra": 277.966563,
+    "dec": 6.282444,
+    "frame_index": 34,
+    "brightness": -9.17
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.178199,
+    "ra": 277.918824,
+    "dec": 6.066592,
+    "frame_index": 35,
+    "brightness": -9.06
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.211812,
+    "ra": 277.866271,
+    "dec": 5.84637,
+    "frame_index": 36,
+    "brightness": -9.26
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.245425,
+    "ra": 277.834608,
+    "dec": 5.638286,
+    "frame_index": 37,
+    "brightness": -9.41
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.279039,
+    "ra": 277.789307,
+    "dec": 5.425786,
+    "frame_index": 38,
+    "brightness": -9.22
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.312652,
+    "ra": 277.746956,
+    "dec": 5.209291,
+    "frame_index": 39,
+    "brightness": -9.31
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.346266,
+    "ra": 277.692496,
+    "dec": 4.996709,
+    "frame_index": 40,
+    "brightness": -9.19
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.379879,
+    "ra": 277.65416,
+    "dec": 4.786203,
+    "frame_index": 41,
+    "brightness": -9.47
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.413493,
+    "ra": 277.602192,
+    "dec": 4.577988,
+    "frame_index": 42,
+    "brightness": -9.26
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.447106,
+    "ra": 277.560547,
+    "dec": 4.363881,
+    "frame_index": 43,
+    "brightness": -9.62
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.48072,
+    "ra": 277.517335,
+    "dec": 4.156879,
+    "frame_index": 44,
+    "brightness": -9.94
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.514333,
+    "ra": 277.47001,
+    "dec": 3.954296,
+    "frame_index": 45,
+    "brightness": -9.93
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.547946,
+    "ra": 277.432719,
+    "dec": 3.744416,
+    "frame_index": 46,
+    "brightness": -10.0
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.58156,
+    "ra": 277.387631,
+    "dec": 3.544163,
+    "frame_index": 47,
+    "brightness": -9.87
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.615173,
+    "ra": 277.345203,
+    "dec": 3.34813,
+    "frame_index": 48,
+    "brightness": -9.98
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.648787,
+    "ra": 277.2995,
+    "dec": 3.141873,
+    "frame_index": 49,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.6824,
+    "ra": 277.268529,
+    "dec": 2.928381,
+    "frame_index": 50,
+    "brightness": -10.1
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.716014,
+    "ra": 277.224962,
+    "dec": 2.733143,
+    "frame_index": 51,
+    "brightness": -10.21
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.749627,
+    "ra": 277.175552,
+    "dec": 2.545008,
+    "frame_index": 52,
+    "brightness": -10.11
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.783241,
+    "ra": 277.137017,
+    "dec": 2.349242,
+    "frame_index": 53,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.816854,
+    "ra": 277.088245,
+    "dec": 2.148318,
+    "frame_index": 54,
+    "brightness": -10.36
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.850467,
+    "ra": 277.059391,
+    "dec": 1.952353,
+    "frame_index": 55,
+    "brightness": -10.22
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.884081,
+    "ra": 277.011865,
+    "dec": 1.750567,
+    "frame_index": 56,
+    "brightness": -10.39
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.917694,
+    "ra": 276.970919,
+    "dec": 1.564093,
+    "frame_index": 57,
+    "brightness": -10.3
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.951308,
+    "ra": 276.939217,
+    "dec": 1.37975,
+    "frame_index": 58,
+    "brightness": -10.44
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073484.984921,
+    "ra": 276.89569,
+    "dec": 1.179173,
+    "frame_index": 59,
+    "brightness": -10.76
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.018535,
+    "ra": 276.857156,
+    "dec": 0.992595,
+    "frame_index": 60,
+    "brightness": -10.64
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.052148,
+    "ra": 276.817666,
+    "dec": 0.804493,
+    "frame_index": 61,
+    "brightness": -10.44
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.085762,
+    "ra": 276.765232,
+    "dec": 0.623944,
+    "frame_index": 62,
+    "brightness": -10.75
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.119375,
+    "ra": 276.729715,
+    "dec": 0.438959,
+    "frame_index": 63,
+    "brightness": -10.72
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.152989,
+    "ra": 276.693439,
+    "dec": 0.251868,
+    "frame_index": 64,
+    "brightness": -10.65
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.186602,
+    "ra": 276.653944,
+    "dec": 0.060452,
+    "frame_index": 65,
+    "brightness": -10.88
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.220216,
+    "ra": 276.620449,
+    "dec": -0.117737,
+    "frame_index": 66,
+    "brightness": -10.96
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.253829,
+    "ra": 276.586019,
+    "dec": -0.309358,
+    "frame_index": 67,
+    "brightness": -10.83
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.287442,
+    "ra": 276.538595,
+    "dec": -0.481224,
+    "frame_index": 68,
+    "brightness": -11.15
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.321056,
+    "ra": 276.510201,
+    "dec": -0.667849,
+    "frame_index": 69,
+    "brightness": -10.77
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.354669,
+    "ra": 276.464608,
+    "dec": -0.844435,
+    "frame_index": 70,
+    "brightness": -10.74
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.388283,
+    "ra": 276.425536,
+    "dec": -1.02165,
+    "frame_index": 71,
+    "brightness": -10.93
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.421896,
+    "ra": 276.386862,
+    "dec": -1.202277,
+    "frame_index": 72,
+    "brightness": -10.86
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.45551,
+    "ra": 276.358081,
+    "dec": -1.380728,
+    "frame_index": 73,
+    "brightness": -10.88
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.489123,
+    "ra": 276.30889,
+    "dec": -1.550318,
+    "frame_index": 74,
+    "brightness": -11.07
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.522737,
+    "ra": 276.286868,
+    "dec": -1.722151,
+    "frame_index": 75,
+    "brightness": -10.94
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.55635,
+    "ra": 276.244508,
+    "dec": -1.895074,
+    "frame_index": 76,
+    "brightness": -10.77
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.589963,
+    "ra": 276.204889,
+    "dec": -2.062153,
+    "frame_index": 77,
+    "brightness": -11.03
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.623577,
+    "ra": 276.172284,
+    "dec": -2.240721,
+    "frame_index": 78,
+    "brightness": -10.99
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.65719,
+    "ra": 276.14095,
+    "dec": -2.409424,
+    "frame_index": 79,
+    "brightness": -10.86
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.690804,
+    "ra": 276.096209,
+    "dec": -2.58208,
+    "frame_index": 80,
+    "brightness": -10.87
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.724417,
+    "ra": 276.062512,
+    "dec": -2.745382,
+    "frame_index": 81,
+    "brightness": -10.75
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.758031,
+    "ra": 276.028179,
+    "dec": -2.915754,
+    "frame_index": 82,
+    "brightness": -10.73
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.791644,
+    "ra": 275.989894,
+    "dec": -3.07117,
+    "frame_index": 83,
+    "brightness": -10.88
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.825258,
+    "ra": 275.97073,
+    "dec": -3.239199,
+    "frame_index": 84,
+    "brightness": -10.66
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.858871,
+    "ra": 275.917444,
+    "dec": -3.406858,
+    "frame_index": 85,
+    "brightness": -10.69
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.892484,
+    "ra": 275.890441,
+    "dec": -3.574524,
+    "frame_index": 86,
+    "brightness": -10.44
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.926098,
+    "ra": 275.853891,
+    "dec": -3.734652,
+    "frame_index": 87,
+    "brightness": -10.56
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.959711,
+    "ra": 275.819541,
+    "dec": -3.904884,
+    "frame_index": 88,
+    "brightness": -10.78
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073485.993325,
+    "ra": 275.794783,
+    "dec": -4.053944,
+    "frame_index": 89,
+    "brightness": -10.41
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.026938,
+    "ra": 275.754369,
+    "dec": -4.218167,
+    "frame_index": 90,
+    "brightness": -10.42
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.060552,
+    "ra": 275.720312,
+    "dec": -4.374911,
+    "frame_index": 91,
+    "brightness": -10.6
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.094165,
+    "ra": 275.686194,
+    "dec": -4.530862,
+    "frame_index": 92,
+    "brightness": -10.84
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.127779,
+    "ra": 275.6543,
+    "dec": -4.697766,
+    "frame_index": 93,
+    "brightness": -10.1
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.161392,
+    "ra": 275.618979,
+    "dec": -4.839709,
+    "frame_index": 94,
+    "brightness": -9.96
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.195005,
+    "ra": 275.579619,
+    "dec": -4.996186,
+    "frame_index": 95,
+    "brightness": -9.95
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.228619,
+    "ra": 275.55106,
+    "dec": -5.154201,
+    "frame_index": 96,
+    "brightness": -10.04
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.262232,
+    "ra": 275.522205,
+    "dec": -5.305321,
+    "frame_index": 97,
+    "brightness": -9.85
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.295846,
+    "ra": 275.49338,
+    "dec": -5.464267,
+    "frame_index": 98,
+    "brightness": -10.11
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.329459,
+    "ra": 275.459644,
+    "dec": -5.618974,
+    "frame_index": 99,
+    "brightness": -9.69
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.363073,
+    "ra": 275.420128,
+    "dec": -5.75433,
+    "frame_index": 100,
+    "brightness": -10.0
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.396686,
+    "ra": 275.393627,
+    "dec": -5.914185,
+    "frame_index": 101,
+    "brightness": -9.91
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.4303,
+    "ra": 275.359762,
+    "dec": -6.062647,
+    "frame_index": 102,
+    "brightness": -9.59
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.463913,
+    "ra": 275.334191,
+    "dec": -6.214734,
+    "frame_index": 103,
+    "brightness": -9.56
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.497526,
+    "ra": 275.294247,
+    "dec": -6.355604,
+    "frame_index": 104,
+    "brightness": -9.6
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.53114,
+    "ra": 275.255466,
+    "dec": -6.506896,
+    "frame_index": 105,
+    "brightness": -9.53
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.564753,
+    "ra": 275.219946,
+    "dec": -6.656356,
+    "frame_index": 106,
+    "brightness": -9.4
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.598367,
+    "ra": 275.204885,
+    "dec": -6.798671,
+    "frame_index": 107,
+    "brightness": -9.43
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.63198,
+    "ra": 275.169979,
+    "dec": -6.939719,
+    "frame_index": 108,
+    "brightness": -9.4
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.665594,
+    "ra": 275.139619,
+    "dec": -7.080196,
+    "frame_index": 109,
+    "brightness": -9.64
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.699207,
+    "ra": 275.118525,
+    "dec": -7.228223,
+    "frame_index": 110,
+    "brightness": -9.35
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.732821,
+    "ra": 275.077737,
+    "dec": -7.363285,
+    "frame_index": 111,
+    "brightness": -8.94
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.766434,
+    "ra": 275.043344,
+    "dec": -7.506088,
+    "frame_index": 112,
+    "brightness": -9.18
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.800047,
+    "ra": 275.022721,
+    "dec": -7.642529,
+    "frame_index": 113,
+    "brightness": -9.13
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.833661,
+    "ra": 274.990754,
+    "dec": -7.784362,
+    "frame_index": 114,
+    "brightness": -9.07
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.867274,
+    "ra": 274.964696,
+    "dec": -7.914691,
+    "frame_index": 115,
+    "brightness": -8.94
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.900888,
+    "ra": 274.933117,
+    "dec": -8.063431,
+    "frame_index": 116,
+    "brightness": -8.86
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.934501,
+    "ra": 274.902437,
+    "dec": -8.195661,
+    "frame_index": 117,
+    "brightness": -8.91
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073486.968115,
+    "ra": 274.873476,
+    "dec": -8.337512,
+    "frame_index": 118,
+    "brightness": -8.59
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.001728,
+    "ra": 274.845392,
+    "dec": -8.469685,
+    "frame_index": 119,
+    "brightness": -8.59
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.035342,
+    "ra": 274.814668,
+    "dec": -8.596687,
+    "frame_index": 120,
+    "brightness": -8.54
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.068955,
+    "ra": 274.79124,
+    "dec": -8.738793,
+    "frame_index": 121,
+    "brightness": -8.48
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.102568,
+    "ra": 274.761534,
+    "dec": -8.868464,
+    "frame_index": 122,
+    "brightness": -8.21
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.136182,
+    "ra": 274.728941,
+    "dec": -8.999931,
+    "frame_index": 123,
+    "brightness": -8.55
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.169795,
+    "ra": 274.697902,
+    "dec": -9.135559,
+    "frame_index": 124,
+    "brightness": -8.26
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.203409,
+    "ra": 274.664053,
+    "dec": -9.266196,
+    "frame_index": 125,
+    "brightness": -8.12
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.237022,
+    "ra": 274.649157,
+    "dec": -9.399297,
+    "frame_index": 126,
+    "brightness": -8.16
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.270636,
+    "ra": 274.60749,
+    "dec": -9.529746,
+    "frame_index": 127,
+    "brightness": -8.07
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.304249,
+    "ra": 274.586977,
+    "dec": -9.654552,
+    "frame_index": 128,
+    "brightness": -8.13
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.337862,
+    "ra": 274.564187,
+    "dec": -9.775957,
+    "frame_index": 129,
+    "brightness": -7.74
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.371476,
+    "ra": 274.528919,
+    "dec": -9.906595,
+    "frame_index": 130,
+    "brightness": -8.09
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.405089,
+    "ra": 274.502202,
+    "dec": -10.027002,
+    "frame_index": 131,
+    "brightness": -7.8
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.438703,
+    "ra": 274.475869,
+    "dec": -10.151612,
+    "frame_index": 132,
+    "brightness": -8.01
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.472316,
+    "ra": 274.450918,
+    "dec": -10.283031,
+    "frame_index": 133,
+    "brightness": -7.99
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.50593,
+    "ra": 274.425433,
+    "dec": -10.409421,
+    "frame_index": 134,
+    "brightness": -7.59
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.539543,
+    "ra": 274.396805,
+    "dec": -10.525592,
+    "frame_index": 135,
+    "brightness": -7.84
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.573157,
+    "ra": 274.362155,
+    "dec": -10.650494,
+    "frame_index": 136,
+    "brightness": -7.58
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.60677,
+    "ra": 274.346626,
+    "dec": -10.785531,
+    "frame_index": 137,
+    "brightness": -7.87
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.640383,
+    "ra": 274.308981,
+    "dec": -10.897867,
+    "frame_index": 138,
+    "brightness": -7.61
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.673997,
+    "ra": 274.293188,
+    "dec": -11.022781,
+    "frame_index": 139,
+    "brightness": -7.58
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.70761,
+    "ra": 274.264259,
+    "dec": -11.141838,
+    "frame_index": 140,
+    "brightness": -7.67
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.741224,
+    "ra": 274.24097,
+    "dec": -11.264769,
+    "frame_index": 141,
+    "brightness": -7.51
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.774837,
+    "ra": 274.218304,
+    "dec": -11.370591,
+    "frame_index": 142,
+    "brightness": -7.34
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.808451,
+    "ra": 274.190029,
+    "dec": -11.493534,
+    "frame_index": 143,
+    "brightness": -7.48
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.842064,
+    "ra": 274.158073,
+    "dec": -11.611967,
+    "frame_index": 144,
+    "brightness": -7.26
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.875678,
+    "ra": 274.128085,
+    "dec": -11.728587,
+    "frame_index": 145,
+    "brightness": -7.33
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.909291,
+    "ra": 274.116739,
+    "dec": -11.848882,
+    "frame_index": 146,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.942904,
+    "ra": 274.086215,
+    "dec": -11.966077,
+    "frame_index": 147,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073487.976518,
+    "ra": 274.066469,
+    "dec": -12.079841,
+    "frame_index": 148,
+    "brightness": -7.2
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.010131,
+    "ra": 274.039328,
+    "dec": -12.198171,
+    "frame_index": 149,
+    "brightness": -7.42
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.043745,
+    "ra": 274.010789,
+    "dec": -12.305867,
+    "frame_index": 150,
+    "brightness": -7.36
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.077358,
+    "ra": 273.983081,
+    "dec": -12.421153,
+    "frame_index": 151,
+    "brightness": -7.39
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.110972,
+    "ra": 273.962557,
+    "dec": -12.528584,
+    "frame_index": 152,
+    "brightness": -7.41
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.144585,
+    "ra": 273.931682,
+    "dec": -12.62653,
+    "frame_index": 153,
+    "brightness": -7.23
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.178199,
+    "ra": 273.917489,
+    "dec": -12.752583,
+    "frame_index": 154,
+    "brightness": -7.13
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.211812,
+    "ra": 273.887615,
+    "dec": -12.861002,
+    "frame_index": 155,
+    "brightness": -6.99
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.245425,
+    "ra": 273.857569,
+    "dec": -12.980081,
+    "frame_index": 156,
+    "brightness": -7.15
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.279039,
+    "ra": 273.833579,
+    "dec": -13.07644,
+    "frame_index": 157,
+    "brightness": -7.07
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.312652,
+    "ra": 273.816238,
+    "dec": -13.188181,
+    "frame_index": 158,
+    "brightness": -6.75
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.346266,
+    "ra": 273.797482,
+    "dec": -13.297163,
+    "frame_index": 159,
+    "brightness": -7.02
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.379879,
+    "ra": 273.773293,
+    "dec": -13.401781,
+    "frame_index": 160,
+    "brightness": -6.75
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.413493,
+    "ra": 273.737973,
+    "dec": -13.520629,
+    "frame_index": 161,
+    "brightness": -7.33
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.447106,
+    "ra": 273.719399,
+    "dec": -13.620746,
+    "frame_index": 162,
+    "brightness": -7.05
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.48072,
+    "ra": 273.689452,
+    "dec": -13.713899,
+    "frame_index": 163,
+    "brightness": -6.95
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.514333,
+    "ra": 273.666958,
+    "dec": -13.834423,
+    "frame_index": 164,
+    "brightness": -7.07
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.547946,
+    "ra": 273.645128,
+    "dec": -13.948008,
+    "frame_index": 165,
+    "brightness": -7.04
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.58156,
+    "ra": 273.620028,
+    "dec": -14.043182,
+    "frame_index": 166,
+    "brightness": -7.05
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.615173,
+    "ra": 273.595597,
+    "dec": -14.145151,
+    "frame_index": 167,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.648787,
+    "ra": 273.57175,
+    "dec": -14.242327,
+    "frame_index": 168,
+    "brightness": -7.05
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.6824,
+    "ra": 273.551402,
+    "dec": -14.349658,
+    "frame_index": 169,
+    "brightness": -6.86
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.716014,
+    "ra": 273.528776,
+    "dec": -14.449213,
+    "frame_index": 170,
+    "brightness": -7.03
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.749627,
+    "ra": 273.508651,
+    "dec": -14.565661,
+    "frame_index": 171,
+    "brightness": -6.73
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.783241,
+    "ra": 273.487241,
+    "dec": -14.652603,
+    "frame_index": 172,
+    "brightness": -7.11
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.816854,
+    "ra": 273.467082,
+    "dec": -14.749108,
+    "frame_index": 173,
+    "brightness": -6.84
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.850467,
+    "ra": 273.437034,
+    "dec": -14.846349,
+    "frame_index": 174,
+    "brightness": -6.65
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.884081,
+    "ra": 273.413136,
+    "dec": -14.947098,
+    "frame_index": 175,
+    "brightness": -6.74
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.917694,
+    "ra": 273.396743,
+    "dec": -15.050683,
+    "frame_index": 176,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.951308,
+    "ra": 273.373613,
+    "dec": -15.148583,
+    "frame_index": 177,
+    "brightness": -7.02
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073488.984921,
+    "ra": 273.343546,
+    "dec": -15.241725,
+    "frame_index": 178,
+    "brightness": -6.77
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.018535,
+    "ra": 273.328276,
+    "dec": -15.353051,
+    "frame_index": 179,
+    "brightness": -6.72
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.052148,
+    "ra": 273.306635,
+    "dec": -15.436142,
+    "frame_index": 180,
+    "brightness": -7.04
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.085762,
+    "ra": 273.290508,
+    "dec": -15.541036,
+    "frame_index": 181,
+    "brightness": -6.86
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.119375,
+    "ra": 273.259518,
+    "dec": -15.630143,
+    "frame_index": 182,
+    "brightness": -6.92
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.152989,
+    "ra": 273.244035,
+    "dec": -15.729941,
+    "frame_index": 183,
+    "brightness": -6.78
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.186602,
+    "ra": 273.21831,
+    "dec": -15.818274,
+    "frame_index": 184,
+    "brightness": -6.79
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.220216,
+    "ra": 273.192995,
+    "dec": -15.920727,
+    "frame_index": 185,
+    "brightness": -7.02
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.253829,
+    "ra": 273.179091,
+    "dec": -16.007826,
+    "frame_index": 186,
+    "brightness": -7.05
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.287442,
+    "ra": 273.153316,
+    "dec": -16.103223,
+    "frame_index": 187,
+    "brightness": -6.7
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.321056,
+    "ra": 273.128472,
+    "dec": -16.203586,
+    "frame_index": 188,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.354669,
+    "ra": 273.116088,
+    "dec": -16.289414,
+    "frame_index": 189,
+    "brightness": -7.12
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.388283,
+    "ra": 273.089105,
+    "dec": -16.37672,
+    "frame_index": 190,
+    "brightness": -6.94
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.421896,
+    "ra": 273.07202,
+    "dec": -16.468283,
+    "frame_index": 191,
+    "brightness": -7.0
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.45551,
+    "ra": 273.050377,
+    "dec": -16.564062,
+    "frame_index": 192,
+    "brightness": -6.96
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.489123,
+    "ra": 273.036666,
+    "dec": -16.651873,
+    "frame_index": 193,
+    "brightness": -6.9
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.522737,
+    "ra": 273.011257,
+    "dec": -16.747552,
+    "frame_index": 194,
+    "brightness": -6.86
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.55635,
+    "ra": 272.984405,
+    "dec": -16.825445,
+    "frame_index": 195,
+    "brightness": -6.72
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.589963,
+    "ra": 272.973168,
+    "dec": -16.921071,
+    "frame_index": 196,
+    "brightness": -6.79
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.623577,
+    "ra": 272.952108,
+    "dec": -17.008259,
+    "frame_index": 197,
+    "brightness": -6.74
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.65719,
+    "ra": 272.922369,
+    "dec": -17.099655,
+    "frame_index": 198,
+    "brightness": -6.78
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.690804,
+    "ra": 272.906363,
+    "dec": -17.180639,
+    "frame_index": 199,
+    "brightness": -6.93
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.724417,
+    "ra": 272.89016,
+    "dec": -17.27579,
+    "frame_index": 200,
+    "brightness": -6.82
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.758031,
+    "ra": 272.869627,
+    "dec": -17.355942,
+    "frame_index": 201,
+    "brightness": -6.87
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.791644,
+    "ra": 272.841859,
+    "dec": -17.441094,
+    "frame_index": 202,
+    "brightness": -6.85
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.825258,
+    "ra": 272.824906,
+    "dec": -17.527047,
+    "frame_index": 203,
+    "brightness": -7.0
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.858871,
+    "ra": 272.807722,
+    "dec": -17.618345,
+    "frame_index": 204,
+    "brightness": -6.87
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.892484,
+    "ra": 272.799234,
+    "dec": -17.699447,
+    "frame_index": 205,
+    "brightness": -6.85
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.926098,
+    "ra": 272.778203,
+    "dec": -17.789758,
+    "frame_index": 206,
+    "brightness": -6.93
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.959711,
+    "ra": 272.742776,
+    "dec": -17.872607,
+    "frame_index": 207,
+    "brightness": -7.06
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073489.993325,
+    "ra": 272.73368,
+    "dec": -17.960327,
+    "frame_index": 208,
+    "brightness": -7.01
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073490.026938,
+    "ra": 272.717205,
+    "dec": -18.026383,
+    "frame_index": 209,
+    "brightness": -6.85
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073490.060552,
+    "ra": 272.687317,
+    "dec": -18.125781,
+    "frame_index": 210,
+    "brightness": -6.9
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073490.094165,
+    "ra": 272.666557,
+    "dec": -18.19196,
+    "frame_index": 211,
+    "brightness": -7.01
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073490.127779,
+    "ra": 272.652252,
+    "dec": -18.281795,
+    "frame_index": 212,
+    "brightness": -6.91
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073490.161392,
+    "ra": 272.637863,
+    "dec": -18.361105,
+    "frame_index": 213,
+    "brightness": -7.04
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073490.195005,
+    "ra": 272.613066,
+    "dec": -18.447676,
+    "frame_index": 214,
+    "brightness": -6.83
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073490.228619,
+    "ra": 272.593138,
+    "dec": -18.519513,
+    "frame_index": 215,
+    "brightness": -6.9
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073490.262232,
+    "ra": 272.58303,
+    "dec": -18.611094,
+    "frame_index": 216,
+    "brightness": -6.88
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073490.295846,
+    "ra": 272.562588,
+    "dec": -18.685566,
+    "frame_index": 217,
+    "brightness": -6.89
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073490.329459,
+    "ra": 272.5373,
+    "dec": -18.759509,
+    "frame_index": 218,
+    "brightness": -6.7
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073490.363073,
+    "ra": 272.517289,
+    "dec": -18.850223,
+    "frame_index": 219,
+    "brightness": -6.96
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073490.396686,
+    "ra": 272.500466,
+    "dec": -18.919143,
+    "frame_index": 220,
+    "brightness": -6.54
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073490.4303,
+    "ra": 272.481962,
+    "dec": -19.005664,
+    "frame_index": 221,
+    "brightness": -6.76
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073490.463913,
+    "ra": 272.469778,
+    "dec": -19.07591,
+    "frame_index": 222,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073490.497526,
+    "ra": 272.454426,
+    "dec": -19.151176,
+    "frame_index": 223,
+    "brightness": -7.01
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073490.53114,
+    "ra": 272.428567,
+    "dec": -19.228767,
+    "frame_index": 224,
+    "brightness": -6.73
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073490.564753,
+    "ra": 272.414444,
+    "dec": -19.3103,
+    "frame_index": 225,
+    "brightness": -6.78
+  },
+  {
+    "station_id": "Tampere-E",
+    "timestamp": 1711073490.598367,
+    "ra": 272.387978,
+    "dec": -19.391084,
+    "frame_index": 226,
+    "brightness": -6.86
+  }
+]

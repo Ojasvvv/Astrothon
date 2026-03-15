@@ -1,0 +1,19 @@
+{
+  "event_id": "FRIPON-2025-0812-0909",
+  "utc_timestamp": "2025-08-12T09:09:18Z",
+  "unix_timestamp": 1754989758,
+  "network": "FRIPON",
+  "station_count": 4,
+  "region": "Scandinavia",
+  "estimated_velocity_kms": 60.5,
+  "peak_magnitude": -8.3,
+  "entry_altitude_km": 124.6,
+  "terminal_altitude_km": 32.5,
+  "trajectory_length_km": 136.0,
+  "entry_angle_deg": 43.0,
+  "shower": "Perseids",
+  "shower_code": "PER",
+  "radiant_ra": 46.2,
+  "radiant_dec": 57.4,
+  "duration_s": 2.23
+}

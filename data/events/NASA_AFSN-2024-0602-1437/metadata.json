@@ -1,0 +1,19 @@
+{
+  "event_id": "NASA_AFSN-2024-0602-1437",
+  "utc_timestamp": "2024-06-02T14:37:45Z",
+  "unix_timestamp": 1717339065,
+  "network": "NASA_AFSN",
+  "station_count": 5,
+  "region": "North America E",
+  "estimated_velocity_kms": 29.8,
+  "peak_magnitude": -11.2,
+  "entry_altitude_km": 125.2,
+  "terminal_altitude_km": 34.3,
+  "trajectory_length_km": 97.9,
+  "entry_angle_deg": 68.6,
+  "shower": "Geminids",
+  "shower_code": "GEM",
+  "radiant_ra": 112.3,
+  "radiant_dec": 32.5,
+  "duration_s": 3.28
+}

@@ -1,0 +1,19 @@
+{
+  "event_id": "NASA_AFSN-2024-0322-0211",
+  "utc_timestamp": "2024-03-22T02:11:23Z",
+  "unix_timestamp": 1711073483,
+  "network": "NASA_AFSN",
+  "station_count": 5,
+  "region": "Scandinavia",
+  "estimated_velocity_kms": 29.7,
+  "peak_magnitude": -6.9,
+  "entry_altitude_km": 125.8,
+  "terminal_altitude_km": 20.2,
+  "trajectory_length_km": 303.6,
+  "entry_angle_deg": 20.7,
+  "shower": "S Taurids",
+  "shower_code": "STA",
+  "radiant_ra": 51.0,
+  "radiant_dec": 13.0,
+  "duration_s": 8.0
+}

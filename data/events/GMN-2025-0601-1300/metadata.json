@@ -1,0 +1,19 @@
+{
+  "event_id": "GMN-2025-0601-1300",
+  "utc_timestamp": "2025-06-01T13:00:00Z",
+  "unix_timestamp": 1748782800,
+  "network": "GMN",
+  "station_count": 6,
+  "region": "North America E",
+  "estimated_velocity_kms": 13.3,
+  "peak_magnitude": -7.1,
+  "entry_altitude_km": 121.6,
+  "terminal_altitude_km": 37.1,
+  "trajectory_length_km": 96.7,
+  "entry_angle_deg": 61.3,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 340.84,
+  "radiant_dec": 68.71,
+  "duration_s": 7.24
+}

@@ -1,0 +1,19 @@
+{
+  "event_id": "NASA_AFSN-2025-0802-0344",
+  "utc_timestamp": "2025-08-02T03:44:53Z",
+  "unix_timestamp": 1754106293,
+  "network": "NASA_AFSN",
+  "station_count": 6,
+  "region": "UK",
+  "estimated_velocity_kms": 37.9,
+  "peak_magnitude": -3.2,
+  "entry_altitude_km": 98.2,
+  "terminal_altitude_km": 23.4,
+  "trajectory_length_km": 197.0,
+  "entry_angle_deg": 22.5,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 145.33,
+  "radiant_dec": -7.04,
+  "duration_s": 5.16
+}

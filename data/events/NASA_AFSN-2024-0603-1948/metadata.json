@@ -1,0 +1,19 @@
+{
+  "event_id": "NASA_AFSN-2024-0603-1948",
+  "utc_timestamp": "2024-06-03T19:48:07Z",
+  "unix_timestamp": 1717444087,
+  "network": "NASA_AFSN",
+  "station_count": 6,
+  "region": "Scandinavia",
+  "estimated_velocity_kms": 54.5,
+  "peak_magnitude": -7.7,
+  "entry_altitude_km": 107.5,
+  "terminal_altitude_km": 34.2,
+  "trajectory_length_km": 147.0,
+  "entry_angle_deg": 30.4,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 230.19,
+  "radiant_dec": 20.88,
+  "duration_s": 2.66
+}

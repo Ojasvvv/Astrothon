@@ -1,0 +1,19 @@
+{
+  "event_id": "FRIPON-2024-0104-2334",
+  "utc_timestamp": "2024-01-04T23:34:23Z",
+  "unix_timestamp": 1704411263,
+  "network": "FRIPON",
+  "station_count": 6,
+  "region": "Central Europe",
+  "estimated_velocity_kms": 36.8,
+  "peak_magnitude": -7.8,
+  "entry_altitude_km": 112.7,
+  "terminal_altitude_km": 26.3,
+  "trajectory_length_km": 225.9,
+  "entry_angle_deg": 22.6,
+  "shower": "Quadrantids",
+  "shower_code": "QUA",
+  "radiant_ra": 230.1,
+  "radiant_dec": 48.5,
+  "duration_s": 6.09
+}

@@ -1,0 +1,19 @@
+{
+  "event_id": "AMS-2024-1014-1853",
+  "utc_timestamp": "2024-10-14T18:53:19Z",
+  "unix_timestamp": 1728931999,
+  "network": "AMS",
+  "station_count": 3,
+  "region": "Central Europe",
+  "estimated_velocity_kms": 66.7,
+  "peak_magnitude": -3.2,
+  "entry_altitude_km": 90.0,
+  "terminal_altitude_km": 34.6,
+  "trajectory_length_km": 66.8,
+  "entry_angle_deg": 56.3,
+  "shower": "Orionids",
+  "shower_code": "ORI",
+  "radiant_ra": 95.0,
+  "radiant_dec": 15.5,
+  "duration_s": 1.0
+}

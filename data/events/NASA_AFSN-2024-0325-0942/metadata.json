@@ -1,0 +1,19 @@
+{
+  "event_id": "NASA_AFSN-2024-0325-0942",
+  "utc_timestamp": "2024-03-25T09:42:31Z",
+  "unix_timestamp": 1711359751,
+  "network": "NASA_AFSN",
+  "station_count": 6,
+  "region": "Central Europe",
+  "estimated_velocity_kms": 36.2,
+  "peak_magnitude": -4.6,
+  "entry_altitude_km": 112.8,
+  "terminal_altitude_km": 54.9,
+  "trajectory_length_km": 64.1,
+  "entry_angle_deg": 65.2,
+  "shower": "Ursids",
+  "shower_code": "URS",
+  "radiant_ra": 217.0,
+  "radiant_dec": 75.0,
+  "duration_s": 1.77
+}

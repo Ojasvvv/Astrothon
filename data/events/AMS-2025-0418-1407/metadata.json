@@ -1,0 +1,19 @@
+{
+  "event_id": "AMS-2025-0418-1407",
+  "utc_timestamp": "2025-04-18T14:07:19Z",
+  "unix_timestamp": 1744985239,
+  "network": "AMS",
+  "station_count": 5,
+  "region": "Central Europe",
+  "estimated_velocity_kms": 36.2,
+  "peak_magnitude": -9.4,
+  "entry_altitude_km": 119.4,
+  "terminal_altitude_km": 54.7,
+  "trajectory_length_km": 165.0,
+  "entry_angle_deg": 23.4,
+  "shower": "Ursids",
+  "shower_code": "URS",
+  "radiant_ra": 217.0,
+  "radiant_dec": 75.0,
+  "duration_s": 4.5
+}

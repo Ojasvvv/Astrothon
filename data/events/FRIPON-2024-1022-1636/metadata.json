@@ -1,0 +1,19 @@
+{
+  "event_id": "FRIPON-2024-1022-1636",
+  "utc_timestamp": "2024-10-22T16:36:23Z",
+  "unix_timestamp": 1729614983,
+  "network": "FRIPON",
+  "station_count": 3,
+  "region": "France",
+  "estimated_velocity_kms": 30.3,
+  "peak_magnitude": -1.3,
+  "entry_altitude_km": 95.4,
+  "terminal_altitude_km": 34.2,
+  "trajectory_length_km": 74.1,
+  "entry_angle_deg": 56.0,
+  "shower": "S Taurids",
+  "shower_code": "STA",
+  "radiant_ra": 51.0,
+  "radiant_dec": 13.0,
+  "duration_s": 2.43
+}

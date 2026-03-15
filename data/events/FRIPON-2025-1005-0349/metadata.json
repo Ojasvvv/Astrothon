@@ -1,0 +1,19 @@
+{
+  "event_id": "FRIPON-2025-1005-0349",
+  "utc_timestamp": "2025-10-05T03:49:57Z",
+  "unix_timestamp": 1759636197,
+  "network": "FRIPON",
+  "station_count": 3,
+  "region": "Scandinavia",
+  "estimated_velocity_kms": 65.6,
+  "peak_magnitude": -11.4,
+  "entry_altitude_km": 98.8,
+  "terminal_altitude_km": 24.8,
+  "trajectory_length_km": 182.9,
+  "entry_angle_deg": 24.3,
+  "shower": "Orionids",
+  "shower_code": "ORI",
+  "radiant_ra": 95.0,
+  "radiant_dec": 15.5,
+  "duration_s": 2.74
+}

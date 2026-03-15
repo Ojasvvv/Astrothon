@@ -1,0 +1,19 @@
+{
+  "event_id": "AMS-2025-0824-2112",
+  "utc_timestamp": "2025-08-24T21:12:06Z",
+  "unix_timestamp": 1756069926,
+  "network": "AMS",
+  "station_count": 5,
+  "region": "Central Europe",
+  "estimated_velocity_kms": 63.0,
+  "peak_magnitude": -6.9,
+  "entry_altitude_km": 97.1,
+  "terminal_altitude_km": 36.8,
+  "trajectory_length_km": 70.6,
+  "entry_angle_deg": 59.1,
+  "shower": "Perseids",
+  "shower_code": "PER",
+  "radiant_ra": 46.2,
+  "radiant_dec": 57.4,
+  "duration_s": 1.12
+}

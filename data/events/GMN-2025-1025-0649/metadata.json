@@ -1,0 +1,19 @@
+{
+  "event_id": "GMN-2025-1025-0649",
+  "utc_timestamp": "2025-10-25T06:49:52Z",
+  "unix_timestamp": 1761374992,
+  "network": "GMN",
+  "station_count": 5,
+  "region": "Scandinavia",
+  "estimated_velocity_kms": 28.0,
+  "peak_magnitude": -2.5,
+  "entry_altitude_km": 95.4,
+  "terminal_altitude_km": 24.0,
+  "trajectory_length_km": 171.8,
+  "entry_angle_deg": 25.0,
+  "shower": "S Taurids",
+  "shower_code": "STA",
+  "radiant_ra": 51.0,
+  "radiant_dec": 13.0,
+  "duration_s": 6.04
+}

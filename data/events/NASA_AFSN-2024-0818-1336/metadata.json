@@ -1,0 +1,19 @@
+{
+  "event_id": "NASA_AFSN-2024-0818-1336",
+  "utc_timestamp": "2024-08-18T13:36:47Z",
+  "unix_timestamp": 1723988207,
+  "network": "NASA_AFSN",
+  "station_count": 3,
+  "region": "Scandinavia",
+  "estimated_velocity_kms": 65.9,
+  "peak_magnitude": -2.2,
+  "entry_altitude_km": 128.9,
+  "terminal_altitude_km": 41.6,
+  "trajectory_length_km": 96.3,
+  "entry_angle_deg": 65.6,
+  "shower": "Orionids",
+  "shower_code": "ORI",
+  "radiant_ra": 95.0,
+  "radiant_dec": 15.5,
+  "duration_s": 1.46
+}

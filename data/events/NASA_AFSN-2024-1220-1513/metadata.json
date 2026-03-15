@@ -1,0 +1,19 @@
+{
+  "event_id": "NASA_AFSN-2024-1220-1513",
+  "utc_timestamp": "2024-12-20T15:13:19Z",
+  "unix_timestamp": 1734707599,
+  "network": "NASA_AFSN",
+  "station_count": 7,
+  "region": "Scandinavia",
+  "estimated_velocity_kms": 32.9,
+  "peak_magnitude": -11.7,
+  "entry_altitude_km": 98.1,
+  "terminal_altitude_km": 19.8,
+  "trajectory_length_km": 127.5,
+  "entry_angle_deg": 38.4,
+  "shower": "Ursids",
+  "shower_code": "URS",
+  "radiant_ra": 217.0,
+  "radiant_dec": 75.0,
+  "duration_s": 3.83
+}

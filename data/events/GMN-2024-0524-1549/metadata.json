@@ -1,0 +1,19 @@
+{
+  "event_id": "GMN-2024-0524-1549",
+  "utc_timestamp": "2024-05-24T15:49:49Z",
+  "unix_timestamp": 1716565789,
+  "network": "GMN",
+  "station_count": 3,
+  "region": "France",
+  "estimated_velocity_kms": 58.4,
+  "peak_magnitude": -4.5,
+  "entry_altitude_km": 129.4,
+  "terminal_altitude_km": 22.8,
+  "trajectory_length_km": 126.1,
+  "entry_angle_deg": 58.1,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 160.62,
+  "radiant_dec": -25.53,
+  "duration_s": 2.15
+}

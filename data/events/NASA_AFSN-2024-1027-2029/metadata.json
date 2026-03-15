@@ -1,0 +1,19 @@
+{
+  "event_id": "NASA_AFSN-2024-1027-2029",
+  "utc_timestamp": "2024-10-27T20:29:04Z",
+  "unix_timestamp": 1730060944,
+  "network": "NASA_AFSN",
+  "station_count": 6,
+  "region": "North America E",
+  "estimated_velocity_kms": 27.1,
+  "peak_magnitude": -8.1,
+  "entry_altitude_km": 104.0,
+  "terminal_altitude_km": 54.5,
+  "trajectory_length_km": 68.4,
+  "entry_angle_deg": 46.8,
+  "shower": "S Taurids",
+  "shower_code": "STA",
+  "radiant_ra": 51.0,
+  "radiant_dec": 13.0,
+  "duration_s": 2.51
+}

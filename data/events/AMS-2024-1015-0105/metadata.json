@@ -1,0 +1,19 @@
+{
+  "event_id": "AMS-2024-1015-0105",
+  "utc_timestamp": "2024-10-15T01:05:17Z",
+  "unix_timestamp": 1728954317,
+  "network": "AMS",
+  "station_count": 4,
+  "region": "Scandinavia",
+  "estimated_velocity_kms": 64.3,
+  "peak_magnitude": -7.8,
+  "entry_altitude_km": 119.7,
+  "terminal_altitude_km": 19.1,
+  "trajectory_length_km": 147.9,
+  "entry_angle_deg": 43.3,
+  "shower": "Orionids",
+  "shower_code": "ORI",
+  "radiant_ra": 95.0,
+  "radiant_dec": 15.5,
+  "duration_s": 2.28
+}

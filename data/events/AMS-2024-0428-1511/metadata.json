@@ -1,0 +1,19 @@
+{
+  "event_id": "AMS-2024-0428-1511",
+  "utc_timestamp": "2024-04-28T15:11:17Z",
+  "unix_timestamp": 1714317077,
+  "network": "AMS",
+  "station_count": 5,
+  "region": "UK",
+  "estimated_velocity_kms": 44.9,
+  "peak_magnitude": -12.8,
+  "entry_altitude_km": 83.6,
+  "terminal_altitude_km": 41.0,
+  "trajectory_length_km": 86.4,
+  "entry_angle_deg": 29.8,
+  "shower": "Lyrids",
+  "shower_code": "LYR",
+  "radiant_ra": 271.4,
+  "radiant_dec": 33.6,
+  "duration_s": 1.91
+}

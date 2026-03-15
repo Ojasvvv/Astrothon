@@ -1,0 +1,6858 @@
+[
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.023363,
+    "ra": 124.746531,
+    "dec": 71.145756,
+    "frame_index": 1,
+    "brightness": -7.4
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.046522,
+    "ra": 124.132441,
+    "dec": 71.005053,
+    "frame_index": 2,
+    "brightness": -7.15
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.069681,
+    "ra": 123.531442,
+    "dec": 70.87516,
+    "frame_index": 3,
+    "brightness": -7.08
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.092839,
+    "ra": 122.93651,
+    "dec": 70.734961,
+    "frame_index": 4,
+    "brightness": -7.18
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.115998,
+    "ra": 122.354922,
+    "dec": 70.600353,
+    "frame_index": 5,
+    "brightness": -7.17
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.139157,
+    "ra": 121.789688,
+    "dec": 70.460493,
+    "frame_index": 6,
+    "brightness": -7.43
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.162316,
+    "ra": 121.22411,
+    "dec": 70.326724,
+    "frame_index": 7,
+    "brightness": -7.15
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.185475,
+    "ra": 120.665639,
+    "dec": 70.182625,
+    "frame_index": 8,
+    "brightness": -7.43
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.208634,
+    "ra": 120.119366,
+    "dec": 70.032978,
+    "frame_index": 9,
+    "brightness": -7.16
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.231792,
+    "ra": 119.585487,
+    "dec": 69.882499,
+    "frame_index": 10,
+    "brightness": -7.22
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.254951,
+    "ra": 119.064576,
+    "dec": 69.746187,
+    "frame_index": 11,
+    "brightness": -7.25
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.27811,
+    "ra": 118.541868,
+    "dec": 69.60696,
+    "frame_index": 12,
+    "brightness": -7.02
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.301269,
+    "ra": 118.035711,
+    "dec": 69.44247,
+    "frame_index": 13,
+    "brightness": -7.34
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.324428,
+    "ra": 117.530494,
+    "dec": 69.300373,
+    "frame_index": 14,
+    "brightness": -7.47
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.347587,
+    "ra": 117.039434,
+    "dec": 69.15522,
+    "frame_index": 15,
+    "brightness": -7.17
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.370746,
+    "ra": 116.556966,
+    "dec": 69.003195,
+    "frame_index": 16,
+    "brightness": -7.31
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.393904,
+    "ra": 116.085773,
+    "dec": 68.842034,
+    "frame_index": 17,
+    "brightness": -7.6
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.417063,
+    "ra": 115.618657,
+    "dec": 68.688726,
+    "frame_index": 18,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.440222,
+    "ra": 115.162633,
+    "dec": 68.538516,
+    "frame_index": 19,
+    "brightness": -7.38
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.463381,
+    "ra": 114.709056,
+    "dec": 68.387775,
+    "frame_index": 20,
+    "brightness": -7.47
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.48654,
+    "ra": 114.272718,
+    "dec": 68.231651,
+    "frame_index": 21,
+    "brightness": -7.5
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.509699,
+    "ra": 113.828308,
+    "dec": 68.07438,
+    "frame_index": 22,
+    "brightness": -7.76
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.532857,
+    "ra": 113.399773,
+    "dec": 67.921759,
+    "frame_index": 23,
+    "brightness": -7.64
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.556016,
+    "ra": 112.970171,
+    "dec": 67.76099,
+    "frame_index": 24,
+    "brightness": -7.73
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.579175,
+    "ra": 112.552909,
+    "dec": 67.6023,
+    "frame_index": 25,
+    "brightness": -8.04
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.602334,
+    "ra": 112.1578,
+    "dec": 67.446879,
+    "frame_index": 26,
+    "brightness": -7.69
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.625493,
+    "ra": 111.757872,
+    "dec": 67.290164,
+    "frame_index": 27,
+    "brightness": -7.73
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.648652,
+    "ra": 111.353157,
+    "dec": 67.128787,
+    "frame_index": 28,
+    "brightness": -8.0
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.671811,
+    "ra": 110.972407,
+    "dec": 66.969856,
+    "frame_index": 29,
+    "brightness": -7.99
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.694969,
+    "ra": 110.577708,
+    "dec": 66.813189,
+    "frame_index": 30,
+    "brightness": -8.17
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.718128,
+    "ra": 110.211533,
+    "dec": 66.648659,
+    "frame_index": 31,
+    "brightness": -8.18
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.741287,
+    "ra": 109.847831,
+    "dec": 66.489296,
+    "frame_index": 32,
+    "brightness": -8.1
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.764446,
+    "ra": 109.488212,
+    "dec": 66.32942,
+    "frame_index": 33,
+    "brightness": -8.05
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.787605,
+    "ra": 109.119664,
+    "dec": 66.166652,
+    "frame_index": 34,
+    "brightness": -8.39
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.810764,
+    "ra": 108.768929,
+    "dec": 66.014361,
+    "frame_index": 35,
+    "brightness": -8.57
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.833923,
+    "ra": 108.421778,
+    "dec": 65.851023,
+    "frame_index": 36,
+    "brightness": -8.42
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.857081,
+    "ra": 108.085592,
+    "dec": 65.687651,
+    "frame_index": 37,
+    "brightness": -8.56
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.88024,
+    "ra": 107.751515,
+    "dec": 65.527077,
+    "frame_index": 38,
+    "brightness": -8.81
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.903399,
+    "ra": 107.421287,
+    "dec": 65.368274,
+    "frame_index": 39,
+    "brightness": -8.65
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.926558,
+    "ra": 107.087924,
+    "dec": 65.207382,
+    "frame_index": 40,
+    "brightness": -8.77
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.949717,
+    "ra": 106.774911,
+    "dec": 65.04235,
+    "frame_index": 41,
+    "brightness": -9.07
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.972876,
+    "ra": 106.459728,
+    "dec": 64.878074,
+    "frame_index": 42,
+    "brightness": -8.92
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125364.996034,
+    "ra": 106.153838,
+    "dec": 64.718339,
+    "frame_index": 43,
+    "brightness": -9.22
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.019193,
+    "ra": 105.843958,
+    "dec": 64.555867,
+    "frame_index": 44,
+    "brightness": -9.38
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.042352,
+    "ra": 105.547339,
+    "dec": 64.396301,
+    "frame_index": 45,
+    "brightness": -9.57
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.065511,
+    "ra": 105.254608,
+    "dec": 64.234859,
+    "frame_index": 46,
+    "brightness": -9.53
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.08867,
+    "ra": 104.961316,
+    "dec": 64.075547,
+    "frame_index": 47,
+    "brightness": -9.54
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.111829,
+    "ra": 104.670523,
+    "dec": 63.909406,
+    "frame_index": 48,
+    "brightness": -9.5
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.134988,
+    "ra": 104.391608,
+    "dec": 63.747132,
+    "frame_index": 49,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.158146,
+    "ra": 104.118438,
+    "dec": 63.592501,
+    "frame_index": 50,
+    "brightness": -9.83
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.181305,
+    "ra": 103.844247,
+    "dec": 63.416348,
+    "frame_index": 51,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.204464,
+    "ra": 103.574402,
+    "dec": 63.272011,
+    "frame_index": 52,
+    "brightness": -10.03
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.227623,
+    "ra": 103.311814,
+    "dec": 63.105117,
+    "frame_index": 53,
+    "brightness": -10.27
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.250782,
+    "ra": 103.04455,
+    "dec": 62.942529,
+    "frame_index": 54,
+    "brightness": -10.32
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.273941,
+    "ra": 102.79599,
+    "dec": 62.782363,
+    "frame_index": 55,
+    "brightness": -10.58
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.297099,
+    "ra": 102.535789,
+    "dec": 62.627468,
+    "frame_index": 56,
+    "brightness": -10.66
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.320258,
+    "ra": 102.295857,
+    "dec": 62.456942,
+    "frame_index": 57,
+    "brightness": -10.41
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.343417,
+    "ra": 102.051898,
+    "dec": 62.297697,
+    "frame_index": 58,
+    "brightness": -10.85
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.366576,
+    "ra": 101.80179,
+    "dec": 62.139279,
+    "frame_index": 59,
+    "brightness": -10.65
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.389735,
+    "ra": 101.565653,
+    "dec": 61.983244,
+    "frame_index": 60,
+    "brightness": -10.59
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.412894,
+    "ra": 101.325822,
+    "dec": 61.820244,
+    "frame_index": 61,
+    "brightness": -11.06
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.436053,
+    "ra": 101.097524,
+    "dec": 61.655072,
+    "frame_index": 62,
+    "brightness": -10.98
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.459211,
+    "ra": 100.867738,
+    "dec": 61.509147,
+    "frame_index": 63,
+    "brightness": -11.2
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.48237,
+    "ra": 100.640415,
+    "dec": 61.347203,
+    "frame_index": 64,
+    "brightness": -11.0
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.505529,
+    "ra": 100.421324,
+    "dec": 61.188277,
+    "frame_index": 65,
+    "brightness": -11.23
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.528688,
+    "ra": 100.207557,
+    "dec": 61.030202,
+    "frame_index": 66,
+    "brightness": -10.96
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.551847,
+    "ra": 99.992172,
+    "dec": 60.871196,
+    "frame_index": 67,
+    "brightness": -11.34
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.575006,
+    "ra": 99.777111,
+    "dec": 60.717115,
+    "frame_index": 68,
+    "brightness": -11.22
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.598164,
+    "ra": 99.566012,
+    "dec": 60.563065,
+    "frame_index": 69,
+    "brightness": -11.05
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.621323,
+    "ra": 99.353719,
+    "dec": 60.405764,
+    "frame_index": 70,
+    "brightness": -10.98
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.644482,
+    "ra": 99.151061,
+    "dec": 60.242233,
+    "frame_index": 71,
+    "brightness": -11.06
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.667641,
+    "ra": 98.949925,
+    "dec": 60.092704,
+    "frame_index": 72,
+    "brightness": -11.09
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.6908,
+    "ra": 98.759058,
+    "dec": 59.929574,
+    "frame_index": 73,
+    "brightness": -10.85
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.713959,
+    "ra": 98.555276,
+    "dec": 59.7822,
+    "frame_index": 74,
+    "brightness": -10.97
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.737118,
+    "ra": 98.3625,
+    "dec": 59.627041,
+    "frame_index": 75,
+    "brightness": -11.0
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.760276,
+    "ra": 98.177828,
+    "dec": 59.464711,
+    "frame_index": 76,
+    "brightness": -10.95
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.783435,
+    "ra": 97.984371,
+    "dec": 59.310797,
+    "frame_index": 77,
+    "brightness": -10.77
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.806594,
+    "ra": 97.80008,
+    "dec": 59.16443,
+    "frame_index": 78,
+    "brightness": -10.26
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.829753,
+    "ra": 97.608482,
+    "dec": 59.008407,
+    "frame_index": 79,
+    "brightness": -10.6
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.852912,
+    "ra": 97.432402,
+    "dec": 58.848431,
+    "frame_index": 80,
+    "brightness": -10.48
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.87607,
+    "ra": 97.254879,
+    "dec": 58.7057,
+    "frame_index": 81,
+    "brightness": -10.64
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.89923,
+    "ra": 97.082064,
+    "dec": 58.55935,
+    "frame_index": 82,
+    "brightness": -10.27
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.922388,
+    "ra": 96.909454,
+    "dec": 58.404206,
+    "frame_index": 83,
+    "brightness": -10.48
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.945547,
+    "ra": 96.744801,
+    "dec": 58.252473,
+    "frame_index": 84,
+    "brightness": -10.54
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.968706,
+    "ra": 96.567339,
+    "dec": 58.097327,
+    "frame_index": 85,
+    "brightness": -10.22
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125365.991865,
+    "ra": 96.393363,
+    "dec": 57.948708,
+    "frame_index": 86,
+    "brightness": -9.92
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.015024,
+    "ra": 96.232925,
+    "dec": 57.799888,
+    "frame_index": 87,
+    "brightness": -9.75
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.038182,
+    "ra": 96.072599,
+    "dec": 57.65029,
+    "frame_index": 88,
+    "brightness": -9.7
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.061341,
+    "ra": 95.909416,
+    "dec": 57.505377,
+    "frame_index": 89,
+    "brightness": -10.03
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.0845,
+    "ra": 95.757455,
+    "dec": 57.35292,
+    "frame_index": 90,
+    "brightness": -9.45
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.107659,
+    "ra": 95.59155,
+    "dec": 57.204142,
+    "frame_index": 91,
+    "brightness": -9.55
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.130818,
+    "ra": 95.436771,
+    "dec": 57.058863,
+    "frame_index": 92,
+    "brightness": -9.33
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.153977,
+    "ra": 95.290582,
+    "dec": 56.913047,
+    "frame_index": 93,
+    "brightness": -8.97
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.177135,
+    "ra": 95.135312,
+    "dec": 56.768211,
+    "frame_index": 94,
+    "brightness": -9.29
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.200294,
+    "ra": 94.985605,
+    "dec": 56.611557,
+    "frame_index": 95,
+    "brightness": -9.25
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.223453,
+    "ra": 94.83877,
+    "dec": 56.471248,
+    "frame_index": 96,
+    "brightness": -8.87
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.246612,
+    "ra": 94.692652,
+    "dec": 56.328695,
+    "frame_index": 97,
+    "brightness": -8.62
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.269771,
+    "ra": 94.546621,
+    "dec": 56.182597,
+    "frame_index": 98,
+    "brightness": -8.68
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.29293,
+    "ra": 94.405565,
+    "dec": 56.045552,
+    "frame_index": 99,
+    "brightness": -8.51
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.316089,
+    "ra": 94.270591,
+    "dec": 55.89856,
+    "frame_index": 100,
+    "brightness": -8.28
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.339247,
+    "ra": 94.120631,
+    "dec": 55.750683,
+    "frame_index": 101,
+    "brightness": -8.44
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.362406,
+    "ra": 93.993919,
+    "dec": 55.60106,
+    "frame_index": 102,
+    "brightness": -8.33
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.385565,
+    "ra": 93.851138,
+    "dec": 55.467689,
+    "frame_index": 103,
+    "brightness": -8.32
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.408724,
+    "ra": 93.718707,
+    "dec": 55.321839,
+    "frame_index": 104,
+    "brightness": -8.11
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.431883,
+    "ra": 93.585567,
+    "dec": 55.1826,
+    "frame_index": 105,
+    "brightness": -7.88
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.455042,
+    "ra": 93.456769,
+    "dec": 55.037739,
+    "frame_index": 106,
+    "brightness": -7.95
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.4782,
+    "ra": 93.327672,
+    "dec": 54.900622,
+    "frame_index": 107,
+    "brightness": -8.05
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.501359,
+    "ra": 93.202756,
+    "dec": 54.756944,
+    "frame_index": 108,
+    "brightness": -7.58
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.524518,
+    "ra": 93.072537,
+    "dec": 54.624185,
+    "frame_index": 109,
+    "brightness": -7.8
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.547677,
+    "ra": 92.95112,
+    "dec": 54.487066,
+    "frame_index": 110,
+    "brightness": -7.83
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.570836,
+    "ra": 92.825397,
+    "dec": 54.351233,
+    "frame_index": 111,
+    "brightness": -7.75
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.593995,
+    "ra": 92.700167,
+    "dec": 54.213637,
+    "frame_index": 112,
+    "brightness": -7.42
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.617154,
+    "ra": 92.58525,
+    "dec": 54.068132,
+    "frame_index": 113,
+    "brightness": -7.6
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.640312,
+    "ra": 92.463335,
+    "dec": 53.930205,
+    "frame_index": 114,
+    "brightness": -7.68
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.663471,
+    "ra": 92.351384,
+    "dec": 53.791181,
+    "frame_index": 115,
+    "brightness": -7.69
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.68663,
+    "ra": 92.218201,
+    "dec": 53.665043,
+    "frame_index": 116,
+    "brightness": -7.33
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.709789,
+    "ra": 92.115871,
+    "dec": 53.527882,
+    "frame_index": 117,
+    "brightness": -7.57
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.732948,
+    "ra": 91.99349,
+    "dec": 53.388924,
+    "frame_index": 118,
+    "brightness": -7.35
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.756107,
+    "ra": 91.877399,
+    "dec": 53.255714,
+    "frame_index": 119,
+    "brightness": -7.54
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.779266,
+    "ra": 91.770893,
+    "dec": 53.126776,
+    "frame_index": 120,
+    "brightness": -7.41
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.802424,
+    "ra": 91.657392,
+    "dec": 52.993868,
+    "frame_index": 121,
+    "brightness": -7.23
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.825583,
+    "ra": 91.547132,
+    "dec": 52.846852,
+    "frame_index": 122,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.848742,
+    "ra": 91.445348,
+    "dec": 52.73161,
+    "frame_index": 123,
+    "brightness": -7.37
+  },
+  {
+    "station_id": "Oxford-A",
+    "timestamp": 1730125366.871901,
+    "ra": 91.332086,
+    "dec": 52.595053,
+    "frame_index": 124,
+    "brightness": -7.21
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125364.804312,
+    "ra": 106.985243,
+    "dec": 58.866471,
+    "frame_index": 35,
+    "brightness": -8.57
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125364.827471,
+    "ra": 106.783369,
+    "dec": 58.747735,
+    "frame_index": 36,
+    "brightness": -8.42
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125364.85063,
+    "ra": 106.577854,
+    "dec": 58.625676,
+    "frame_index": 37,
+    "brightness": -8.56
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125364.873788,
+    "ra": 106.372455,
+    "dec": 58.507707,
+    "frame_index": 38,
+    "brightness": -8.81
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125364.896947,
+    "ra": 106.168759,
+    "dec": 58.384785,
+    "frame_index": 39,
+    "brightness": -8.65
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125364.920106,
+    "ra": 105.966837,
+    "dec": 58.266021,
+    "frame_index": 40,
+    "brightness": -8.77
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125364.943265,
+    "ra": 105.774793,
+    "dec": 58.152279,
+    "frame_index": 41,
+    "brightness": -9.07
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125364.966424,
+    "ra": 105.577251,
+    "dec": 58.028223,
+    "frame_index": 42,
+    "brightness": -8.92
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125364.989583,
+    "ra": 105.379439,
+    "dec": 57.915133,
+    "frame_index": 43,
+    "brightness": -9.22
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.012741,
+    "ra": 105.196796,
+    "dec": 57.792103,
+    "frame_index": 44,
+    "brightness": -9.38
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.0359,
+    "ra": 105.006559,
+    "dec": 57.67381,
+    "frame_index": 45,
+    "brightness": -9.57
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.059059,
+    "ra": 104.816285,
+    "dec": 57.565505,
+    "frame_index": 46,
+    "brightness": -9.53
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.082218,
+    "ra": 104.627917,
+    "dec": 57.442658,
+    "frame_index": 47,
+    "brightness": -9.54
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.105377,
+    "ra": 104.448402,
+    "dec": 57.319793,
+    "frame_index": 48,
+    "brightness": -9.5
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.128536,
+    "ra": 104.265031,
+    "dec": 57.199803,
+    "frame_index": 49,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.151695,
+    "ra": 104.081221,
+    "dec": 57.087547,
+    "frame_index": 50,
+    "brightness": -9.83
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.174853,
+    "ra": 103.900898,
+    "dec": 56.957392,
+    "frame_index": 51,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.198012,
+    "ra": 103.729852,
+    "dec": 56.85029,
+    "frame_index": 52,
+    "brightness": -10.03
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.221171,
+    "ra": 103.550107,
+    "dec": 56.734024,
+    "frame_index": 53,
+    "brightness": -10.27
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.24433,
+    "ra": 103.384812,
+    "dec": 56.615097,
+    "frame_index": 54,
+    "brightness": -10.32
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.267489,
+    "ra": 103.208677,
+    "dec": 56.49847,
+    "frame_index": 55,
+    "brightness": -10.58
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.290648,
+    "ra": 103.03933,
+    "dec": 56.387883,
+    "frame_index": 56,
+    "brightness": -10.66
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.313807,
+    "ra": 102.871211,
+    "dec": 56.26558,
+    "frame_index": 57,
+    "brightness": -10.41
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.336965,
+    "ra": 102.706023,
+    "dec": 56.160334,
+    "frame_index": 58,
+    "brightness": -10.85
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.360124,
+    "ra": 102.543687,
+    "dec": 56.041533,
+    "frame_index": 59,
+    "brightness": -10.65
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.383283,
+    "ra": 102.377119,
+    "dec": 55.915208,
+    "frame_index": 60,
+    "brightness": -10.59
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.406442,
+    "ra": 102.217395,
+    "dec": 55.803749,
+    "frame_index": 61,
+    "brightness": -11.06
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.429601,
+    "ra": 102.051763,
+    "dec": 55.689753,
+    "frame_index": 62,
+    "brightness": -10.98
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.45276,
+    "ra": 101.89209,
+    "dec": 55.567747,
+    "frame_index": 63,
+    "brightness": -11.2
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.475918,
+    "ra": 101.733438,
+    "dec": 55.460619,
+    "frame_index": 64,
+    "brightness": -11.0
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.499077,
+    "ra": 101.584549,
+    "dec": 55.334734,
+    "frame_index": 65,
+    "brightness": -11.23
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.522236,
+    "ra": 101.434996,
+    "dec": 55.232471,
+    "frame_index": 66,
+    "brightness": -10.96
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.545395,
+    "ra": 101.280287,
+    "dec": 55.112751,
+    "frame_index": 67,
+    "brightness": -11.34
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.568554,
+    "ra": 101.127391,
+    "dec": 55.006862,
+    "frame_index": 68,
+    "brightness": -11.22
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.591712,
+    "ra": 100.977388,
+    "dec": 54.889123,
+    "frame_index": 69,
+    "brightness": -11.05
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.614872,
+    "ra": 100.821516,
+    "dec": 54.779253,
+    "frame_index": 70,
+    "brightness": -10.98
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.63803,
+    "ra": 100.68016,
+    "dec": 54.656123,
+    "frame_index": 71,
+    "brightness": -11.06
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.661189,
+    "ra": 100.541215,
+    "dec": 54.54242,
+    "frame_index": 72,
+    "brightness": -11.09
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.684348,
+    "ra": 100.39423,
+    "dec": 54.433265,
+    "frame_index": 73,
+    "brightness": -10.85
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.707507,
+    "ra": 100.242445,
+    "dec": 54.317322,
+    "frame_index": 74,
+    "brightness": -10.97
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.730666,
+    "ra": 100.098208,
+    "dec": 54.21428,
+    "frame_index": 75,
+    "brightness": -11.0
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.753824,
+    "ra": 99.966629,
+    "dec": 54.097232,
+    "frame_index": 76,
+    "brightness": -10.95
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.776983,
+    "ra": 99.829196,
+    "dec": 53.988395,
+    "frame_index": 77,
+    "brightness": -10.77
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.800142,
+    "ra": 99.678859,
+    "dec": 53.872639,
+    "frame_index": 78,
+    "brightness": -10.26
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.823301,
+    "ra": 99.553688,
+    "dec": 53.768957,
+    "frame_index": 79,
+    "brightness": -10.6
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.84646,
+    "ra": 99.408155,
+    "dec": 53.656128,
+    "frame_index": 80,
+    "brightness": -10.48
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.869619,
+    "ra": 99.280696,
+    "dec": 53.554971,
+    "frame_index": 81,
+    "brightness": -10.64
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.892778,
+    "ra": 99.150658,
+    "dec": 53.435201,
+    "frame_index": 82,
+    "brightness": -10.27
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.915936,
+    "ra": 99.020465,
+    "dec": 53.324322,
+    "frame_index": 83,
+    "brightness": -10.48
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.939095,
+    "ra": 98.886154,
+    "dec": 53.212776,
+    "frame_index": 84,
+    "brightness": -10.54
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.962254,
+    "ra": 98.755387,
+    "dec": 53.104562,
+    "frame_index": 85,
+    "brightness": -10.22
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125365.985413,
+    "ra": 98.630024,
+    "dec": 52.996484,
+    "frame_index": 86,
+    "brightness": -9.92
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.008572,
+    "ra": 98.508944,
+    "dec": 52.889982,
+    "frame_index": 87,
+    "brightness": -9.75
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.031731,
+    "ra": 98.372011,
+    "dec": 52.774033,
+    "frame_index": 88,
+    "brightness": -9.7
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.054889,
+    "ra": 98.248704,
+    "dec": 52.671239,
+    "frame_index": 89,
+    "brightness": -10.03
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.078048,
+    "ra": 98.127646,
+    "dec": 52.55317,
+    "frame_index": 90,
+    "brightness": -9.45
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.101207,
+    "ra": 98.002279,
+    "dec": 52.449602,
+    "frame_index": 91,
+    "brightness": -9.55
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.124366,
+    "ra": 97.884542,
+    "dec": 52.350942,
+    "frame_index": 92,
+    "brightness": -9.33
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.147525,
+    "ra": 97.762904,
+    "dec": 52.243544,
+    "frame_index": 93,
+    "brightness": -8.97
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.170684,
+    "ra": 97.644606,
+    "dec": 52.136302,
+    "frame_index": 94,
+    "brightness": -9.29
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.193843,
+    "ra": 97.52465,
+    "dec": 52.021488,
+    "frame_index": 95,
+    "brightness": -9.25
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.217001,
+    "ra": 97.410813,
+    "dec": 51.91664,
+    "frame_index": 96,
+    "brightness": -8.87
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.24016,
+    "ra": 97.291241,
+    "dec": 51.821392,
+    "frame_index": 97,
+    "brightness": -8.62
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.263319,
+    "ra": 97.178334,
+    "dec": 51.709673,
+    "frame_index": 98,
+    "brightness": -8.68
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.286478,
+    "ra": 97.058344,
+    "dec": 51.59901,
+    "frame_index": 99,
+    "brightness": -8.51
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.309637,
+    "ra": 96.944141,
+    "dec": 51.497255,
+    "frame_index": 100,
+    "brightness": -8.28
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.332796,
+    "ra": 96.844859,
+    "dec": 51.393298,
+    "frame_index": 101,
+    "brightness": -8.44
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.355954,
+    "ra": 96.734787,
+    "dec": 51.284364,
+    "frame_index": 102,
+    "brightness": -8.33
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.379113,
+    "ra": 96.615559,
+    "dec": 51.184581,
+    "frame_index": 103,
+    "brightness": -8.32
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.402272,
+    "ra": 96.500546,
+    "dec": 51.07824,
+    "frame_index": 104,
+    "brightness": -8.11
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.425431,
+    "ra": 96.395566,
+    "dec": 50.978695,
+    "frame_index": 105,
+    "brightness": -7.88
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.44859,
+    "ra": 96.284755,
+    "dec": 50.875234,
+    "frame_index": 106,
+    "brightness": -7.95
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.471749,
+    "ra": 96.182645,
+    "dec": 50.77568,
+    "frame_index": 107,
+    "brightness": -8.05
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.494908,
+    "ra": 96.069972,
+    "dec": 50.673338,
+    "frame_index": 108,
+    "brightness": -7.58
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.518066,
+    "ra": 95.967395,
+    "dec": 50.563683,
+    "frame_index": 109,
+    "brightness": -7.8
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.541225,
+    "ra": 95.858273,
+    "dec": 50.468657,
+    "frame_index": 110,
+    "brightness": -7.83
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.564384,
+    "ra": 95.759561,
+    "dec": 50.361795,
+    "frame_index": 111,
+    "brightness": -7.75
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.587543,
+    "ra": 95.65853,
+    "dec": 50.262576,
+    "frame_index": 112,
+    "brightness": -7.42
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.610702,
+    "ra": 95.553355,
+    "dec": 50.163779,
+    "frame_index": 113,
+    "brightness": -7.6
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.633861,
+    "ra": 95.453617,
+    "dec": 50.053812,
+    "frame_index": 114,
+    "brightness": -7.68
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.657019,
+    "ra": 95.350462,
+    "dec": 49.950104,
+    "frame_index": 115,
+    "brightness": -7.69
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.680178,
+    "ra": 95.259854,
+    "dec": 49.851168,
+    "frame_index": 116,
+    "brightness": -7.33
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.703337,
+    "ra": 95.153352,
+    "dec": 49.74523,
+    "frame_index": 117,
+    "brightness": -7.57
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.726496,
+    "ra": 95.056903,
+    "dec": 49.650601,
+    "frame_index": 118,
+    "brightness": -7.35
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.749655,
+    "ra": 94.963522,
+    "dec": 49.556876,
+    "frame_index": 119,
+    "brightness": -7.54
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.772814,
+    "ra": 94.862793,
+    "dec": 49.458138,
+    "frame_index": 120,
+    "brightness": -7.41
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.795973,
+    "ra": 94.768987,
+    "dec": 49.365005,
+    "frame_index": 121,
+    "brightness": -7.23
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.819131,
+    "ra": 94.674476,
+    "dec": 49.258748,
+    "frame_index": 122,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.84229,
+    "ra": 94.57917,
+    "dec": 49.166075,
+    "frame_index": 123,
+    "brightness": -7.37
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.865449,
+    "ra": 94.485185,
+    "dec": 49.067959,
+    "frame_index": 124,
+    "brightness": -7.21
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.888608,
+    "ra": 94.39652,
+    "dec": 48.966499,
+    "frame_index": 125,
+    "brightness": -7.4
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.911767,
+    "ra": 94.306625,
+    "dec": 48.876567,
+    "frame_index": 126,
+    "brightness": -7.13
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.934926,
+    "ra": 94.212388,
+    "dec": 48.773968,
+    "frame_index": 127,
+    "brightness": -6.93
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.958084,
+    "ra": 94.121585,
+    "dec": 48.679041,
+    "frame_index": 128,
+    "brightness": -7.39
+  },
+  {
+    "station_id": "Cambridge-B",
+    "timestamp": 1730125366.981243,
+    "ra": 94.027143,
+    "dec": 48.576429,
+    "frame_index": 129,
+    "brightness": -7.46
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125364.719907,
+    "ra": 118.686193,
+    "dec": 81.11007,
+    "frame_index": 31,
+    "brightness": -8.18
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125364.743066,
+    "ra": 117.20306,
+    "dec": 80.891085,
+    "frame_index": 32,
+    "brightness": -8.1
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125364.766225,
+    "ra": 115.785865,
+    "dec": 80.673648,
+    "frame_index": 33,
+    "brightness": -8.05
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125364.789384,
+    "ra": 114.449938,
+    "dec": 80.44034,
+    "frame_index": 34,
+    "brightness": -8.39
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125364.812543,
+    "ra": 113.18617,
+    "dec": 80.221165,
+    "frame_index": 35,
+    "brightness": -8.57
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125364.835702,
+    "ra": 111.97477,
+    "dec": 79.98903,
+    "frame_index": 36,
+    "brightness": -8.42
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125364.85886,
+    "ra": 110.824931,
+    "dec": 79.758334,
+    "frame_index": 37,
+    "brightness": -8.56
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125364.882019,
+    "ra": 109.726475,
+    "dec": 79.510692,
+    "frame_index": 38,
+    "brightness": -8.81
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125364.905178,
+    "ra": 108.687957,
+    "dec": 79.281809,
+    "frame_index": 39,
+    "brightness": -8.65
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125364.928337,
+    "ra": 107.681656,
+    "dec": 79.039187,
+    "frame_index": 40,
+    "brightness": -8.77
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125364.951496,
+    "ra": 106.736537,
+    "dec": 78.785605,
+    "frame_index": 41,
+    "brightness": -9.07
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125364.974655,
+    "ra": 105.827135,
+    "dec": 78.533051,
+    "frame_index": 42,
+    "brightness": -8.92
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125364.997813,
+    "ra": 104.961985,
+    "dec": 78.280996,
+    "frame_index": 43,
+    "brightness": -9.22
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.020972,
+    "ra": 104.128656,
+    "dec": 78.031506,
+    "frame_index": 44,
+    "brightness": -9.38
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.044131,
+    "ra": 103.338677,
+    "dec": 77.78232,
+    "frame_index": 45,
+    "brightness": -9.57
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.06729,
+    "ra": 102.581738,
+    "dec": 77.533457,
+    "frame_index": 46,
+    "brightness": -9.53
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.090449,
+    "ra": 101.853837,
+    "dec": 77.268004,
+    "frame_index": 47,
+    "brightness": -9.54
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.113608,
+    "ra": 101.167469,
+    "dec": 77.0115,
+    "frame_index": 48,
+    "brightness": -9.5
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.136767,
+    "ra": 100.497546,
+    "dec": 76.756469,
+    "frame_index": 49,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.159925,
+    "ra": 99.856762,
+    "dec": 76.50296,
+    "frame_index": 50,
+    "brightness": -9.83
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.183084,
+    "ra": 99.247262,
+    "dec": 76.241728,
+    "frame_index": 51,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.206243,
+    "ra": 98.663989,
+    "dec": 75.976755,
+    "frame_index": 52,
+    "brightness": -10.03
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.229402,
+    "ra": 98.101916,
+    "dec": 75.710443,
+    "frame_index": 53,
+    "brightness": -10.27
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.252561,
+    "ra": 97.548812,
+    "dec": 75.462825,
+    "frame_index": 54,
+    "brightness": -10.32
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.27572,
+    "ra": 97.030015,
+    "dec": 75.193766,
+    "frame_index": 55,
+    "brightness": -10.58
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.298878,
+    "ra": 96.531099,
+    "dec": 74.931652,
+    "frame_index": 56,
+    "brightness": -10.66
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.322037,
+    "ra": 96.038824,
+    "dec": 74.674768,
+    "frame_index": 57,
+    "brightness": -10.41
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.345196,
+    "ra": 95.575903,
+    "dec": 74.411351,
+    "frame_index": 58,
+    "brightness": -10.85
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.368355,
+    "ra": 95.128705,
+    "dec": 74.152723,
+    "frame_index": 59,
+    "brightness": -10.65
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.391514,
+    "ra": 94.697785,
+    "dec": 73.887454,
+    "frame_index": 60,
+    "brightness": -10.59
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.414673,
+    "ra": 94.281848,
+    "dec": 73.633865,
+    "frame_index": 61,
+    "brightness": -11.06
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.437832,
+    "ra": 93.869957,
+    "dec": 73.367849,
+    "frame_index": 62,
+    "brightness": -10.98
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.46099,
+    "ra": 93.477788,
+    "dec": 73.112291,
+    "frame_index": 63,
+    "brightness": -11.2
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.484149,
+    "ra": 93.100244,
+    "dec": 72.856341,
+    "frame_index": 64,
+    "brightness": -11.0
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.507308,
+    "ra": 92.746358,
+    "dec": 72.593239,
+    "frame_index": 65,
+    "brightness": -11.23
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.530467,
+    "ra": 92.384795,
+    "dec": 72.325636,
+    "frame_index": 66,
+    "brightness": -10.96
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.553626,
+    "ra": 92.041867,
+    "dec": 72.074294,
+    "frame_index": 67,
+    "brightness": -11.34
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.576785,
+    "ra": 91.712673,
+    "dec": 71.823954,
+    "frame_index": 68,
+    "brightness": -11.22
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.599943,
+    "ra": 91.389115,
+    "dec": 71.565809,
+    "frame_index": 69,
+    "brightness": -11.05
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.623102,
+    "ra": 91.085325,
+    "dec": 71.301588,
+    "frame_index": 70,
+    "brightness": -10.98
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.646261,
+    "ra": 90.785206,
+    "dec": 71.053753,
+    "frame_index": 71,
+    "brightness": -11.06
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.66942,
+    "ra": 90.489018,
+    "dec": 70.792955,
+    "frame_index": 72,
+    "brightness": -11.09
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.692579,
+    "ra": 90.206454,
+    "dec": 70.539852,
+    "frame_index": 73,
+    "brightness": -10.85
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.715738,
+    "ra": 89.934434,
+    "dec": 70.289149,
+    "frame_index": 74,
+    "brightness": -10.97
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.738897,
+    "ra": 89.671715,
+    "dec": 70.038902,
+    "frame_index": 75,
+    "brightness": -11.0
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.762055,
+    "ra": 89.402991,
+    "dec": 69.779102,
+    "frame_index": 76,
+    "brightness": -10.95
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.785214,
+    "ra": 89.155791,
+    "dec": 69.534251,
+    "frame_index": 77,
+    "brightness": -10.77
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.808373,
+    "ra": 88.907623,
+    "dec": 69.277839,
+    "frame_index": 78,
+    "brightness": -10.26
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.831532,
+    "ra": 88.667617,
+    "dec": 69.02373,
+    "frame_index": 79,
+    "brightness": -10.6
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.854691,
+    "ra": 88.433664,
+    "dec": 68.781644,
+    "frame_index": 80,
+    "brightness": -10.48
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.87785,
+    "ra": 88.209782,
+    "dec": 68.533681,
+    "frame_index": 81,
+    "brightness": -10.64
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.901009,
+    "ra": 87.983428,
+    "dec": 68.290196,
+    "frame_index": 82,
+    "brightness": -10.27
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.924167,
+    "ra": 87.781011,
+    "dec": 68.044996,
+    "frame_index": 83,
+    "brightness": -10.48
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.947326,
+    "ra": 87.572551,
+    "dec": 67.796082,
+    "frame_index": 84,
+    "brightness": -10.54
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.970485,
+    "ra": 87.35925,
+    "dec": 67.553709,
+    "frame_index": 85,
+    "brightness": -10.22
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125365.993644,
+    "ra": 87.164277,
+    "dec": 67.314463,
+    "frame_index": 86,
+    "brightness": -9.92
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.016803,
+    "ra": 86.968724,
+    "dec": 67.061798,
+    "frame_index": 87,
+    "brightness": -9.75
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.039962,
+    "ra": 86.790579,
+    "dec": 66.822898,
+    "frame_index": 88,
+    "brightness": -9.7
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.06312,
+    "ra": 86.5897,
+    "dec": 66.586976,
+    "frame_index": 89,
+    "brightness": -10.03
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.086279,
+    "ra": 86.419668,
+    "dec": 66.354655,
+    "frame_index": 90,
+    "brightness": -9.45
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.109438,
+    "ra": 86.245473,
+    "dec": 66.102737,
+    "frame_index": 91,
+    "brightness": -9.55
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.132597,
+    "ra": 86.074497,
+    "dec": 65.875927,
+    "frame_index": 92,
+    "brightness": -9.33
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.155756,
+    "ra": 85.898255,
+    "dec": 65.622843,
+    "frame_index": 93,
+    "brightness": -8.97
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.178915,
+    "ra": 85.747607,
+    "dec": 65.398831,
+    "frame_index": 94,
+    "brightness": -9.29
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.202074,
+    "ra": 85.583203,
+    "dec": 65.168457,
+    "frame_index": 95,
+    "brightness": -9.25
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.225232,
+    "ra": 85.428082,
+    "dec": 64.94612,
+    "frame_index": 96,
+    "brightness": -8.87
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.248391,
+    "ra": 85.275058,
+    "dec": 64.703431,
+    "frame_index": 97,
+    "brightness": -8.62
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.27155,
+    "ra": 85.124036,
+    "dec": 64.471416,
+    "frame_index": 98,
+    "brightness": -8.68
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.294709,
+    "ra": 84.984938,
+    "dec": 64.243408,
+    "frame_index": 99,
+    "brightness": -8.51
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.317868,
+    "ra": 84.835885,
+    "dec": 64.019663,
+    "frame_index": 100,
+    "brightness": -8.28
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.341027,
+    "ra": 84.697606,
+    "dec": 63.786716,
+    "frame_index": 101,
+    "brightness": -8.44
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.364185,
+    "ra": 84.557009,
+    "dec": 63.555435,
+    "frame_index": 102,
+    "brightness": -8.33
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.387344,
+    "ra": 84.421115,
+    "dec": 63.334705,
+    "frame_index": 103,
+    "brightness": -8.32
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.410503,
+    "ra": 84.304325,
+    "dec": 63.103819,
+    "frame_index": 104,
+    "brightness": -8.11
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.433662,
+    "ra": 84.164284,
+    "dec": 62.881503,
+    "frame_index": 105,
+    "brightness": -7.88
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.456821,
+    "ra": 84.048573,
+    "dec": 62.658652,
+    "frame_index": 106,
+    "brightness": -7.95
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.47998,
+    "ra": 83.921404,
+    "dec": 62.43659,
+    "frame_index": 107,
+    "brightness": -8.05
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.503139,
+    "ra": 83.803181,
+    "dec": 62.217523,
+    "frame_index": 108,
+    "brightness": -7.58
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.526297,
+    "ra": 83.679084,
+    "dec": 62.005264,
+    "frame_index": 109,
+    "brightness": -7.8
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.549456,
+    "ra": 83.566371,
+    "dec": 61.782461,
+    "frame_index": 110,
+    "brightness": -7.83
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.572615,
+    "ra": 83.446684,
+    "dec": 61.566119,
+    "frame_index": 111,
+    "brightness": -7.75
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.595774,
+    "ra": 83.340157,
+    "dec": 61.35134,
+    "frame_index": 112,
+    "brightness": -7.42
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.618933,
+    "ra": 83.22471,
+    "dec": 61.145177,
+    "frame_index": 113,
+    "brightness": -7.6
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.642092,
+    "ra": 83.119711,
+    "dec": 60.923221,
+    "frame_index": 114,
+    "brightness": -7.68
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.66525,
+    "ra": 83.019754,
+    "dec": 60.705565,
+    "frame_index": 115,
+    "brightness": -7.69
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.688409,
+    "ra": 82.90834,
+    "dec": 60.494673,
+    "frame_index": 116,
+    "brightness": -7.33
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.711568,
+    "ra": 82.80637,
+    "dec": 60.285432,
+    "frame_index": 117,
+    "brightness": -7.57
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.734727,
+    "ra": 82.716481,
+    "dec": 60.083388,
+    "frame_index": 118,
+    "brightness": -7.35
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.757886,
+    "ra": 82.614992,
+    "dec": 59.8685,
+    "frame_index": 119,
+    "brightness": -7.54
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.781045,
+    "ra": 82.52076,
+    "dec": 59.665406,
+    "frame_index": 120,
+    "brightness": -7.41
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.804204,
+    "ra": 82.419504,
+    "dec": 59.452065,
+    "frame_index": 121,
+    "brightness": -7.23
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.827362,
+    "ra": 82.332807,
+    "dec": 59.24945,
+    "frame_index": 122,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.850521,
+    "ra": 82.240432,
+    "dec": 59.051867,
+    "frame_index": 123,
+    "brightness": -7.37
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.87368,
+    "ra": 82.151744,
+    "dec": 58.847987,
+    "frame_index": 124,
+    "brightness": -7.21
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.896839,
+    "ra": 82.059938,
+    "dec": 58.646078,
+    "frame_index": 125,
+    "brightness": -7.4
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.919998,
+    "ra": 81.97387,
+    "dec": 58.446788,
+    "frame_index": 126,
+    "brightness": -7.13
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.943156,
+    "ra": 81.882737,
+    "dec": 58.24592,
+    "frame_index": 127,
+    "brightness": -6.93
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.966315,
+    "ra": 81.804338,
+    "dec": 58.046967,
+    "frame_index": 128,
+    "brightness": -7.39
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125366.989474,
+    "ra": 81.718271,
+    "dec": 57.844575,
+    "frame_index": 129,
+    "brightness": -7.46
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125367.012633,
+    "ra": 81.646517,
+    "dec": 57.65467,
+    "frame_index": 130,
+    "brightness": -7.31
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125367.035792,
+    "ra": 81.56468,
+    "dec": 57.460696,
+    "frame_index": 131,
+    "brightness": -7.34
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125367.058951,
+    "ra": 81.488946,
+    "dec": 57.267933,
+    "frame_index": 132,
+    "brightness": -7.26
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125367.08211,
+    "ra": 81.411547,
+    "dec": 57.06741,
+    "frame_index": 133,
+    "brightness": -7.36
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125367.105268,
+    "ra": 81.320382,
+    "dec": 56.879839,
+    "frame_index": 134,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125367.128427,
+    "ra": 81.262593,
+    "dec": 56.695581,
+    "frame_index": 135,
+    "brightness": -7.21
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125367.151586,
+    "ra": 81.179139,
+    "dec": 56.498842,
+    "frame_index": 136,
+    "brightness": -7.2
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125367.174745,
+    "ra": 81.109848,
+    "dec": 56.310291,
+    "frame_index": 137,
+    "brightness": -7.38
+  },
+  {
+    "station_id": "Bristol-C",
+    "timestamp": 1730125367.197904,
+    "ra": 81.045612,
+    "dec": 56.123622,
+    "frame_index": 138,
+    "brightness": -7.41
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.41698,
+    "ra": 80.580621,
+    "dec": 63.453941,
+    "frame_index": 18,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.440139,
+    "ra": 80.512936,
+    "dec": 63.299031,
+    "frame_index": 19,
+    "brightness": -7.38
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.463298,
+    "ra": 80.453356,
+    "dec": 63.144904,
+    "frame_index": 20,
+    "brightness": -7.47
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.486457,
+    "ra": 80.403356,
+    "dec": 63.002424,
+    "frame_index": 21,
+    "brightness": -7.5
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.509616,
+    "ra": 80.341413,
+    "dec": 62.852617,
+    "frame_index": 22,
+    "brightness": -7.76
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.532774,
+    "ra": 80.287615,
+    "dec": 62.712213,
+    "frame_index": 23,
+    "brightness": -7.64
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.555933,
+    "ra": 80.226222,
+    "dec": 62.54821,
+    "frame_index": 24,
+    "brightness": -7.73
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.579092,
+    "ra": 80.166409,
+    "dec": 62.406784,
+    "frame_index": 25,
+    "brightness": -8.04
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.602251,
+    "ra": 80.118735,
+    "dec": 62.256961,
+    "frame_index": 26,
+    "brightness": -7.69
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.62541,
+    "ra": 80.064862,
+    "dec": 62.111301,
+    "frame_index": 27,
+    "brightness": -7.73
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.648569,
+    "ra": 80.010276,
+    "dec": 61.973651,
+    "frame_index": 28,
+    "brightness": -8.0
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.671728,
+    "ra": 79.963394,
+    "dec": 61.824803,
+    "frame_index": 29,
+    "brightness": -7.99
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.694886,
+    "ra": 79.905838,
+    "dec": 61.67862,
+    "frame_index": 30,
+    "brightness": -8.17
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.718045,
+    "ra": 79.85546,
+    "dec": 61.533581,
+    "frame_index": 31,
+    "brightness": -8.18
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.741204,
+    "ra": 79.799126,
+    "dec": 61.381795,
+    "frame_index": 32,
+    "brightness": -8.1
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.764363,
+    "ra": 79.754886,
+    "dec": 61.244764,
+    "frame_index": 33,
+    "brightness": -8.05
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.787522,
+    "ra": 79.700403,
+    "dec": 61.097712,
+    "frame_index": 34,
+    "brightness": -8.39
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.810681,
+    "ra": 79.654144,
+    "dec": 60.969125,
+    "frame_index": 35,
+    "brightness": -8.57
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.83384,
+    "ra": 79.601588,
+    "dec": 60.815573,
+    "frame_index": 36,
+    "brightness": -8.42
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.856998,
+    "ra": 79.553674,
+    "dec": 60.684051,
+    "frame_index": 37,
+    "brightness": -8.56
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.880157,
+    "ra": 79.512527,
+    "dec": 60.538551,
+    "frame_index": 38,
+    "brightness": -8.81
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.903316,
+    "ra": 79.463247,
+    "dec": 60.398833,
+    "frame_index": 39,
+    "brightness": -8.65
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.926475,
+    "ra": 79.418967,
+    "dec": 60.257128,
+    "frame_index": 40,
+    "brightness": -8.77
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.949634,
+    "ra": 79.378592,
+    "dec": 60.1243,
+    "frame_index": 41,
+    "brightness": -9.07
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.972793,
+    "ra": 79.33074,
+    "dec": 59.982881,
+    "frame_index": 42,
+    "brightness": -8.92
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125364.995951,
+    "ra": 79.290664,
+    "dec": 59.837199,
+    "frame_index": 43,
+    "brightness": -9.22
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.01911,
+    "ra": 79.235502,
+    "dec": 59.703366,
+    "frame_index": 44,
+    "brightness": -9.38
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.042269,
+    "ra": 79.194121,
+    "dec": 59.563928,
+    "frame_index": 45,
+    "brightness": -9.57
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.065428,
+    "ra": 79.161836,
+    "dec": 59.419849,
+    "frame_index": 46,
+    "brightness": -9.53
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.088587,
+    "ra": 79.111293,
+    "dec": 59.292746,
+    "frame_index": 47,
+    "brightness": -9.54
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.111746,
+    "ra": 79.074933,
+    "dec": 59.163892,
+    "frame_index": 48,
+    "brightness": -9.5
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.134905,
+    "ra": 79.035743,
+    "dec": 59.022741,
+    "frame_index": 49,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.158063,
+    "ra": 78.992191,
+    "dec": 58.886441,
+    "frame_index": 50,
+    "brightness": -9.83
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.181222,
+    "ra": 78.942653,
+    "dec": 58.75571,
+    "frame_index": 51,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.204381,
+    "ra": 78.911773,
+    "dec": 58.625965,
+    "frame_index": 52,
+    "brightness": -10.03
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.22754,
+    "ra": 78.87275,
+    "dec": 58.491443,
+    "frame_index": 53,
+    "brightness": -10.27
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.250699,
+    "ra": 78.829275,
+    "dec": 58.349468,
+    "frame_index": 54,
+    "brightness": -10.32
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.273858,
+    "ra": 78.796167,
+    "dec": 58.216719,
+    "frame_index": 55,
+    "brightness": -10.58
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.297016,
+    "ra": 78.759799,
+    "dec": 58.084426,
+    "frame_index": 56,
+    "brightness": -10.66
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.320175,
+    "ra": 78.713009,
+    "dec": 57.962528,
+    "frame_index": 57,
+    "brightness": -10.41
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.343334,
+    "ra": 78.685495,
+    "dec": 57.823582,
+    "frame_index": 58,
+    "brightness": -10.85
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.366493,
+    "ra": 78.643048,
+    "dec": 57.688474,
+    "frame_index": 59,
+    "brightness": -10.65
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.389652,
+    "ra": 78.613564,
+    "dec": 57.564375,
+    "frame_index": 60,
+    "brightness": -10.59
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.412811,
+    "ra": 78.572219,
+    "dec": 57.436689,
+    "frame_index": 61,
+    "brightness": -11.06
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.43597,
+    "ra": 78.534205,
+    "dec": 57.301653,
+    "frame_index": 62,
+    "brightness": -10.98
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.459128,
+    "ra": 78.495986,
+    "dec": 57.175978,
+    "frame_index": 63,
+    "brightness": -11.2
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.482287,
+    "ra": 78.470824,
+    "dec": 57.044949,
+    "frame_index": 64,
+    "brightness": -11.0
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.505446,
+    "ra": 78.422498,
+    "dec": 56.925321,
+    "frame_index": 65,
+    "brightness": -11.23
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.528605,
+    "ra": 78.394999,
+    "dec": 56.797423,
+    "frame_index": 66,
+    "brightness": -10.96
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.551764,
+    "ra": 78.359761,
+    "dec": 56.661183,
+    "frame_index": 67,
+    "brightness": -11.34
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.574923,
+    "ra": 78.340307,
+    "dec": 56.534728,
+    "frame_index": 68,
+    "brightness": -11.22
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.598081,
+    "ra": 78.295095,
+    "dec": 56.421986,
+    "frame_index": 69,
+    "brightness": -11.05
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.62124,
+    "ra": 78.269516,
+    "dec": 56.297224,
+    "frame_index": 70,
+    "brightness": -10.98
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.644399,
+    "ra": 78.234618,
+    "dec": 56.167635,
+    "frame_index": 71,
+    "brightness": -11.06
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.667558,
+    "ra": 78.198702,
+    "dec": 56.04089,
+    "frame_index": 72,
+    "brightness": -11.09
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.690717,
+    "ra": 78.177173,
+    "dec": 55.918062,
+    "frame_index": 73,
+    "brightness": -10.85
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.713876,
+    "ra": 78.137338,
+    "dec": 55.797611,
+    "frame_index": 74,
+    "brightness": -10.97
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.737035,
+    "ra": 78.108976,
+    "dec": 55.669551,
+    "frame_index": 75,
+    "brightness": -11.0
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.760193,
+    "ra": 78.077465,
+    "dec": 55.556868,
+    "frame_index": 76,
+    "brightness": -10.95
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.783352,
+    "ra": 78.04841,
+    "dec": 55.432739,
+    "frame_index": 77,
+    "brightness": -10.77
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.806511,
+    "ra": 78.016999,
+    "dec": 55.311932,
+    "frame_index": 78,
+    "brightness": -10.26
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.82967,
+    "ra": 77.98525,
+    "dec": 55.186608,
+    "frame_index": 79,
+    "brightness": -10.6
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.852829,
+    "ra": 77.95919,
+    "dec": 55.071757,
+    "frame_index": 80,
+    "brightness": -10.48
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.875988,
+    "ra": 77.932881,
+    "dec": 54.947214,
+    "frame_index": 81,
+    "brightness": -10.64
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.899147,
+    "ra": 77.892224,
+    "dec": 54.833652,
+    "frame_index": 82,
+    "brightness": -10.27
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.922305,
+    "ra": 77.866755,
+    "dec": 54.706757,
+    "frame_index": 83,
+    "brightness": -10.48
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.945464,
+    "ra": 77.841846,
+    "dec": 54.589846,
+    "frame_index": 84,
+    "brightness": -10.54
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.968623,
+    "ra": 77.809999,
+    "dec": 54.467449,
+    "frame_index": 85,
+    "brightness": -10.22
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125365.991782,
+    "ra": 77.789325,
+    "dec": 54.353659,
+    "frame_index": 86,
+    "brightness": -9.92
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.014941,
+    "ra": 77.75098,
+    "dec": 54.233258,
+    "frame_index": 87,
+    "brightness": -9.75
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.0381,
+    "ra": 77.732169,
+    "dec": 54.10653,
+    "frame_index": 88,
+    "brightness": -9.7
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.061258,
+    "ra": 77.702777,
+    "dec": 53.997885,
+    "frame_index": 89,
+    "brightness": -10.03
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.084417,
+    "ra": 77.675602,
+    "dec": 53.879393,
+    "frame_index": 90,
+    "brightness": -9.45
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.107576,
+    "ra": 77.647916,
+    "dec": 53.77008,
+    "frame_index": 91,
+    "brightness": -9.55
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.130735,
+    "ra": 77.620455,
+    "dec": 53.652079,
+    "frame_index": 92,
+    "brightness": -9.33
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.153894,
+    "ra": 77.597069,
+    "dec": 53.53907,
+    "frame_index": 93,
+    "brightness": -8.97
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.177052,
+    "ra": 77.571806,
+    "dec": 53.426858,
+    "frame_index": 94,
+    "brightness": -9.29
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.200212,
+    "ra": 77.540502,
+    "dec": 53.304995,
+    "frame_index": 95,
+    "brightness": -9.25
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.22337,
+    "ra": 77.523465,
+    "dec": 53.194573,
+    "frame_index": 96,
+    "brightness": -8.87
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.246529,
+    "ra": 77.491054,
+    "dec": 53.081511,
+    "frame_index": 97,
+    "brightness": -8.62
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.269688,
+    "ra": 77.465927,
+    "dec": 52.974408,
+    "frame_index": 98,
+    "brightness": -8.68
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.292847,
+    "ra": 77.445848,
+    "dec": 52.85953,
+    "frame_index": 99,
+    "brightness": -8.51
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.316006,
+    "ra": 77.424186,
+    "dec": 52.744746,
+    "frame_index": 100,
+    "brightness": -8.28
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.339164,
+    "ra": 77.403795,
+    "dec": 52.634894,
+    "frame_index": 101,
+    "brightness": -8.44
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.362323,
+    "ra": 77.373845,
+    "dec": 52.520814,
+    "frame_index": 102,
+    "brightness": -8.33
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.385482,
+    "ra": 77.343657,
+    "dec": 52.412618,
+    "frame_index": 103,
+    "brightness": -8.32
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.408641,
+    "ra": 77.324292,
+    "dec": 52.298922,
+    "frame_index": 104,
+    "brightness": -8.11
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.4318,
+    "ra": 77.303565,
+    "dec": 52.200634,
+    "frame_index": 105,
+    "brightness": -7.88
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.454959,
+    "ra": 77.280538,
+    "dec": 52.079666,
+    "frame_index": 106,
+    "brightness": -7.95
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.478117,
+    "ra": 77.250064,
+    "dec": 51.983177,
+    "frame_index": 107,
+    "brightness": -8.05
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.501276,
+    "ra": 77.235754,
+    "dec": 51.873493,
+    "frame_index": 108,
+    "brightness": -7.58
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.524435,
+    "ra": 77.208173,
+    "dec": 51.755498,
+    "frame_index": 109,
+    "brightness": -7.8
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.547594,
+    "ra": 77.187579,
+    "dec": 51.654736,
+    "frame_index": 110,
+    "brightness": -7.83
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.570753,
+    "ra": 77.169312,
+    "dec": 51.540999,
+    "frame_index": 111,
+    "brightness": -7.75
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.593912,
+    "ra": 77.146075,
+    "dec": 51.44132,
+    "frame_index": 112,
+    "brightness": -7.42
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.617071,
+    "ra": 77.119841,
+    "dec": 51.327347,
+    "frame_index": 113,
+    "brightness": -7.6
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.640229,
+    "ra": 77.095523,
+    "dec": 51.230279,
+    "frame_index": 114,
+    "brightness": -7.68
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.663388,
+    "ra": 77.072964,
+    "dec": 51.119059,
+    "frame_index": 115,
+    "brightness": -7.69
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.686547,
+    "ra": 77.052951,
+    "dec": 51.012658,
+    "frame_index": 116,
+    "brightness": -7.33
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.709706,
+    "ra": 77.032988,
+    "dec": 50.915787,
+    "frame_index": 117,
+    "brightness": -7.57
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.732865,
+    "ra": 77.010729,
+    "dec": 50.803784,
+    "frame_index": 118,
+    "brightness": -7.35
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.756024,
+    "ra": 76.99051,
+    "dec": 50.701367,
+    "frame_index": 119,
+    "brightness": -7.54
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.779183,
+    "ra": 76.980115,
+    "dec": 50.598093,
+    "frame_index": 120,
+    "brightness": -7.41
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.802341,
+    "ra": 76.952337,
+    "dec": 50.497165,
+    "frame_index": 121,
+    "brightness": -7.23
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.8255,
+    "ra": 76.937328,
+    "dec": 50.392612,
+    "frame_index": 122,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.848659,
+    "ra": 76.913822,
+    "dec": 50.284745,
+    "frame_index": 123,
+    "brightness": -7.37
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.871818,
+    "ra": 76.896019,
+    "dec": 50.191764,
+    "frame_index": 124,
+    "brightness": -7.21
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.894977,
+    "ra": 76.869778,
+    "dec": 50.081894,
+    "frame_index": 125,
+    "brightness": -7.4
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.918136,
+    "ra": 76.853911,
+    "dec": 49.989357,
+    "frame_index": 126,
+    "brightness": -7.13
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.941294,
+    "ra": 76.83373,
+    "dec": 49.885131,
+    "frame_index": 127,
+    "brightness": -6.93
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.964453,
+    "ra": 76.810315,
+    "dec": 49.789754,
+    "frame_index": 128,
+    "brightness": -7.39
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125366.987612,
+    "ra": 76.786674,
+    "dec": 49.685763,
+    "frame_index": 129,
+    "brightness": -7.46
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125367.010771,
+    "ra": 76.775626,
+    "dec": 49.59208,
+    "frame_index": 130,
+    "brightness": -7.31
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125367.03393,
+    "ra": 76.759636,
+    "dec": 49.486727,
+    "frame_index": 131,
+    "brightness": -7.34
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125367.057089,
+    "ra": 76.747098,
+    "dec": 49.38573,
+    "frame_index": 132,
+    "brightness": -7.26
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125367.080248,
+    "ra": 76.719517,
+    "dec": 49.289302,
+    "frame_index": 133,
+    "brightness": -7.36
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125367.103406,
+    "ra": 76.699061,
+    "dec": 49.196413,
+    "frame_index": 134,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125367.126565,
+    "ra": 76.689761,
+    "dec": 49.085191,
+    "frame_index": 135,
+    "brightness": -7.21
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125367.149724,
+    "ra": 76.66055,
+    "dec": 49.002822,
+    "frame_index": 136,
+    "brightness": -7.2
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125367.172883,
+    "ra": 76.650583,
+    "dec": 48.894249,
+    "frame_index": 137,
+    "brightness": -7.38
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125367.196042,
+    "ra": 76.626533,
+    "dec": 48.800433,
+    "frame_index": 138,
+    "brightness": -7.41
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125367.219201,
+    "ra": 76.615343,
+    "dec": 48.699717,
+    "frame_index": 139,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125367.242359,
+    "ra": 76.585562,
+    "dec": 48.61101,
+    "frame_index": 140,
+    "brightness": -7.23
+  },
+  {
+    "station_id": "Birmingham-D",
+    "timestamp": 1730125367.265518,
+    "ra": 76.575396,
+    "dec": 48.511202,
+    "frame_index": 141,
+    "brightness": -7.04
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.324851,
+    "ra": 166.137857,
+    "dec": 62.118471,
+    "frame_index": 14,
+    "brightness": -7.47
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.34801,
+    "ra": 165.492235,
+    "dec": 62.154986,
+    "frame_index": 15,
+    "brightness": -7.17
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.371169,
+    "ra": 164.846955,
+    "dec": 62.19933,
+    "frame_index": 16,
+    "brightness": -7.31
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.394327,
+    "ra": 164.203369,
+    "dec": 62.226315,
+    "frame_index": 17,
+    "brightness": -7.6
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.417486,
+    "ra": 163.548533,
+    "dec": 62.248886,
+    "frame_index": 18,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.440645,
+    "ra": 162.900555,
+    "dec": 62.279628,
+    "frame_index": 19,
+    "brightness": -7.38
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.463804,
+    "ra": 162.257052,
+    "dec": 62.299731,
+    "frame_index": 20,
+    "brightness": -7.47
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.486963,
+    "ra": 161.611104,
+    "dec": 62.309458,
+    "frame_index": 21,
+    "brightness": -7.5
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.510122,
+    "ra": 160.959007,
+    "dec": 62.328552,
+    "frame_index": 22,
+    "brightness": -7.76
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.53328,
+    "ra": 160.316427,
+    "dec": 62.335135,
+    "frame_index": 23,
+    "brightness": -7.64
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.556439,
+    "ra": 159.66837,
+    "dec": 62.352382,
+    "frame_index": 24,
+    "brightness": -7.73
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.579598,
+    "ra": 159.014609,
+    "dec": 62.350946,
+    "frame_index": 25,
+    "brightness": -8.04
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.602757,
+    "ra": 158.375784,
+    "dec": 62.354658,
+    "frame_index": 26,
+    "brightness": -7.69
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.625916,
+    "ra": 157.721828,
+    "dec": 62.355278,
+    "frame_index": 27,
+    "brightness": -7.73
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.649075,
+    "ra": 157.075935,
+    "dec": 62.347506,
+    "frame_index": 28,
+    "brightness": -8.0
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.672234,
+    "ra": 156.437056,
+    "dec": 62.347477,
+    "frame_index": 29,
+    "brightness": -7.99
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.695392,
+    "ra": 155.794669,
+    "dec": 62.334119,
+    "frame_index": 30,
+    "brightness": -8.17
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.718551,
+    "ra": 155.157301,
+    "dec": 62.3239,
+    "frame_index": 31,
+    "brightness": -8.18
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.74171,
+    "ra": 154.523164,
+    "dec": 62.309533,
+    "frame_index": 32,
+    "brightness": -8.1
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.764869,
+    "ra": 153.882747,
+    "dec": 62.290468,
+    "frame_index": 33,
+    "brightness": -8.05
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.788028,
+    "ra": 153.245842,
+    "dec": 62.272701,
+    "frame_index": 34,
+    "brightness": -8.39
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.811187,
+    "ra": 152.614434,
+    "dec": 62.249363,
+    "frame_index": 35,
+    "brightness": -8.57
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.834346,
+    "ra": 151.985429,
+    "dec": 62.218704,
+    "frame_index": 36,
+    "brightness": -8.42
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.857504,
+    "ra": 151.357291,
+    "dec": 62.193228,
+    "frame_index": 37,
+    "brightness": -8.56
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.880663,
+    "ra": 150.729408,
+    "dec": 62.159408,
+    "frame_index": 38,
+    "brightness": -8.81
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.903822,
+    "ra": 150.109618,
+    "dec": 62.124954,
+    "frame_index": 39,
+    "brightness": -8.65
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.926981,
+    "ra": 149.49034,
+    "dec": 62.085824,
+    "frame_index": 40,
+    "brightness": -8.77
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.95014,
+    "ra": 148.878456,
+    "dec": 62.049131,
+    "frame_index": 41,
+    "brightness": -9.07
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.973299,
+    "ra": 148.263291,
+    "dec": 62.011612,
+    "frame_index": 42,
+    "brightness": -8.92
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125364.996457,
+    "ra": 147.648046,
+    "dec": 61.963567,
+    "frame_index": 43,
+    "brightness": -9.22
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.019616,
+    "ra": 147.049561,
+    "dec": 61.9143,
+    "frame_index": 44,
+    "brightness": -9.38
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.042775,
+    "ra": 146.438666,
+    "dec": 61.858213,
+    "frame_index": 45,
+    "brightness": -9.57
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.065934,
+    "ra": 145.842091,
+    "dec": 61.803265,
+    "frame_index": 46,
+    "brightness": -9.53
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.089093,
+    "ra": 145.24869,
+    "dec": 61.759787,
+    "frame_index": 47,
+    "brightness": -9.54
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.112252,
+    "ra": 144.654519,
+    "dec": 61.701845,
+    "frame_index": 48,
+    "brightness": -9.5
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.135411,
+    "ra": 144.065425,
+    "dec": 61.639863,
+    "frame_index": 49,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.158569,
+    "ra": 143.480786,
+    "dec": 61.577464,
+    "frame_index": 50,
+    "brightness": -9.83
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.181728,
+    "ra": 142.902245,
+    "dec": 61.51243,
+    "frame_index": 51,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.204887,
+    "ra": 142.320414,
+    "dec": 61.443225,
+    "frame_index": 52,
+    "brightness": -10.03
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.228046,
+    "ra": 141.745284,
+    "dec": 61.372544,
+    "frame_index": 53,
+    "brightness": -10.27
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.251205,
+    "ra": 141.181123,
+    "dec": 61.302996,
+    "frame_index": 54,
+    "brightness": -10.32
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.274364,
+    "ra": 140.616559,
+    "dec": 61.22801,
+    "frame_index": 55,
+    "brightness": -10.58
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.297522,
+    "ra": 140.062496,
+    "dec": 61.15478,
+    "frame_index": 56,
+    "brightness": -10.66
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.320681,
+    "ra": 139.503703,
+    "dec": 61.076333,
+    "frame_index": 57,
+    "brightness": -10.41
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.34384,
+    "ra": 138.95116,
+    "dec": 60.988885,
+    "frame_index": 58,
+    "brightness": -10.85
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.366999,
+    "ra": 138.407235,
+    "dec": 60.915451,
+    "frame_index": 59,
+    "brightness": -10.65
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.390158,
+    "ra": 137.871791,
+    "dec": 60.833348,
+    "frame_index": 60,
+    "brightness": -10.59
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.413317,
+    "ra": 137.328039,
+    "dec": 60.743797,
+    "frame_index": 61,
+    "brightness": -11.06
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.436476,
+    "ra": 136.789486,
+    "dec": 60.657043,
+    "frame_index": 62,
+    "brightness": -10.98
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.459634,
+    "ra": 136.267554,
+    "dec": 60.572859,
+    "frame_index": 63,
+    "brightness": -11.2
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.482793,
+    "ra": 135.738453,
+    "dec": 60.475221,
+    "frame_index": 64,
+    "brightness": -11.0
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.505952,
+    "ra": 135.225388,
+    "dec": 60.383422,
+    "frame_index": 65,
+    "brightness": -11.23
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.529111,
+    "ra": 134.711101,
+    "dec": 60.292135,
+    "frame_index": 66,
+    "brightness": -10.96
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.55227,
+    "ra": 134.200447,
+    "dec": 60.193506,
+    "frame_index": 67,
+    "brightness": -11.34
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.575428,
+    "ra": 133.687727,
+    "dec": 60.09489,
+    "frame_index": 68,
+    "brightness": -11.22
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.598587,
+    "ra": 133.193458,
+    "dec": 59.996952,
+    "frame_index": 69,
+    "brightness": -11.05
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.621746,
+    "ra": 132.698687,
+    "dec": 59.885998,
+    "frame_index": 70,
+    "brightness": -10.98
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.644905,
+    "ra": 132.202761,
+    "dec": 59.789148,
+    "frame_index": 71,
+    "brightness": -11.06
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.668064,
+    "ra": 131.720117,
+    "dec": 59.69576,
+    "frame_index": 72,
+    "brightness": -11.09
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.691223,
+    "ra": 131.24143,
+    "dec": 59.575082,
+    "frame_index": 73,
+    "brightness": -10.85
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.714382,
+    "ra": 130.762017,
+    "dec": 59.479054,
+    "frame_index": 74,
+    "brightness": -10.97
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.73754,
+    "ra": 130.30074,
+    "dec": 59.372625,
+    "frame_index": 75,
+    "brightness": -11.0
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.760699,
+    "ra": 129.822485,
+    "dec": 59.258624,
+    "frame_index": 76,
+    "brightness": -10.95
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.783858,
+    "ra": 129.369853,
+    "dec": 59.149636,
+    "frame_index": 77,
+    "brightness": -10.77
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.807017,
+    "ra": 128.907314,
+    "dec": 59.041486,
+    "frame_index": 78,
+    "brightness": -10.26
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.830176,
+    "ra": 128.449818,
+    "dec": 58.924345,
+    "frame_index": 79,
+    "brightness": -10.6
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.853335,
+    "ra": 127.999405,
+    "dec": 58.811963,
+    "frame_index": 80,
+    "brightness": -10.48
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.876493,
+    "ra": 127.562835,
+    "dec": 58.701258,
+    "frame_index": 81,
+    "brightness": -10.64
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.899652,
+    "ra": 127.116275,
+    "dec": 58.579591,
+    "frame_index": 82,
+    "brightness": -10.27
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.922811,
+    "ra": 126.6885,
+    "dec": 58.462253,
+    "frame_index": 83,
+    "brightness": -10.48
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.94597,
+    "ra": 126.260614,
+    "dec": 58.338414,
+    "frame_index": 84,
+    "brightness": -10.54
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.969129,
+    "ra": 125.834547,
+    "dec": 58.225248,
+    "frame_index": 85,
+    "brightness": -10.22
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125365.992288,
+    "ra": 125.418236,
+    "dec": 58.103344,
+    "frame_index": 86,
+    "brightness": -9.92
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.015447,
+    "ra": 125.006687,
+    "dec": 57.992249,
+    "frame_index": 87,
+    "brightness": -9.75
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.038605,
+    "ra": 124.592563,
+    "dec": 57.860525,
+    "frame_index": 88,
+    "brightness": -9.7
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.061764,
+    "ra": 124.18194,
+    "dec": 57.743,
+    "frame_index": 89,
+    "brightness": -10.03
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.084923,
+    "ra": 123.780492,
+    "dec": 57.61442,
+    "frame_index": 90,
+    "brightness": -9.45
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.108082,
+    "ra": 123.382976,
+    "dec": 57.485973,
+    "frame_index": 91,
+    "brightness": -9.55
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.131241,
+    "ra": 122.987785,
+    "dec": 57.365193,
+    "frame_index": 92,
+    "brightness": -9.33
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.1544,
+    "ra": 122.59469,
+    "dec": 57.24341,
+    "frame_index": 93,
+    "brightness": -8.97
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.177558,
+    "ra": 122.211675,
+    "dec": 57.11535,
+    "frame_index": 94,
+    "brightness": -9.29
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.200717,
+    "ra": 121.834123,
+    "dec": 56.994211,
+    "frame_index": 95,
+    "brightness": -9.25
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.223876,
+    "ra": 121.459103,
+    "dec": 56.86476,
+    "frame_index": 96,
+    "brightness": -8.87
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.247035,
+    "ra": 121.08215,
+    "dec": 56.740245,
+    "frame_index": 97,
+    "brightness": -8.62
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.270194,
+    "ra": 120.716402,
+    "dec": 56.605127,
+    "frame_index": 98,
+    "brightness": -8.68
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.293353,
+    "ra": 120.352957,
+    "dec": 56.478693,
+    "frame_index": 99,
+    "brightness": -8.51
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.316512,
+    "ra": 119.993784,
+    "dec": 56.347713,
+    "frame_index": 100,
+    "brightness": -8.28
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.33967,
+    "ra": 119.63851,
+    "dec": 56.227057,
+    "frame_index": 101,
+    "brightness": -8.44
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.362829,
+    "ra": 119.287078,
+    "dec": 56.095436,
+    "frame_index": 102,
+    "brightness": -8.33
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.385988,
+    "ra": 118.933229,
+    "dec": 55.961141,
+    "frame_index": 103,
+    "brightness": -8.32
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.409147,
+    "ra": 118.596557,
+    "dec": 55.827502,
+    "frame_index": 104,
+    "brightness": -8.11
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.432306,
+    "ra": 118.248147,
+    "dec": 55.693559,
+    "frame_index": 105,
+    "brightness": -7.88
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.455465,
+    "ra": 117.909868,
+    "dec": 55.57132,
+    "frame_index": 106,
+    "brightness": -7.95
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.478623,
+    "ra": 117.583877,
+    "dec": 55.434005,
+    "frame_index": 107,
+    "brightness": -8.05
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.501782,
+    "ra": 117.254673,
+    "dec": 55.29826,
+    "frame_index": 108,
+    "brightness": -7.58
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.524941,
+    "ra": 116.935136,
+    "dec": 55.167481,
+    "frame_index": 109,
+    "brightness": -7.8
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.5481,
+    "ra": 116.602861,
+    "dec": 55.040315,
+    "frame_index": 110,
+    "brightness": -7.83
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.571259,
+    "ra": 116.285021,
+    "dec": 54.903706,
+    "frame_index": 111,
+    "brightness": -7.75
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.594418,
+    "ra": 115.978074,
+    "dec": 54.768844,
+    "frame_index": 112,
+    "brightness": -7.42
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.617577,
+    "ra": 115.665075,
+    "dec": 54.634191,
+    "frame_index": 113,
+    "brightness": -7.6
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.640735,
+    "ra": 115.364797,
+    "dec": 54.498525,
+    "frame_index": 114,
+    "brightness": -7.68
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.663894,
+    "ra": 115.05922,
+    "dec": 54.370547,
+    "frame_index": 115,
+    "brightness": -7.69
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.687053,
+    "ra": 114.75604,
+    "dec": 54.241434,
+    "frame_index": 116,
+    "brightness": -7.33
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.710212,
+    "ra": 114.455951,
+    "dec": 54.100695,
+    "frame_index": 117,
+    "brightness": -7.57
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.733371,
+    "ra": 114.159188,
+    "dec": 53.964165,
+    "frame_index": 118,
+    "brightness": -7.35
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.75653,
+    "ra": 113.874157,
+    "dec": 53.838006,
+    "frame_index": 119,
+    "brightness": -7.54
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.779689,
+    "ra": 113.582475,
+    "dec": 53.700171,
+    "frame_index": 120,
+    "brightness": -7.41
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.802847,
+    "ra": 113.304883,
+    "dec": 53.568368,
+    "frame_index": 121,
+    "brightness": -7.23
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.826006,
+    "ra": 113.021032,
+    "dec": 53.439979,
+    "frame_index": 122,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.849165,
+    "ra": 112.737991,
+    "dec": 53.303446,
+    "frame_index": 123,
+    "brightness": -7.37
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.872324,
+    "ra": 112.467907,
+    "dec": 53.162894,
+    "frame_index": 124,
+    "brightness": -7.21
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.895483,
+    "ra": 112.198843,
+    "dec": 53.029623,
+    "frame_index": 125,
+    "brightness": -7.4
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.918642,
+    "ra": 111.918757,
+    "dec": 52.896426,
+    "frame_index": 126,
+    "brightness": -7.13
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.9418,
+    "ra": 111.65477,
+    "dec": 52.767047,
+    "frame_index": 127,
+    "brightness": -6.93
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.964959,
+    "ra": 111.402931,
+    "dec": 52.632682,
+    "frame_index": 128,
+    "brightness": -7.39
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125366.988118,
+    "ra": 111.139041,
+    "dec": 52.499215,
+    "frame_index": 129,
+    "brightness": -7.46
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125367.011277,
+    "ra": 110.893128,
+    "dec": 52.366884,
+    "frame_index": 130,
+    "brightness": -7.31
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125367.034436,
+    "ra": 110.62599,
+    "dec": 52.235116,
+    "frame_index": 131,
+    "brightness": -7.34
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125367.057595,
+    "ra": 110.378918,
+    "dec": 52.094555,
+    "frame_index": 132,
+    "brightness": -7.26
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125367.080754,
+    "ra": 110.133243,
+    "dec": 51.953273,
+    "frame_index": 133,
+    "brightness": -7.36
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125367.103912,
+    "ra": 109.886401,
+    "dec": 51.840954,
+    "frame_index": 134,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125367.127071,
+    "ra": 109.634216,
+    "dec": 51.692999,
+    "frame_index": 135,
+    "brightness": -7.21
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125367.15023,
+    "ra": 109.40277,
+    "dec": 51.560147,
+    "frame_index": 136,
+    "brightness": -7.2
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125367.173389,
+    "ra": 109.164852,
+    "dec": 51.42809,
+    "frame_index": 137,
+    "brightness": -7.38
+  },
+  {
+    "station_id": "Leeds-E",
+    "timestamp": 1730125367.196548,
+    "ra": 108.93696,
+    "dec": 51.296123,
+    "frame_index": 138,
+    "brightness": -7.41
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.027975,
+    "ra": 199.808217,
+    "dec": 58.279681,
+    "frame_index": 1,
+    "brightness": -7.4
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.051134,
+    "ra": 199.283747,
+    "dec": 58.475184,
+    "frame_index": 2,
+    "brightness": -7.15
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.074293,
+    "ra": 198.7524,
+    "dec": 58.691227,
+    "frame_index": 3,
+    "brightness": -7.08
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.097452,
+    "ra": 198.212356,
+    "dec": 58.884231,
+    "frame_index": 4,
+    "brightness": -7.18
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.120611,
+    "ra": 197.661736,
+    "dec": 59.081363,
+    "frame_index": 5,
+    "brightness": -7.17
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.14377,
+    "ra": 197.110461,
+    "dec": 59.280378,
+    "frame_index": 6,
+    "brightness": -7.43
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.166929,
+    "ra": 196.547746,
+    "dec": 59.472586,
+    "frame_index": 7,
+    "brightness": -7.15
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.190087,
+    "ra": 195.9722,
+    "dec": 59.666962,
+    "frame_index": 8,
+    "brightness": -7.43
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.213246,
+    "ra": 195.399943,
+    "dec": 59.85234,
+    "frame_index": 9,
+    "brightness": -7.16
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.236405,
+    "ra": 194.813947,
+    "dec": 60.050867,
+    "frame_index": 10,
+    "brightness": -7.22
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.259564,
+    "ra": 194.223297,
+    "dec": 60.238403,
+    "frame_index": 11,
+    "brightness": -7.25
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.282723,
+    "ra": 193.618541,
+    "dec": 60.413098,
+    "frame_index": 12,
+    "brightness": -7.02
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.305882,
+    "ra": 193.010888,
+    "dec": 60.600893,
+    "frame_index": 13,
+    "brightness": -7.34
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.32904,
+    "ra": 192.387039,
+    "dec": 60.774278,
+    "frame_index": 14,
+    "brightness": -7.47
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.352199,
+    "ra": 191.762832,
+    "dec": 60.949235,
+    "frame_index": 15,
+    "brightness": -7.17
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.375358,
+    "ra": 191.131771,
+    "dec": 61.128918,
+    "frame_index": 16,
+    "brightness": -7.31
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.398517,
+    "ra": 190.489407,
+    "dec": 61.295209,
+    "frame_index": 17,
+    "brightness": -7.6
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.421676,
+    "ra": 189.841257,
+    "dec": 61.468158,
+    "frame_index": 18,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.444835,
+    "ra": 189.184497,
+    "dec": 61.63443,
+    "frame_index": 19,
+    "brightness": -7.38
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.467993,
+    "ra": 188.51674,
+    "dec": 61.793776,
+    "frame_index": 20,
+    "brightness": -7.47
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.491152,
+    "ra": 187.852958,
+    "dec": 61.950192,
+    "frame_index": 21,
+    "brightness": -7.5
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.514311,
+    "ra": 187.16397,
+    "dec": 62.097592,
+    "frame_index": 22,
+    "brightness": -7.76
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.53747,
+    "ra": 186.477006,
+    "dec": 62.262012,
+    "frame_index": 23,
+    "brightness": -7.64
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.560629,
+    "ra": 185.781201,
+    "dec": 62.413618,
+    "frame_index": 24,
+    "brightness": -7.73
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.583788,
+    "ra": 185.08099,
+    "dec": 62.549515,
+    "frame_index": 25,
+    "brightness": -8.04
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.606946,
+    "ra": 184.366051,
+    "dec": 62.700934,
+    "frame_index": 26,
+    "brightness": -7.69
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.630105,
+    "ra": 183.64638,
+    "dec": 62.840733,
+    "frame_index": 27,
+    "brightness": -7.73
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.653264,
+    "ra": 182.921521,
+    "dec": 62.975313,
+    "frame_index": 28,
+    "brightness": -8.0
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.676423,
+    "ra": 182.196884,
+    "dec": 63.108141,
+    "frame_index": 29,
+    "brightness": -7.99
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.699582,
+    "ra": 181.459173,
+    "dec": 63.233735,
+    "frame_index": 30,
+    "brightness": -8.17
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.722741,
+    "ra": 180.71064,
+    "dec": 63.350897,
+    "frame_index": 31,
+    "brightness": -8.18
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.7459,
+    "ra": 179.958167,
+    "dec": 63.479017,
+    "frame_index": 32,
+    "brightness": -8.1
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.769058,
+    "ra": 179.197223,
+    "dec": 63.591086,
+    "frame_index": 33,
+    "brightness": -8.05
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.792217,
+    "ra": 178.434099,
+    "dec": 63.71472,
+    "frame_index": 34,
+    "brightness": -8.39
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.815376,
+    "ra": 177.655136,
+    "dec": 63.806953,
+    "frame_index": 35,
+    "brightness": -8.57
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.838535,
+    "ra": 176.890449,
+    "dec": 63.923047,
+    "frame_index": 36,
+    "brightness": -8.42
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.861694,
+    "ra": 176.103549,
+    "dec": 64.019844,
+    "frame_index": 37,
+    "brightness": -8.56
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.884853,
+    "ra": 175.31649,
+    "dec": 64.114973,
+    "frame_index": 38,
+    "brightness": -8.81
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.908011,
+    "ra": 174.520707,
+    "dec": 64.205063,
+    "frame_index": 39,
+    "brightness": -8.65
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.93117,
+    "ra": 173.718847,
+    "dec": 64.291287,
+    "frame_index": 40,
+    "brightness": -8.77
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.954329,
+    "ra": 172.919374,
+    "dec": 64.371722,
+    "frame_index": 41,
+    "brightness": -9.07
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125364.977488,
+    "ra": 172.115465,
+    "dec": 64.449849,
+    "frame_index": 42,
+    "brightness": -8.92
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.000647,
+    "ra": 171.304143,
+    "dec": 64.52581,
+    "frame_index": 43,
+    "brightness": -9.22
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.023806,
+    "ra": 170.48358,
+    "dec": 64.590877,
+    "frame_index": 44,
+    "brightness": -9.38
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.046965,
+    "ra": 169.661233,
+    "dec": 64.661494,
+    "frame_index": 45,
+    "brightness": -9.57
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.070123,
+    "ra": 168.844498,
+    "dec": 64.718426,
+    "frame_index": 46,
+    "brightness": -9.53
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.093282,
+    "ra": 168.022473,
+    "dec": 64.776587,
+    "frame_index": 47,
+    "brightness": -9.54
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.116441,
+    "ra": 167.191622,
+    "dec": 64.832709,
+    "frame_index": 48,
+    "brightness": -9.5
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.1396,
+    "ra": 166.365374,
+    "dec": 64.883662,
+    "frame_index": 49,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.162759,
+    "ra": 165.535565,
+    "dec": 64.916054,
+    "frame_index": 50,
+    "brightness": -9.83
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.185918,
+    "ra": 164.698634,
+    "dec": 64.945658,
+    "frame_index": 51,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.209076,
+    "ra": 163.860746,
+    "dec": 64.98039,
+    "frame_index": 52,
+    "brightness": -10.03
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.232235,
+    "ra": 163.03791,
+    "dec": 65.01406,
+    "frame_index": 53,
+    "brightness": -10.27
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.255394,
+    "ra": 162.190765,
+    "dec": 65.029173,
+    "frame_index": 54,
+    "brightness": -10.32
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.278553,
+    "ra": 161.357415,
+    "dec": 65.05391,
+    "frame_index": 55,
+    "brightness": -10.58
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.301712,
+    "ra": 160.533946,
+    "dec": 65.066933,
+    "frame_index": 56,
+    "brightness": -10.66
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.324871,
+    "ra": 159.693689,
+    "dec": 65.077975,
+    "frame_index": 57,
+    "brightness": -10.41
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.34803,
+    "ra": 158.860183,
+    "dec": 65.077764,
+    "frame_index": 58,
+    "brightness": -10.85
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.371188,
+    "ra": 158.019841,
+    "dec": 65.068296,
+    "frame_index": 59,
+    "brightness": -10.65
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.394347,
+    "ra": 157.190815,
+    "dec": 65.064498,
+    "frame_index": 60,
+    "brightness": -10.59
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.417506,
+    "ra": 156.365829,
+    "dec": 65.060987,
+    "frame_index": 61,
+    "brightness": -11.06
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.440665,
+    "ra": 155.537099,
+    "dec": 65.045735,
+    "frame_index": 62,
+    "brightness": -10.98
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.463824,
+    "ra": 154.719586,
+    "dec": 65.028531,
+    "frame_index": 63,
+    "brightness": -11.2
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.486983,
+    "ra": 153.901582,
+    "dec": 65.004656,
+    "frame_index": 64,
+    "brightness": -11.0
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.510141,
+    "ra": 153.083184,
+    "dec": 64.97835,
+    "frame_index": 65,
+    "brightness": -11.23
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.5333,
+    "ra": 152.274271,
+    "dec": 64.947469,
+    "frame_index": 66,
+    "brightness": -10.96
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.556459,
+    "ra": 151.463302,
+    "dec": 64.918415,
+    "frame_index": 67,
+    "brightness": -11.34
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.579618,
+    "ra": 150.653756,
+    "dec": 64.869895,
+    "frame_index": 68,
+    "brightness": -11.22
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.602777,
+    "ra": 149.853776,
+    "dec": 64.828169,
+    "frame_index": 69,
+    "brightness": -11.05
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.625936,
+    "ra": 149.059103,
+    "dec": 64.778449,
+    "frame_index": 70,
+    "brightness": -10.98
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.649095,
+    "ra": 148.26631,
+    "dec": 64.726504,
+    "frame_index": 71,
+    "brightness": -11.06
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.672253,
+    "ra": 147.48512,
+    "dec": 64.670436,
+    "frame_index": 72,
+    "brightness": -11.09
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.695412,
+    "ra": 146.700201,
+    "dec": 64.612856,
+    "frame_index": 73,
+    "brightness": -10.85
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.718571,
+    "ra": 145.92719,
+    "dec": 64.537312,
+    "frame_index": 74,
+    "brightness": -10.97
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.74173,
+    "ra": 145.164772,
+    "dec": 64.469991,
+    "frame_index": 75,
+    "brightness": -11.0
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.764889,
+    "ra": 144.404341,
+    "dec": 64.400708,
+    "frame_index": 76,
+    "brightness": -10.95
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.788048,
+    "ra": 143.643468,
+    "dec": 64.328081,
+    "frame_index": 77,
+    "brightness": -10.77
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.811207,
+    "ra": 142.888814,
+    "dec": 64.246253,
+    "frame_index": 78,
+    "brightness": -10.26
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.834365,
+    "ra": 142.153032,
+    "dec": 64.155826,
+    "frame_index": 79,
+    "brightness": -10.6
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.857524,
+    "ra": 141.420326,
+    "dec": 64.076435,
+    "frame_index": 80,
+    "brightness": -10.48
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.880683,
+    "ra": 140.699093,
+    "dec": 63.983692,
+    "frame_index": 81,
+    "brightness": -10.64
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.903842,
+    "ra": 139.968741,
+    "dec": 63.879794,
+    "frame_index": 82,
+    "brightness": -10.27
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.927001,
+    "ra": 139.250082,
+    "dec": 63.78657,
+    "frame_index": 83,
+    "brightness": -10.48
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.95016,
+    "ra": 138.546854,
+    "dec": 63.691776,
+    "frame_index": 84,
+    "brightness": -10.54
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.973318,
+    "ra": 137.850189,
+    "dec": 63.59348,
+    "frame_index": 85,
+    "brightness": -10.22
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125365.996477,
+    "ra": 137.160617,
+    "dec": 63.475437,
+    "frame_index": 86,
+    "brightness": -9.92
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.019636,
+    "ra": 136.472518,
+    "dec": 63.371451,
+    "frame_index": 87,
+    "brightness": -9.75
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.042795,
+    "ra": 135.798604,
+    "dec": 63.260054,
+    "frame_index": 88,
+    "brightness": -9.7
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.065954,
+    "ra": 135.129192,
+    "dec": 63.149547,
+    "frame_index": 89,
+    "brightness": -10.03
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.089113,
+    "ra": 134.465363,
+    "dec": 63.028215,
+    "frame_index": 90,
+    "brightness": -9.45
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.112272,
+    "ra": 133.812348,
+    "dec": 62.904785,
+    "frame_index": 91,
+    "brightness": -9.55
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.13543,
+    "ra": 133.171105,
+    "dec": 62.784104,
+    "frame_index": 92,
+    "brightness": -9.33
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.158589,
+    "ra": 132.537581,
+    "dec": 62.665274,
+    "frame_index": 93,
+    "brightness": -8.97
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.181748,
+    "ra": 131.90781,
+    "dec": 62.533883,
+    "frame_index": 94,
+    "brightness": -9.29
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.204907,
+    "ra": 131.284723,
+    "dec": 62.407061,
+    "frame_index": 95,
+    "brightness": -9.25
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.228066,
+    "ra": 130.668146,
+    "dec": 62.279195,
+    "frame_index": 96,
+    "brightness": -8.87
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.251225,
+    "ra": 130.062604,
+    "dec": 62.133361,
+    "frame_index": 97,
+    "brightness": -8.62
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.274383,
+    "ra": 129.465949,
+    "dec": 62.002442,
+    "frame_index": 98,
+    "brightness": -8.68
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.297542,
+    "ra": 128.881077,
+    "dec": 61.863649,
+    "frame_index": 99,
+    "brightness": -8.51
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.320701,
+    "ra": 128.292064,
+    "dec": 61.731493,
+    "frame_index": 100,
+    "brightness": -8.28
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.34386,
+    "ra": 127.723505,
+    "dec": 61.589232,
+    "frame_index": 101,
+    "brightness": -8.44
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.367019,
+    "ra": 127.155642,
+    "dec": 61.435806,
+    "frame_index": 102,
+    "brightness": -8.33
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.390178,
+    "ra": 126.597597,
+    "dec": 61.298283,
+    "frame_index": 103,
+    "brightness": -8.32
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.413337,
+    "ra": 126.051991,
+    "dec": 61.147782,
+    "frame_index": 104,
+    "brightness": -8.11
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.436495,
+    "ra": 125.49887,
+    "dec": 61.002604,
+    "frame_index": 105,
+    "brightness": -7.88
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.459654,
+    "ra": 124.95643,
+    "dec": 60.865112,
+    "frame_index": 106,
+    "brightness": -7.95
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.482813,
+    "ra": 124.440467,
+    "dec": 60.699218,
+    "frame_index": 107,
+    "brightness": -8.05
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.505972,
+    "ra": 123.920004,
+    "dec": 60.551579,
+    "frame_index": 108,
+    "brightness": -7.58
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.529131,
+    "ra": 123.404517,
+    "dec": 60.398503,
+    "frame_index": 109,
+    "brightness": -7.8
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.552289,
+    "ra": 122.900373,
+    "dec": 60.232109,
+    "frame_index": 110,
+    "brightness": -7.83
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.575448,
+    "ra": 122.39269,
+    "dec": 60.073282,
+    "frame_index": 111,
+    "brightness": -7.75
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.598607,
+    "ra": 121.905884,
+    "dec": 59.935846,
+    "frame_index": 112,
+    "brightness": -7.42
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.621766,
+    "ra": 121.419584,
+    "dec": 59.771047,
+    "frame_index": 113,
+    "brightness": -7.6
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.644925,
+    "ra": 120.949864,
+    "dec": 59.612501,
+    "frame_index": 114,
+    "brightness": -7.68
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.668084,
+    "ra": 120.470421,
+    "dec": 59.451321,
+    "frame_index": 115,
+    "brightness": -7.69
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.691243,
+    "ra": 120.013329,
+    "dec": 59.298453,
+    "frame_index": 116,
+    "brightness": -7.33
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.714401,
+    "ra": 119.549482,
+    "dec": 59.128005,
+    "frame_index": 117,
+    "brightness": -7.57
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.73756,
+    "ra": 119.091684,
+    "dec": 58.9683,
+    "frame_index": 118,
+    "brightness": -7.35
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.760719,
+    "ra": 118.654824,
+    "dec": 58.811055,
+    "frame_index": 119,
+    "brightness": -7.54
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.783878,
+    "ra": 118.216808,
+    "dec": 58.634043,
+    "frame_index": 120,
+    "brightness": -7.41
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.807037,
+    "ra": 117.784357,
+    "dec": 58.475015,
+    "frame_index": 121,
+    "brightness": -7.23
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.830196,
+    "ra": 117.357961,
+    "dec": 58.311395,
+    "frame_index": 122,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.853354,
+    "ra": 116.936704,
+    "dec": 58.138673,
+    "frame_index": 123,
+    "brightness": -7.37
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.876513,
+    "ra": 116.519672,
+    "dec": 57.977826,
+    "frame_index": 124,
+    "brightness": -7.21
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.899672,
+    "ra": 116.117518,
+    "dec": 57.811631,
+    "frame_index": 125,
+    "brightness": -7.4
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.922831,
+    "ra": 115.708867,
+    "dec": 57.640699,
+    "frame_index": 126,
+    "brightness": -7.13
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.94599,
+    "ra": 115.321407,
+    "dec": 57.474393,
+    "frame_index": 127,
+    "brightness": -6.93
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.969149,
+    "ra": 114.92776,
+    "dec": 57.31088,
+    "frame_index": 128,
+    "brightness": -7.39
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125366.992308,
+    "ra": 114.544389,
+    "dec": 57.140877,
+    "frame_index": 129,
+    "brightness": -7.46
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125367.015466,
+    "ra": 114.162064,
+    "dec": 56.96911,
+    "frame_index": 130,
+    "brightness": -7.31
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125367.038625,
+    "ra": 113.783085,
+    "dec": 56.804434,
+    "frame_index": 131,
+    "brightness": -7.34
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125367.061784,
+    "ra": 113.421169,
+    "dec": 56.636782,
+    "frame_index": 132,
+    "brightness": -7.26
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125367.084943,
+    "ra": 113.05873,
+    "dec": 56.466823,
+    "frame_index": 133,
+    "brightness": -7.36
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125367.108102,
+    "ra": 112.699069,
+    "dec": 56.29757,
+    "frame_index": 134,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125367.131261,
+    "ra": 112.347216,
+    "dec": 56.128678,
+    "frame_index": 135,
+    "brightness": -7.21
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125367.154419,
+    "ra": 112.004041,
+    "dec": 55.962404,
+    "frame_index": 136,
+    "brightness": -7.2
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125367.177578,
+    "ra": 111.664744,
+    "dec": 55.790855,
+    "frame_index": 137,
+    "brightness": -7.38
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125367.200737,
+    "ra": 111.328884,
+    "dec": 55.616323,
+    "frame_index": 138,
+    "brightness": -7.41
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125367.223896,
+    "ra": 110.993297,
+    "dec": 55.457155,
+    "frame_index": 139,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125367.247055,
+    "ra": 110.663797,
+    "dec": 55.278524,
+    "frame_index": 140,
+    "brightness": -7.23
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125367.270214,
+    "ra": 110.340101,
+    "dec": 55.113704,
+    "frame_index": 141,
+    "brightness": -7.04
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125367.293373,
+    "ra": 110.02298,
+    "dec": 54.950301,
+    "frame_index": 142,
+    "brightness": -7.45
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125367.316531,
+    "ra": 109.707742,
+    "dec": 54.78198,
+    "frame_index": 143,
+    "brightness": -6.9
+  },
+  {
+    "station_id": "Manchester-F",
+    "timestamp": 1730125367.33969,
+    "ra": 109.394263,
+    "dec": 54.611331,
+    "frame_index": 144,
+    "brightness": -6.99
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.004049,
+    "ra": 348.767324,
+    "dec": 83.110437,
+    "frame_index": 0,
+    "brightness": -7.28
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.027208,
+    "ra": 351.310731,
+    "dec": 83.075354,
+    "frame_index": 1,
+    "brightness": -7.4
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.050367,
+    "ra": 353.817549,
+    "dec": 83.024682,
+    "frame_index": 2,
+    "brightness": -7.15
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.073526,
+    "ra": 356.271539,
+    "dec": 82.960751,
+    "frame_index": 3,
+    "brightness": -7.08
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.096684,
+    "ra": 358.677988,
+    "dec": 82.877965,
+    "frame_index": 4,
+    "brightness": -7.18
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.119843,
+    "ra": 1.015728,
+    "dec": 82.79475,
+    "frame_index": 5,
+    "brightness": -7.17
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.143002,
+    "ra": 3.3053,
+    "dec": 82.688616,
+    "frame_index": 6,
+    "brightness": -7.43
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.166161,
+    "ra": 5.516709,
+    "dec": 82.584133,
+    "frame_index": 7,
+    "brightness": -7.15
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.18932,
+    "ra": 7.658151,
+    "dec": 82.460353,
+    "frame_index": 8,
+    "brightness": -7.43
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.212479,
+    "ra": 9.72264,
+    "dec": 82.328519,
+    "frame_index": 9,
+    "brightness": -7.16
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.235637,
+    "ra": 11.719065,
+    "dec": 82.187735,
+    "frame_index": 10,
+    "brightness": -7.22
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.258796,
+    "ra": 13.633111,
+    "dec": 82.041506,
+    "frame_index": 11,
+    "brightness": -7.25
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.281955,
+    "ra": 15.475922,
+    "dec": 81.88311,
+    "frame_index": 12,
+    "brightness": -7.02
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.305114,
+    "ra": 17.240989,
+    "dec": 81.719065,
+    "frame_index": 13,
+    "brightness": -7.34
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.328273,
+    "ra": 18.928861,
+    "dec": 81.547483,
+    "frame_index": 14,
+    "brightness": -7.47
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.351432,
+    "ra": 20.551656,
+    "dec": 81.369523,
+    "frame_index": 15,
+    "brightness": -7.17
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.374591,
+    "ra": 22.101566,
+    "dec": 81.182218,
+    "frame_index": 16,
+    "brightness": -7.31
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.397749,
+    "ra": 23.585521,
+    "dec": 80.998431,
+    "frame_index": 17,
+    "brightness": -7.6
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.420908,
+    "ra": 25.00009,
+    "dec": 80.796436,
+    "frame_index": 18,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.444067,
+    "ra": 26.351512,
+    "dec": 80.59559,
+    "frame_index": 19,
+    "brightness": -7.38
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.467226,
+    "ra": 27.640197,
+    "dec": 80.391881,
+    "frame_index": 20,
+    "brightness": -7.47
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.490385,
+    "ra": 28.889077,
+    "dec": 80.187337,
+    "frame_index": 21,
+    "brightness": -7.5
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.513544,
+    "ra": 30.066384,
+    "dec": 79.977843,
+    "frame_index": 22,
+    "brightness": -7.76
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.536702,
+    "ra": 31.196339,
+    "dec": 79.767011,
+    "frame_index": 23,
+    "brightness": -7.64
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.559861,
+    "ra": 32.283026,
+    "dec": 79.539321,
+    "frame_index": 24,
+    "brightness": -7.73
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.58302,
+    "ra": 33.31444,
+    "dec": 79.314221,
+    "frame_index": 25,
+    "brightness": -8.04
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.606179,
+    "ra": 34.315751,
+    "dec": 79.092637,
+    "frame_index": 26,
+    "brightness": -7.69
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.629338,
+    "ra": 35.254039,
+    "dec": 78.87173,
+    "frame_index": 27,
+    "brightness": -7.73
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.652497,
+    "ra": 36.165583,
+    "dec": 78.63603,
+    "frame_index": 28,
+    "brightness": -8.0
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.675656,
+    "ra": 37.04154,
+    "dec": 78.412687,
+    "frame_index": 29,
+    "brightness": -7.99
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.698814,
+    "ra": 37.866166,
+    "dec": 78.178606,
+    "frame_index": 30,
+    "brightness": -8.17
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.721973,
+    "ra": 38.66517,
+    "dec": 77.929065,
+    "frame_index": 31,
+    "brightness": -8.18
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.745132,
+    "ra": 39.432246,
+    "dec": 77.709225,
+    "frame_index": 32,
+    "brightness": -8.1
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.768291,
+    "ra": 40.175312,
+    "dec": 77.471252,
+    "frame_index": 33,
+    "brightness": -8.05
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.79145,
+    "ra": 40.873811,
+    "dec": 77.227454,
+    "frame_index": 34,
+    "brightness": -8.39
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.814609,
+    "ra": 41.549402,
+    "dec": 76.989839,
+    "frame_index": 35,
+    "brightness": -8.57
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.837768,
+    "ra": 42.212567,
+    "dec": 76.759148,
+    "frame_index": 36,
+    "brightness": -8.42
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.860926,
+    "ra": 42.836838,
+    "dec": 76.510801,
+    "frame_index": 37,
+    "brightness": -8.56
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.884085,
+    "ra": 43.440304,
+    "dec": 76.277667,
+    "frame_index": 38,
+    "brightness": -8.81
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.907244,
+    "ra": 44.019621,
+    "dec": 76.023273,
+    "frame_index": 39,
+    "brightness": -8.65
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.930403,
+    "ra": 44.577652,
+    "dec": 75.781394,
+    "frame_index": 40,
+    "brightness": -8.77
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.953562,
+    "ra": 45.121951,
+    "dec": 75.551617,
+    "frame_index": 41,
+    "brightness": -9.07
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.976721,
+    "ra": 45.645625,
+    "dec": 75.296643,
+    "frame_index": 42,
+    "brightness": -8.92
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125364.999879,
+    "ra": 46.143869,
+    "dec": 75.051368,
+    "frame_index": 43,
+    "brightness": -9.22
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.023038,
+    "ra": 46.627652,
+    "dec": 74.812148,
+    "frame_index": 44,
+    "brightness": -9.38
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.046197,
+    "ra": 47.095266,
+    "dec": 74.562667,
+    "frame_index": 45,
+    "brightness": -9.57
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.069356,
+    "ra": 47.544278,
+    "dec": 74.320266,
+    "frame_index": 46,
+    "brightness": -9.53
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.092515,
+    "ra": 47.985077,
+    "dec": 74.08069,
+    "frame_index": 47,
+    "brightness": -9.54
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.115674,
+    "ra": 48.395082,
+    "dec": 73.83707,
+    "frame_index": 48,
+    "brightness": -9.5
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.138833,
+    "ra": 48.812981,
+    "dec": 73.58733,
+    "frame_index": 49,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.161991,
+    "ra": 49.212112,
+    "dec": 73.344212,
+    "frame_index": 50,
+    "brightness": -9.83
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.18515,
+    "ra": 49.588843,
+    "dec": 73.112932,
+    "frame_index": 51,
+    "brightness": -10.02
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.208309,
+    "ra": 49.958593,
+    "dec": 72.862478,
+    "frame_index": 52,
+    "brightness": -10.03
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.231468,
+    "ra": 50.315677,
+    "dec": 72.617858,
+    "frame_index": 53,
+    "brightness": -10.27
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.254627,
+    "ra": 50.668669,
+    "dec": 72.37193,
+    "frame_index": 54,
+    "brightness": -10.32
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.277786,
+    "ra": 51.005752,
+    "dec": 72.135826,
+    "frame_index": 55,
+    "brightness": -10.58
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.300944,
+    "ra": 51.339396,
+    "dec": 71.890237,
+    "frame_index": 56,
+    "brightness": -10.66
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.324103,
+    "ra": 51.646768,
+    "dec": 71.65836,
+    "frame_index": 57,
+    "brightness": -10.41
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.347262,
+    "ra": 51.961794,
+    "dec": 71.408373,
+    "frame_index": 58,
+    "brightness": -10.85
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.370421,
+    "ra": 52.264701,
+    "dec": 71.16296,
+    "frame_index": 59,
+    "brightness": -10.65
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.39358,
+    "ra": 52.550042,
+    "dec": 70.935935,
+    "frame_index": 60,
+    "brightness": -10.59
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.416739,
+    "ra": 52.835753,
+    "dec": 70.688791,
+    "frame_index": 61,
+    "brightness": -11.06
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.439898,
+    "ra": 53.111041,
+    "dec": 70.456368,
+    "frame_index": 62,
+    "brightness": -10.98
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.463056,
+    "ra": 53.366366,
+    "dec": 70.21226,
+    "frame_index": 63,
+    "brightness": -11.2
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.486215,
+    "ra": 53.640049,
+    "dec": 69.975798,
+    "frame_index": 64,
+    "brightness": -11.0
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.509374,
+    "ra": 53.886238,
+    "dec": 69.741927,
+    "frame_index": 65,
+    "brightness": -11.23
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.532533,
+    "ra": 54.143037,
+    "dec": 69.509121,
+    "frame_index": 66,
+    "brightness": -10.96
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.555692,
+    "ra": 54.369188,
+    "dec": 69.280403,
+    "frame_index": 67,
+    "brightness": -11.34
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.578851,
+    "ra": 54.607226,
+    "dec": 69.044971,
+    "frame_index": 68,
+    "brightness": -11.22
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.602009,
+    "ra": 54.842097,
+    "dec": 68.800719,
+    "frame_index": 69,
+    "brightness": -11.05
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.625168,
+    "ra": 55.071117,
+    "dec": 68.577709,
+    "frame_index": 70,
+    "brightness": -10.98
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.648327,
+    "ra": 55.285254,
+    "dec": 68.34284,
+    "frame_index": 71,
+    "brightness": -11.06
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.671486,
+    "ra": 55.49708,
+    "dec": 68.101787,
+    "frame_index": 72,
+    "brightness": -11.09
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.694645,
+    "ra": 55.701779,
+    "dec": 67.884504,
+    "frame_index": 73,
+    "brightness": -10.85
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.717804,
+    "ra": 55.90438,
+    "dec": 67.647837,
+    "frame_index": 74,
+    "brightness": -10.97
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.740963,
+    "ra": 56.103688,
+    "dec": 67.419992,
+    "frame_index": 75,
+    "brightness": -11.0
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.764121,
+    "ra": 56.291285,
+    "dec": 67.193015,
+    "frame_index": 76,
+    "brightness": -10.95
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.78728,
+    "ra": 56.479326,
+    "dec": 66.965554,
+    "frame_index": 77,
+    "brightness": -10.77
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.810439,
+    "ra": 56.660872,
+    "dec": 66.745767,
+    "frame_index": 78,
+    "brightness": -10.26
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.833598,
+    "ra": 56.836914,
+    "dec": 66.519363,
+    "frame_index": 79,
+    "brightness": -10.6
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.856757,
+    "ra": 57.017932,
+    "dec": 66.287413,
+    "frame_index": 80,
+    "brightness": -10.48
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.879915,
+    "ra": 57.194737,
+    "dec": 66.069261,
+    "frame_index": 81,
+    "brightness": -10.64
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.903075,
+    "ra": 57.357661,
+    "dec": 65.838542,
+    "frame_index": 82,
+    "brightness": -10.27
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.926233,
+    "ra": 57.515299,
+    "dec": 65.621348,
+    "frame_index": 83,
+    "brightness": -10.48
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.949392,
+    "ra": 57.683178,
+    "dec": 65.401627,
+    "frame_index": 84,
+    "brightness": -10.54
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.972551,
+    "ra": 57.842835,
+    "dec": 65.180094,
+    "frame_index": 85,
+    "brightness": -10.22
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125365.99571,
+    "ra": 57.985818,
+    "dec": 64.960908,
+    "frame_index": 86,
+    "brightness": -9.92
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.018869,
+    "ra": 58.138093,
+    "dec": 64.74554,
+    "frame_index": 87,
+    "brightness": -9.75
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.042027,
+    "ra": 58.293555,
+    "dec": 64.526812,
+    "frame_index": 88,
+    "brightness": -9.7
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.065186,
+    "ra": 58.438193,
+    "dec": 64.311306,
+    "frame_index": 89,
+    "brightness": -10.03
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.088345,
+    "ra": 58.582122,
+    "dec": 64.088147,
+    "frame_index": 90,
+    "brightness": -9.45
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.111504,
+    "ra": 58.712351,
+    "dec": 63.874336,
+    "frame_index": 91,
+    "brightness": -9.55
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.134663,
+    "ra": 58.847092,
+    "dec": 63.665724,
+    "frame_index": 92,
+    "brightness": -9.33
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.157822,
+    "ra": 58.982525,
+    "dec": 63.448813,
+    "frame_index": 93,
+    "brightness": -8.97
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.18098,
+    "ra": 59.109414,
+    "dec": 63.244631,
+    "frame_index": 94,
+    "brightness": -9.29
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.204139,
+    "ra": 59.249832,
+    "dec": 63.026468,
+    "frame_index": 95,
+    "brightness": -9.25
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.227298,
+    "ra": 59.359535,
+    "dec": 62.813776,
+    "frame_index": 96,
+    "brightness": -8.87
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.250457,
+    "ra": 59.489507,
+    "dec": 62.611807,
+    "frame_index": 97,
+    "brightness": -8.62
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.273616,
+    "ra": 59.607093,
+    "dec": 62.395327,
+    "frame_index": 98,
+    "brightness": -8.68
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.296775,
+    "ra": 59.718298,
+    "dec": 62.195408,
+    "frame_index": 99,
+    "brightness": -8.51
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.319934,
+    "ra": 59.836825,
+    "dec": 61.991915,
+    "frame_index": 100,
+    "brightness": -8.28
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.343092,
+    "ra": 59.960885,
+    "dec": 61.790108,
+    "frame_index": 101,
+    "brightness": -8.44
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.366251,
+    "ra": 60.072037,
+    "dec": 61.587757,
+    "frame_index": 102,
+    "brightness": -8.33
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.38941,
+    "ra": 60.173489,
+    "dec": 61.384068,
+    "frame_index": 103,
+    "brightness": -8.32
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.412569,
+    "ra": 60.285538,
+    "dec": 61.178302,
+    "frame_index": 104,
+    "brightness": -8.11
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.435728,
+    "ra": 60.389489,
+    "dec": 60.975901,
+    "frame_index": 105,
+    "brightness": -7.88
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.458887,
+    "ra": 60.4941,
+    "dec": 60.774619,
+    "frame_index": 106,
+    "brightness": -7.95
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.482045,
+    "ra": 60.598512,
+    "dec": 60.572723,
+    "frame_index": 107,
+    "brightness": -8.05
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.505204,
+    "ra": 60.698097,
+    "dec": 60.379805,
+    "frame_index": 108,
+    "brightness": -7.58
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.528363,
+    "ra": 60.801989,
+    "dec": 60.177091,
+    "frame_index": 109,
+    "brightness": -7.8
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.551522,
+    "ra": 60.897486,
+    "dec": 59.979975,
+    "frame_index": 110,
+    "brightness": -7.83
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.574681,
+    "ra": 60.986239,
+    "dec": 59.77984,
+    "frame_index": 111,
+    "brightness": -7.75
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.59784,
+    "ra": 61.083635,
+    "dec": 59.590011,
+    "frame_index": 112,
+    "brightness": -7.42
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.620999,
+    "ra": 61.174888,
+    "dec": 59.402463,
+    "frame_index": 113,
+    "brightness": -7.6
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.644157,
+    "ra": 61.2606,
+    "dec": 59.210244,
+    "frame_index": 114,
+    "brightness": -7.68
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.667316,
+    "ra": 61.358026,
+    "dec": 59.006902,
+    "frame_index": 115,
+    "brightness": -7.69
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.690475,
+    "ra": 61.44437,
+    "dec": 58.821302,
+    "frame_index": 116,
+    "brightness": -7.33
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.713634,
+    "ra": 61.52847,
+    "dec": 58.629937,
+    "frame_index": 117,
+    "brightness": -7.57
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.736793,
+    "ra": 61.611933,
+    "dec": 58.447739,
+    "frame_index": 118,
+    "brightness": -7.35
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.759952,
+    "ra": 61.694378,
+    "dec": 58.2597,
+    "frame_index": 119,
+    "brightness": -7.54
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.783111,
+    "ra": 61.78101,
+    "dec": 58.067356,
+    "frame_index": 120,
+    "brightness": -7.41
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.806269,
+    "ra": 61.859587,
+    "dec": 57.882511,
+    "frame_index": 121,
+    "brightness": -7.23
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.829428,
+    "ra": 61.9385,
+    "dec": 57.701767,
+    "frame_index": 122,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.852587,
+    "ra": 62.016615,
+    "dec": 57.519285,
+    "frame_index": 123,
+    "brightness": -7.37
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.875746,
+    "ra": 62.095984,
+    "dec": 57.328722,
+    "frame_index": 124,
+    "brightness": -7.21
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.898905,
+    "ra": 62.173235,
+    "dec": 57.154201,
+    "frame_index": 125,
+    "brightness": -7.4
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.922064,
+    "ra": 62.246822,
+    "dec": 56.9651,
+    "frame_index": 126,
+    "brightness": -7.13
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.945222,
+    "ra": 62.320561,
+    "dec": 56.791329,
+    "frame_index": 127,
+    "brightness": -6.93
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.968381,
+    "ra": 62.40169,
+    "dec": 56.611196,
+    "frame_index": 128,
+    "brightness": -7.39
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125366.99154,
+    "ra": 62.460751,
+    "dec": 56.430152,
+    "frame_index": 129,
+    "brightness": -7.46
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125367.014699,
+    "ra": 62.53433,
+    "dec": 56.25401,
+    "frame_index": 130,
+    "brightness": -7.31
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125367.037858,
+    "ra": 62.604129,
+    "dec": 56.073256,
+    "frame_index": 131,
+    "brightness": -7.34
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125367.061017,
+    "ra": 62.662932,
+    "dec": 55.9048,
+    "frame_index": 132,
+    "brightness": -7.26
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125367.084176,
+    "ra": 62.741281,
+    "dec": 55.720346,
+    "frame_index": 133,
+    "brightness": -7.36
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125367.107334,
+    "ra": 62.813248,
+    "dec": 55.555869,
+    "frame_index": 134,
+    "brightness": -7.32
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125367.130493,
+    "ra": 62.880179,
+    "dec": 55.382647,
+    "frame_index": 135,
+    "brightness": -7.21
+  },
+  {
+    "station_id": "Oxford-G",
+    "timestamp": 1730125367.153652,
+    "ra": 62.932498,
+    "dec": 55.215052,
+    "frame_index": 136,
+    "brightness": -7.2
+  }
+]

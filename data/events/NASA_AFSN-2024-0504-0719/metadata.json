@@ -1,0 +1,19 @@
+{
+  "event_id": "NASA_AFSN-2024-0504-0719",
+  "utc_timestamp": "2024-05-04T07:19:11Z",
+  "unix_timestamp": 1714807151,
+  "network": "NASA_AFSN",
+  "station_count": 7,
+  "region": "Central Europe",
+  "estimated_velocity_kms": 66.8,
+  "peak_magnitude": -9.2,
+  "entry_altitude_km": 92.0,
+  "terminal_altitude_km": 34.5,
+  "trajectory_length_km": 95.3,
+  "entry_angle_deg": 37.5,
+  "shower": "Eta Aquariids",
+  "shower_code": "ETA",
+  "radiant_ra": 338.0,
+  "radiant_dec": -1.0,
+  "duration_s": 1.41
+}

@@ -1,0 +1,19 @@
+{
+  "event_id": "NASA_AFSN-2025-0522-0905",
+  "utc_timestamp": "2025-05-22T09:05:11Z",
+  "unix_timestamp": 1747904711,
+  "network": "NASA_AFSN",
+  "station_count": 7,
+  "region": "France",
+  "estimated_velocity_kms": 67.1,
+  "peak_magnitude": -8.1,
+  "entry_altitude_km": 90.0,
+  "terminal_altitude_km": 51.8,
+  "trajectory_length_km": 44.2,
+  "entry_angle_deg": 60.1,
+  "shower": "Eta Aquariids",
+  "shower_code": "ETA",
+  "radiant_ra": 338.0,
+  "radiant_dec": -1.0,
+  "duration_s": 0.66
+}

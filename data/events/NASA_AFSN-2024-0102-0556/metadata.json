@@ -1,0 +1,19 @@
+{
+  "event_id": "NASA_AFSN-2024-0102-0556",
+  "utc_timestamp": "2024-01-02T05:56:25Z",
+  "unix_timestamp": 1704174985,
+  "network": "NASA_AFSN",
+  "station_count": 7,
+  "region": "Scandinavia",
+  "estimated_velocity_kms": 45.4,
+  "peak_magnitude": -12.0,
+  "entry_altitude_km": 112.8,
+  "terminal_altitude_km": 19.1,
+  "trajectory_length_km": 100.3,
+  "entry_angle_deg": 69.4,
+  "shower": "Quadrantids",
+  "shower_code": "QUA",
+  "radiant_ra": 230.1,
+  "radiant_dec": 48.5,
+  "duration_s": 2.21
+}

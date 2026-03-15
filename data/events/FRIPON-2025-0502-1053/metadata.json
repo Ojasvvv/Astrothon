@@ -1,0 +1,19 @@
+{
+  "event_id": "FRIPON-2025-0502-1053",
+  "utc_timestamp": "2025-05-02T10:53:31Z",
+  "unix_timestamp": 1746183211,
+  "network": "FRIPON",
+  "station_count": 7,
+  "region": "Central Europe",
+  "estimated_velocity_kms": 67.0,
+  "peak_magnitude": -9.9,
+  "entry_altitude_km": 107.9,
+  "terminal_altitude_km": 30.0,
+  "trajectory_length_km": 121.1,
+  "entry_angle_deg": 40.4,
+  "shower": "Eta Aquariids",
+  "shower_code": "ETA",
+  "radiant_ra": 338.0,
+  "radiant_dec": -1.0,
+  "duration_s": 1.79
+}

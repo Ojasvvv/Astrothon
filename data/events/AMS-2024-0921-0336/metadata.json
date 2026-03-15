@@ -1,0 +1,19 @@
+{
+  "event_id": "AMS-2024-0921-0336",
+  "utc_timestamp": "2024-09-21T03:36:09Z",
+  "unix_timestamp": 1726889768,
+  "network": "AMS",
+  "station_count": 5,
+  "region": "North America E",
+  "estimated_velocity_kms": 18.0,
+  "peak_magnitude": -7.0,
+  "entry_altitude_km": 113.4,
+  "terminal_altitude_km": 24.2,
+  "trajectory_length_km": 185.9,
+  "entry_angle_deg": 28.9,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 69.8,
+  "radiant_dec": 41.99,
+  "duration_s": 8.0
+}

@@ -1,0 +1,2786 @@
+[
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.102968,
+    "ra": 57.836648,
+    "dec": -13.692269,
+    "frame_index": 4,
+    "brightness": -6.42
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.128354,
+    "ra": 57.849473,
+    "dec": -13.824888,
+    "frame_index": 5,
+    "brightness": -6.52
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.15374,
+    "ra": 57.863631,
+    "dec": -13.958133,
+    "frame_index": 6,
+    "brightness": -6.94
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.179126,
+    "ra": 57.858196,
+    "dec": -14.086665,
+    "frame_index": 7,
+    "brightness": -6.58
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.204512,
+    "ra": 57.868754,
+    "dec": -14.235906,
+    "frame_index": 8,
+    "brightness": -6.7
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.229898,
+    "ra": 57.884964,
+    "dec": -14.370207,
+    "frame_index": 9,
+    "brightness": -6.88
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.255284,
+    "ra": 57.898144,
+    "dec": -14.514451,
+    "frame_index": 10,
+    "brightness": -6.65
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.28067,
+    "ra": 57.900926,
+    "dec": -14.651899,
+    "frame_index": 11,
+    "brightness": -7.03
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.306056,
+    "ra": 57.9019,
+    "dec": -14.791551,
+    "frame_index": 12,
+    "brightness": -7.48
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.331442,
+    "ra": 57.910153,
+    "dec": -14.935326,
+    "frame_index": 13,
+    "brightness": -7.29
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.356828,
+    "ra": 57.927482,
+    "dec": -15.082527,
+    "frame_index": 14,
+    "brightness": -7.73
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.382214,
+    "ra": 57.943748,
+    "dec": -15.218567,
+    "frame_index": 15,
+    "brightness": -7.96
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.4076,
+    "ra": 57.945709,
+    "dec": -15.364537,
+    "frame_index": 16,
+    "brightness": -7.76
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.432986,
+    "ra": 57.964925,
+    "dec": -15.502756,
+    "frame_index": 17,
+    "brightness": -7.76
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.458372,
+    "ra": 57.972966,
+    "dec": -15.655874,
+    "frame_index": 18,
+    "brightness": -8.12
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.483758,
+    "ra": 57.980828,
+    "dec": -15.807504,
+    "frame_index": 19,
+    "brightness": -8.2
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.509144,
+    "ra": 57.98971,
+    "dec": -15.95311,
+    "frame_index": 20,
+    "brightness": -8.39
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.53453,
+    "ra": 57.999744,
+    "dec": -16.107113,
+    "frame_index": 21,
+    "brightness": -8.35
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.559916,
+    "ra": 58.01185,
+    "dec": -16.254354,
+    "frame_index": 22,
+    "brightness": -8.84
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.585302,
+    "ra": 58.027134,
+    "dec": -16.403764,
+    "frame_index": 23,
+    "brightness": -8.84
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.610688,
+    "ra": 58.029592,
+    "dec": -16.562623,
+    "frame_index": 24,
+    "brightness": -8.93
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.636074,
+    "ra": 58.043708,
+    "dec": -16.717146,
+    "frame_index": 25,
+    "brightness": -8.83
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.66146,
+    "ra": 58.046045,
+    "dec": -16.876052,
+    "frame_index": 26,
+    "brightness": -9.06
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.686846,
+    "ra": 58.055991,
+    "dec": -17.026318,
+    "frame_index": 27,
+    "brightness": -9.05
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.712232,
+    "ra": 58.075788,
+    "dec": -17.180687,
+    "frame_index": 28,
+    "brightness": -9.28
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.737617,
+    "ra": 58.083557,
+    "dec": -17.343846,
+    "frame_index": 29,
+    "brightness": -9.34
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.763004,
+    "ra": 58.103129,
+    "dec": -17.489995,
+    "frame_index": 30,
+    "brightness": -9.21
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.78839,
+    "ra": 58.119912,
+    "dec": -17.66411,
+    "frame_index": 31,
+    "brightness": -9.38
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.813776,
+    "ra": 58.124949,
+    "dec": -17.820161,
+    "frame_index": 32,
+    "brightness": -9.7
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.839162,
+    "ra": 58.131639,
+    "dec": -17.985545,
+    "frame_index": 33,
+    "brightness": -9.31
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.864547,
+    "ra": 58.13071,
+    "dec": -18.155391,
+    "frame_index": 34,
+    "brightness": -9.31
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.889934,
+    "ra": 58.144213,
+    "dec": -18.315045,
+    "frame_index": 35,
+    "brightness": -9.34
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.915319,
+    "ra": 58.154526,
+    "dec": -18.47002,
+    "frame_index": 36,
+    "brightness": -9.3
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.940706,
+    "ra": 58.177208,
+    "dec": -18.6484,
+    "frame_index": 37,
+    "brightness": -9.62
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.966092,
+    "ra": 58.184348,
+    "dec": -18.822937,
+    "frame_index": 38,
+    "brightness": -9.5
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333643.991477,
+    "ra": 58.196656,
+    "dec": -19.001212,
+    "frame_index": 39,
+    "brightness": -9.34
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.016864,
+    "ra": 58.212467,
+    "dec": -19.159478,
+    "frame_index": 40,
+    "brightness": -9.18
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.042249,
+    "ra": 58.218655,
+    "dec": -19.331852,
+    "frame_index": 41,
+    "brightness": -8.96
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.067636,
+    "ra": 58.235981,
+    "dec": -19.504293,
+    "frame_index": 42,
+    "brightness": -9.24
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.093021,
+    "ra": 58.246963,
+    "dec": -19.67666,
+    "frame_index": 43,
+    "brightness": -8.87
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.118407,
+    "ra": 58.255222,
+    "dec": -19.853483,
+    "frame_index": 44,
+    "brightness": -9.0
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.143794,
+    "ra": 58.271674,
+    "dec": -20.031951,
+    "frame_index": 45,
+    "brightness": -8.7
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.169179,
+    "ra": 58.293223,
+    "dec": -20.207046,
+    "frame_index": 46,
+    "brightness": -8.62
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.194566,
+    "ra": 58.302851,
+    "dec": -20.38607,
+    "frame_index": 47,
+    "brightness": -8.91
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.219951,
+    "ra": 58.321258,
+    "dec": -20.5706,
+    "frame_index": 48,
+    "brightness": -8.45
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.245337,
+    "ra": 58.325737,
+    "dec": -20.749001,
+    "frame_index": 49,
+    "brightness": -8.77
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.270723,
+    "ra": 58.334546,
+    "dec": -20.94426,
+    "frame_index": 50,
+    "brightness": -8.28
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.296109,
+    "ra": 58.350214,
+    "dec": -21.118996,
+    "frame_index": 51,
+    "brightness": -8.16
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.321495,
+    "ra": 58.373841,
+    "dec": -21.318184,
+    "frame_index": 52,
+    "brightness": -8.2
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.346881,
+    "ra": 58.378943,
+    "dec": -21.49426,
+    "frame_index": 53,
+    "brightness": -7.81
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.372267,
+    "ra": 58.393752,
+    "dec": -21.680842,
+    "frame_index": 54,
+    "brightness": -7.79
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.397653,
+    "ra": 58.409801,
+    "dec": -21.876264,
+    "frame_index": 55,
+    "brightness": -7.48
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.423039,
+    "ra": 58.418991,
+    "dec": -22.056183,
+    "frame_index": 56,
+    "brightness": -7.5
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.448425,
+    "ra": 58.444281,
+    "dec": -22.252028,
+    "frame_index": 57,
+    "brightness": -7.21
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.473811,
+    "ra": 58.453144,
+    "dec": -22.461625,
+    "frame_index": 58,
+    "brightness": -7.25
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.499197,
+    "ra": 58.454854,
+    "dec": -22.652488,
+    "frame_index": 59,
+    "brightness": -6.88
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.524583,
+    "ra": 58.474434,
+    "dec": -22.85022,
+    "frame_index": 60,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.549969,
+    "ra": 58.49058,
+    "dec": -23.0456,
+    "frame_index": 61,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.575355,
+    "ra": 58.507901,
+    "dec": -23.247672,
+    "frame_index": 62,
+    "brightness": -6.91
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.600741,
+    "ra": 58.528119,
+    "dec": -23.448495,
+    "frame_index": 63,
+    "brightness": -6.65
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.626127,
+    "ra": 58.532847,
+    "dec": -23.658705,
+    "frame_index": 64,
+    "brightness": -6.54
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.651513,
+    "ra": 58.560542,
+    "dec": -23.852924,
+    "frame_index": 65,
+    "brightness": -6.48
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.676899,
+    "ra": 58.579776,
+    "dec": -24.064487,
+    "frame_index": 66,
+    "brightness": -6.42
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.702285,
+    "ra": 58.587893,
+    "dec": -24.267471,
+    "frame_index": 67,
+    "brightness": -6.43
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.727671,
+    "ra": 58.599887,
+    "dec": -24.471471,
+    "frame_index": 68,
+    "brightness": -6.59
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.753057,
+    "ra": 58.607859,
+    "dec": -24.685577,
+    "frame_index": 69,
+    "brightness": -6.14
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.778443,
+    "ra": 58.63044,
+    "dec": -24.903233,
+    "frame_index": 70,
+    "brightness": -6.25
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.803829,
+    "ra": 58.644819,
+    "dec": -25.121751,
+    "frame_index": 71,
+    "brightness": -6.25
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.829215,
+    "ra": 58.664952,
+    "dec": -25.33147,
+    "frame_index": 72,
+    "brightness": -5.71
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.854601,
+    "ra": 58.687256,
+    "dec": -25.547757,
+    "frame_index": 73,
+    "brightness": -5.79
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.879987,
+    "ra": 58.69901,
+    "dec": -25.759739,
+    "frame_index": 74,
+    "brightness": -5.91
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.905373,
+    "ra": 58.723357,
+    "dec": -25.979505,
+    "frame_index": 75,
+    "brightness": -6.08
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.930759,
+    "ra": 58.725685,
+    "dec": -26.207319,
+    "frame_index": 76,
+    "brightness": -5.86
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.956145,
+    "ra": 58.75501,
+    "dec": -26.429322,
+    "frame_index": 77,
+    "brightness": -5.86
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333644.981531,
+    "ra": 58.773674,
+    "dec": -26.65841,
+    "frame_index": 78,
+    "brightness": -5.74
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333645.006917,
+    "ra": 58.791528,
+    "dec": -26.878482,
+    "frame_index": 79,
+    "brightness": -5.63
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333645.032303,
+    "ra": 58.807459,
+    "dec": -27.104173,
+    "frame_index": 80,
+    "brightness": -5.62
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333645.057689,
+    "ra": 58.821574,
+    "dec": -27.337422,
+    "frame_index": 81,
+    "brightness": -5.43
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333645.083075,
+    "ra": 58.83739,
+    "dec": -27.576551,
+    "frame_index": 82,
+    "brightness": -5.62
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333645.108461,
+    "ra": 58.857676,
+    "dec": -27.791065,
+    "frame_index": 83,
+    "brightness": -5.72
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333645.133847,
+    "ra": 58.883425,
+    "dec": -28.035015,
+    "frame_index": 84,
+    "brightness": -5.57
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333645.159233,
+    "ra": 58.90121,
+    "dec": -28.268737,
+    "frame_index": 85,
+    "brightness": -5.58
+  },
+  {
+    "station_id": "Pittsburgh-A",
+    "timestamp": 1719333645.184619,
+    "ra": 58.913319,
+    "dec": -28.503264,
+    "frame_index": 86,
+    "brightness": -5.46
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.023362,
+    "ra": 15.085261,
+    "dec": 33.564762,
+    "frame_index": 1,
+    "brightness": -6.05
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.048748,
+    "ra": 14.896619,
+    "dec": 33.588487,
+    "frame_index": 2,
+    "brightness": -6.27
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.074134,
+    "ra": 14.712326,
+    "dec": 33.614078,
+    "frame_index": 3,
+    "brightness": -6.1
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.099519,
+    "ra": 14.510897,
+    "dec": 33.636351,
+    "frame_index": 4,
+    "brightness": -6.42
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.124906,
+    "ra": 14.316064,
+    "dec": 33.661492,
+    "frame_index": 5,
+    "brightness": -6.52
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.150291,
+    "ra": 14.130507,
+    "dec": 33.681867,
+    "frame_index": 6,
+    "brightness": -6.94
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.175678,
+    "ra": 13.930077,
+    "dec": 33.709382,
+    "frame_index": 7,
+    "brightness": -6.58
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.201064,
+    "ra": 13.722282,
+    "dec": 33.735175,
+    "frame_index": 8,
+    "brightness": -6.7
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.226449,
+    "ra": 13.531201,
+    "dec": 33.755802,
+    "frame_index": 9,
+    "brightness": -6.88
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.251836,
+    "ra": 13.328555,
+    "dec": 33.780435,
+    "frame_index": 10,
+    "brightness": -6.65
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.277221,
+    "ra": 13.119434,
+    "dec": 33.801824,
+    "frame_index": 11,
+    "brightness": -7.03
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.302608,
+    "ra": 12.916205,
+    "dec": 33.832389,
+    "frame_index": 12,
+    "brightness": -7.48
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.327993,
+    "ra": 12.709961,
+    "dec": 33.847558,
+    "frame_index": 13,
+    "brightness": -7.29
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.353379,
+    "ra": 12.497238,
+    "dec": 33.875054,
+    "frame_index": 14,
+    "brightness": -7.73
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.378766,
+    "ra": 12.293501,
+    "dec": 33.894203,
+    "frame_index": 15,
+    "brightness": -7.96
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.404151,
+    "ra": 12.076359,
+    "dec": 33.920388,
+    "frame_index": 16,
+    "brightness": -7.76
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.429538,
+    "ra": 11.859909,
+    "dec": 33.93842,
+    "frame_index": 17,
+    "brightness": -7.76
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.454923,
+    "ra": 11.650996,
+    "dec": 33.960031,
+    "frame_index": 18,
+    "brightness": -8.12
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.480309,
+    "ra": 11.424987,
+    "dec": 33.983202,
+    "frame_index": 19,
+    "brightness": -8.2
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.505695,
+    "ra": 11.225383,
+    "dec": 34.002936,
+    "frame_index": 20,
+    "brightness": -8.39
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.531081,
+    "ra": 10.986636,
+    "dec": 34.02427,
+    "frame_index": 21,
+    "brightness": -8.35
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.556467,
+    "ra": 10.775251,
+    "dec": 34.046249,
+    "frame_index": 22,
+    "brightness": -8.84
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.581853,
+    "ra": 10.550368,
+    "dec": 34.053616,
+    "frame_index": 23,
+    "brightness": -8.84
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.607239,
+    "ra": 10.321912,
+    "dec": 34.082281,
+    "frame_index": 24,
+    "brightness": -8.93
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.632625,
+    "ra": 10.095547,
+    "dec": 34.10249,
+    "frame_index": 25,
+    "brightness": -8.83
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.658011,
+    "ra": 9.874463,
+    "dec": 34.124869,
+    "frame_index": 26,
+    "brightness": -9.06
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.683397,
+    "ra": 9.641151,
+    "dec": 34.147871,
+    "frame_index": 27,
+    "brightness": -9.05
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.708783,
+    "ra": 9.400992,
+    "dec": 34.16123,
+    "frame_index": 28,
+    "brightness": -9.28
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.734169,
+    "ra": 9.179873,
+    "dec": 34.182832,
+    "frame_index": 29,
+    "brightness": -9.34
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.759555,
+    "ra": 8.932119,
+    "dec": 34.201051,
+    "frame_index": 30,
+    "brightness": -9.21
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.784941,
+    "ra": 8.681337,
+    "dec": 34.218521,
+    "frame_index": 31,
+    "brightness": -9.38
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.810327,
+    "ra": 8.45003,
+    "dec": 34.231615,
+    "frame_index": 32,
+    "brightness": -9.7
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.835713,
+    "ra": 8.206607,
+    "dec": 34.248188,
+    "frame_index": 33,
+    "brightness": -9.31
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.861099,
+    "ra": 7.970623,
+    "dec": 34.28274,
+    "frame_index": 34,
+    "brightness": -9.31
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.886485,
+    "ra": 7.709508,
+    "dec": 34.285668,
+    "frame_index": 35,
+    "brightness": -9.34
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.911871,
+    "ra": 7.472497,
+    "dec": 34.309733,
+    "frame_index": 36,
+    "brightness": -9.3
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.937257,
+    "ra": 7.220105,
+    "dec": 34.314864,
+    "frame_index": 37,
+    "brightness": -9.62
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.962643,
+    "ra": 6.974458,
+    "dec": 34.339182,
+    "frame_index": 38,
+    "brightness": -9.5
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333643.988029,
+    "ra": 6.722689,
+    "dec": 34.350824,
+    "frame_index": 39,
+    "brightness": -9.34
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.013415,
+    "ra": 6.457183,
+    "dec": 34.358766,
+    "frame_index": 40,
+    "brightness": -9.18
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.038801,
+    "ra": 6.202659,
+    "dec": 34.377261,
+    "frame_index": 41,
+    "brightness": -8.96
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.064187,
+    "ra": 5.952308,
+    "dec": 34.396824,
+    "frame_index": 42,
+    "brightness": -9.24
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.089573,
+    "ra": 5.677494,
+    "dec": 34.407639,
+    "frame_index": 43,
+    "brightness": -8.87
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.114959,
+    "ra": 5.42433,
+    "dec": 34.41962,
+    "frame_index": 44,
+    "brightness": -9.0
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.140345,
+    "ra": 5.152482,
+    "dec": 34.435922,
+    "frame_index": 45,
+    "brightness": -8.7
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.165731,
+    "ra": 4.892627,
+    "dec": 34.449231,
+    "frame_index": 46,
+    "brightness": -8.62
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.191117,
+    "ra": 4.613775,
+    "dec": 34.454613,
+    "frame_index": 47,
+    "brightness": -8.91
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.216503,
+    "ra": 4.349612,
+    "dec": 34.465287,
+    "frame_index": 48,
+    "brightness": -8.45
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.241889,
+    "ra": 4.081433,
+    "dec": 34.482911,
+    "frame_index": 49,
+    "brightness": -8.77
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.267275,
+    "ra": 3.792548,
+    "dec": 34.490129,
+    "frame_index": 50,
+    "brightness": -8.28
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.292661,
+    "ra": 3.513762,
+    "dec": 34.500222,
+    "frame_index": 51,
+    "brightness": -8.16
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.318047,
+    "ra": 3.238771,
+    "dec": 34.510689,
+    "frame_index": 52,
+    "brightness": -8.2
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.343433,
+    "ra": 2.948279,
+    "dec": 34.515758,
+    "frame_index": 53,
+    "brightness": -7.81
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.368819,
+    "ra": 2.672349,
+    "dec": 34.52655,
+    "frame_index": 54,
+    "brightness": -7.79
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.394205,
+    "ra": 2.380983,
+    "dec": 34.541593,
+    "frame_index": 55,
+    "brightness": -7.48
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.419591,
+    "ra": 2.088604,
+    "dec": 34.540794,
+    "frame_index": 56,
+    "brightness": -7.5
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.444977,
+    "ra": 1.812075,
+    "dec": 34.550426,
+    "frame_index": 57,
+    "brightness": -7.21
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.470363,
+    "ra": 1.510812,
+    "dec": 34.547824,
+    "frame_index": 58,
+    "brightness": -7.25
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.495749,
+    "ra": 1.220894,
+    "dec": 34.549615,
+    "frame_index": 59,
+    "brightness": -6.88
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.521135,
+    "ra": 0.917762,
+    "dec": 34.552716,
+    "frame_index": 60,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.546521,
+    "ra": 0.626329,
+    "dec": 34.564573,
+    "frame_index": 61,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.571907,
+    "ra": 0.314603,
+    "dec": 34.56252,
+    "frame_index": 62,
+    "brightness": -6.91
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.597293,
+    "ra": 0.010758,
+    "dec": 34.56816,
+    "frame_index": 63,
+    "brightness": -6.65
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.622679,
+    "ra": 359.696464,
+    "dec": 34.575941,
+    "frame_index": 64,
+    "brightness": -6.54
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.648065,
+    "ra": 359.400941,
+    "dec": 34.572913,
+    "frame_index": 65,
+    "brightness": -6.48
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.673451,
+    "ra": 359.085008,
+    "dec": 34.565654,
+    "frame_index": 66,
+    "brightness": -6.42
+  },
+  {
+    "station_id": "Columbus-B",
+    "timestamp": 1719333644.698837,
+    "ra": 358.762816,
+    "dec": 34.578439,
+    "frame_index": 67,
+    "brightness": -6.43
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.024626,
+    "ra": 33.768914,
+    "dec": 9.250358,
+    "frame_index": 1,
+    "brightness": -6.05
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.050011,
+    "ra": 33.669641,
+    "dec": 9.187412,
+    "frame_index": 2,
+    "brightness": -6.27
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.075397,
+    "ra": 33.580601,
+    "dec": 9.125729,
+    "frame_index": 3,
+    "brightness": -6.1
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.100783,
+    "ra": 33.483719,
+    "dec": 9.062149,
+    "frame_index": 4,
+    "brightness": -6.42
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.126169,
+    "ra": 33.387927,
+    "dec": 9.003956,
+    "frame_index": 5,
+    "brightness": -6.52
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.151555,
+    "ra": 33.288098,
+    "dec": 8.942571,
+    "frame_index": 6,
+    "brightness": -6.94
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.176941,
+    "ra": 33.196714,
+    "dec": 8.891605,
+    "frame_index": 7,
+    "brightness": -6.58
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.202327,
+    "ra": 33.096475,
+    "dec": 8.821011,
+    "frame_index": 8,
+    "brightness": -6.7
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.227713,
+    "ra": 32.99025,
+    "dec": 8.761843,
+    "frame_index": 9,
+    "brightness": -6.88
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.253099,
+    "ra": 32.897543,
+    "dec": 8.710439,
+    "frame_index": 10,
+    "brightness": -6.65
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.278485,
+    "ra": 32.793322,
+    "dec": 8.646779,
+    "frame_index": 11,
+    "brightness": -7.03
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.303871,
+    "ra": 32.686771,
+    "dec": 8.580719,
+    "frame_index": 12,
+    "brightness": -7.48
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.329257,
+    "ra": 32.592219,
+    "dec": 8.515268,
+    "frame_index": 13,
+    "brightness": -7.29
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.354643,
+    "ra": 32.477001,
+    "dec": 8.455544,
+    "frame_index": 14,
+    "brightness": -7.73
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.380029,
+    "ra": 32.372406,
+    "dec": 8.393524,
+    "frame_index": 15,
+    "brightness": -7.96
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.405415,
+    "ra": 32.270512,
+    "dec": 8.32055,
+    "frame_index": 16,
+    "brightness": -7.76
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.430801,
+    "ra": 32.173385,
+    "dec": 8.257145,
+    "frame_index": 17,
+    "brightness": -7.76
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.456187,
+    "ra": 32.054422,
+    "dec": 8.194688,
+    "frame_index": 18,
+    "brightness": -8.12
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.481573,
+    "ra": 31.958722,
+    "dec": 8.129511,
+    "frame_index": 19,
+    "brightness": -8.2
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.506959,
+    "ra": 31.842615,
+    "dec": 8.063923,
+    "frame_index": 20,
+    "brightness": -8.39
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.532345,
+    "ra": 31.734364,
+    "dec": 7.992138,
+    "frame_index": 21,
+    "brightness": -8.35
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.557731,
+    "ra": 31.633461,
+    "dec": 7.917489,
+    "frame_index": 22,
+    "brightness": -8.84
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.583117,
+    "ra": 31.512841,
+    "dec": 7.854883,
+    "frame_index": 23,
+    "brightness": -8.84
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.608503,
+    "ra": 31.39658,
+    "dec": 7.783292,
+    "frame_index": 24,
+    "brightness": -8.93
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.633889,
+    "ra": 31.286333,
+    "dec": 7.707411,
+    "frame_index": 25,
+    "brightness": -8.83
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.659275,
+    "ra": 31.166995,
+    "dec": 7.636044,
+    "frame_index": 26,
+    "brightness": -9.06
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.684661,
+    "ra": 31.054891,
+    "dec": 7.57057,
+    "frame_index": 27,
+    "brightness": -9.05
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.710047,
+    "ra": 30.935859,
+    "dec": 7.494173,
+    "frame_index": 28,
+    "brightness": -9.28
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.735433,
+    "ra": 30.819856,
+    "dec": 7.423873,
+    "frame_index": 29,
+    "brightness": -9.34
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.760819,
+    "ra": 30.707905,
+    "dec": 7.347483,
+    "frame_index": 30,
+    "brightness": -9.21
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.786205,
+    "ra": 30.57661,
+    "dec": 7.264599,
+    "frame_index": 31,
+    "brightness": -9.38
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.811591,
+    "ra": 30.454992,
+    "dec": 7.18832,
+    "frame_index": 32,
+    "brightness": -9.7
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.836977,
+    "ra": 30.331706,
+    "dec": 7.113045,
+    "frame_index": 33,
+    "brightness": -9.31
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.862363,
+    "ra": 30.217455,
+    "dec": 7.040959,
+    "frame_index": 34,
+    "brightness": -9.31
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.887749,
+    "ra": 30.085435,
+    "dec": 6.962566,
+    "frame_index": 35,
+    "brightness": -9.34
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.913135,
+    "ra": 29.960097,
+    "dec": 6.883941,
+    "frame_index": 36,
+    "brightness": -9.3
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.938521,
+    "ra": 29.829769,
+    "dec": 6.805934,
+    "frame_index": 37,
+    "brightness": -9.62
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.963907,
+    "ra": 29.713171,
+    "dec": 6.731641,
+    "frame_index": 38,
+    "brightness": -9.5
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333643.989293,
+    "ra": 29.582253,
+    "dec": 6.634308,
+    "frame_index": 39,
+    "brightness": -9.34
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.014679,
+    "ra": 29.453722,
+    "dec": 6.561873,
+    "frame_index": 40,
+    "brightness": -9.18
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.040065,
+    "ra": 29.322124,
+    "dec": 6.474721,
+    "frame_index": 41,
+    "brightness": -8.96
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.065451,
+    "ra": 29.189243,
+    "dec": 6.385724,
+    "frame_index": 42,
+    "brightness": -9.24
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.090837,
+    "ra": 29.04192,
+    "dec": 6.306228,
+    "frame_index": 43,
+    "brightness": -8.87
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.116223,
+    "ra": 28.910979,
+    "dec": 6.230376,
+    "frame_index": 44,
+    "brightness": -9.0
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.141609,
+    "ra": 28.778605,
+    "dec": 6.138001,
+    "frame_index": 45,
+    "brightness": -8.7
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.166995,
+    "ra": 28.643867,
+    "dec": 6.052718,
+    "frame_index": 46,
+    "brightness": -8.62
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.192381,
+    "ra": 28.507875,
+    "dec": 5.962264,
+    "frame_index": 47,
+    "brightness": -8.91
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.217767,
+    "ra": 28.360734,
+    "dec": 5.872228,
+    "frame_index": 48,
+    "brightness": -8.45
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.243153,
+    "ra": 28.217033,
+    "dec": 5.786625,
+    "frame_index": 49,
+    "brightness": -8.77
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.268539,
+    "ra": 28.06764,
+    "dec": 5.689608,
+    "frame_index": 50,
+    "brightness": -8.28
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.293925,
+    "ra": 27.926544,
+    "dec": 5.60111,
+    "frame_index": 51,
+    "brightness": -8.16
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.319311,
+    "ra": 27.789424,
+    "dec": 5.512931,
+    "frame_index": 52,
+    "brightness": -8.2
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.344697,
+    "ra": 27.628651,
+    "dec": 5.415382,
+    "frame_index": 53,
+    "brightness": -7.81
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.370083,
+    "ra": 27.496317,
+    "dec": 5.324266,
+    "frame_index": 54,
+    "brightness": -7.79
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.395469,
+    "ra": 27.326547,
+    "dec": 5.216526,
+    "frame_index": 55,
+    "brightness": -7.48
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.420855,
+    "ra": 27.177634,
+    "dec": 5.126582,
+    "frame_index": 56,
+    "brightness": -7.5
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.446241,
+    "ra": 27.041404,
+    "dec": 5.018477,
+    "frame_index": 57,
+    "brightness": -7.21
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.471627,
+    "ra": 26.879488,
+    "dec": 4.935016,
+    "frame_index": 58,
+    "brightness": -7.25
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.497013,
+    "ra": 26.710708,
+    "dec": 4.833617,
+    "frame_index": 59,
+    "brightness": -6.88
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.522399,
+    "ra": 26.561915,
+    "dec": 4.738175,
+    "frame_index": 60,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.547785,
+    "ra": 26.402064,
+    "dec": 4.629418,
+    "frame_index": 61,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.573171,
+    "ra": 26.237766,
+    "dec": 4.5219,
+    "frame_index": 62,
+    "brightness": -6.91
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.598557,
+    "ra": 26.072123,
+    "dec": 4.415656,
+    "frame_index": 63,
+    "brightness": -6.65
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.623943,
+    "ra": 25.91214,
+    "dec": 4.310057,
+    "frame_index": 64,
+    "brightness": -6.54
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.649329,
+    "ra": 25.739854,
+    "dec": 4.20762,
+    "frame_index": 65,
+    "brightness": -6.48
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.674715,
+    "ra": 25.569423,
+    "dec": 4.095507,
+    "frame_index": 66,
+    "brightness": -6.42
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.700101,
+    "ra": 25.411438,
+    "dec": 4.001965,
+    "frame_index": 67,
+    "brightness": -6.43
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.725487,
+    "ra": 25.237503,
+    "dec": 3.878797,
+    "frame_index": 68,
+    "brightness": -6.59
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.750873,
+    "ra": 25.06117,
+    "dec": 3.769835,
+    "frame_index": 69,
+    "brightness": -6.14
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.776259,
+    "ra": 24.887581,
+    "dec": 3.654849,
+    "frame_index": 70,
+    "brightness": -6.25
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.801645,
+    "ra": 24.712343,
+    "dec": 3.540322,
+    "frame_index": 71,
+    "brightness": -6.25
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.827031,
+    "ra": 24.524599,
+    "dec": 3.426707,
+    "frame_index": 72,
+    "brightness": -5.71
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.852417,
+    "ra": 24.349873,
+    "dec": 3.320147,
+    "frame_index": 73,
+    "brightness": -5.79
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.877803,
+    "ra": 24.158177,
+    "dec": 3.192564,
+    "frame_index": 74,
+    "brightness": -5.91
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.903189,
+    "ra": 23.984138,
+    "dec": 3.079027,
+    "frame_index": 75,
+    "brightness": -6.08
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.928575,
+    "ra": 23.792451,
+    "dec": 2.956023,
+    "frame_index": 76,
+    "brightness": -5.86
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.953961,
+    "ra": 23.617875,
+    "dec": 2.830811,
+    "frame_index": 77,
+    "brightness": -5.86
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333644.979347,
+    "ra": 23.421994,
+    "dec": 2.711532,
+    "frame_index": 78,
+    "brightness": -5.74
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333645.004733,
+    "ra": 23.224816,
+    "dec": 2.592115,
+    "frame_index": 79,
+    "brightness": -5.63
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333645.030119,
+    "ra": 23.029214,
+    "dec": 2.459306,
+    "frame_index": 80,
+    "brightness": -5.62
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333645.055505,
+    "ra": 22.834189,
+    "dec": 2.331949,
+    "frame_index": 81,
+    "brightness": -5.43
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333645.080891,
+    "ra": 22.628989,
+    "dec": 2.197584,
+    "frame_index": 82,
+    "brightness": -5.62
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333645.106277,
+    "ra": 22.437082,
+    "dec": 2.074257,
+    "frame_index": 83,
+    "brightness": -5.72
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333645.131663,
+    "ra": 22.23008,
+    "dec": 1.94479,
+    "frame_index": 84,
+    "brightness": -5.57
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333645.157049,
+    "ra": 22.036241,
+    "dec": 1.823136,
+    "frame_index": 85,
+    "brightness": -5.58
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333645.182435,
+    "ra": 21.817664,
+    "dec": 1.680893,
+    "frame_index": 86,
+    "brightness": -5.46
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333645.207821,
+    "ra": 21.611055,
+    "dec": 1.537511,
+    "frame_index": 87,
+    "brightness": -5.4
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333645.233207,
+    "ra": 21.395677,
+    "dec": 1.398381,
+    "frame_index": 88,
+    "brightness": -5.46
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333645.258593,
+    "ra": 21.188541,
+    "dec": 1.271594,
+    "frame_index": 89,
+    "brightness": -5.68
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333645.283979,
+    "ra": 20.967425,
+    "dec": 1.130219,
+    "frame_index": 90,
+    "brightness": -5.36
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333645.309365,
+    "ra": 20.754747,
+    "dec": 0.982813,
+    "frame_index": 91,
+    "brightness": -5.57
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333645.334751,
+    "ra": 20.529,
+    "dec": 0.837886,
+    "frame_index": 92,
+    "brightness": -5.4
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333645.360137,
+    "ra": 20.303235,
+    "dec": 0.690578,
+    "frame_index": 93,
+    "brightness": -5.51
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333645.385523,
+    "ra": 20.07873,
+    "dec": 0.547199,
+    "frame_index": 94,
+    "brightness": -5.42
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333645.410909,
+    "ra": 19.837836,
+    "dec": 0.396026,
+    "frame_index": 95,
+    "brightness": -5.5
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333645.436295,
+    "ra": 19.612019,
+    "dec": 0.249368,
+    "frame_index": 96,
+    "brightness": -5.18
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333645.461681,
+    "ra": 19.383287,
+    "dec": 0.098199,
+    "frame_index": 97,
+    "brightness": -5.66
+  },
+  {
+    "station_id": "Cincinnati-C",
+    "timestamp": 1719333645.487067,
+    "ra": 19.13794,
+    "dec": -0.068517,
+    "frame_index": 98,
+    "brightness": -5.45
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333642.998905,
+    "ra": 38.638483,
+    "dec": -12.666636,
+    "frame_index": 0,
+    "brightness": -6.09
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.024291,
+    "ra": 38.59052,
+    "dec": -12.766719,
+    "frame_index": 1,
+    "brightness": -6.05
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.049677,
+    "ra": 38.529619,
+    "dec": -12.858649,
+    "frame_index": 2,
+    "brightness": -6.27
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.075063,
+    "ra": 38.485292,
+    "dec": -12.945933,
+    "frame_index": 3,
+    "brightness": -6.1
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.100449,
+    "ra": 38.436677,
+    "dec": -13.040633,
+    "frame_index": 4,
+    "brightness": -6.42
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.125835,
+    "ra": 38.393665,
+    "dec": -13.140289,
+    "frame_index": 5,
+    "brightness": -6.52
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.151221,
+    "ra": 38.349227,
+    "dec": -13.235616,
+    "frame_index": 6,
+    "brightness": -6.94
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.176607,
+    "ra": 38.293575,
+    "dec": -13.331342,
+    "frame_index": 7,
+    "brightness": -6.58
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.201993,
+    "ra": 38.246938,
+    "dec": -13.440025,
+    "frame_index": 8,
+    "brightness": -6.7
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.227379,
+    "ra": 38.194012,
+    "dec": -13.524826,
+    "frame_index": 9,
+    "brightness": -6.88
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.252765,
+    "ra": 38.152587,
+    "dec": -13.61789,
+    "frame_index": 10,
+    "brightness": -6.65
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.278151,
+    "ra": 38.093829,
+    "dec": -13.721876,
+    "frame_index": 11,
+    "brightness": -7.03
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.303537,
+    "ra": 38.0487,
+    "dec": -13.816729,
+    "frame_index": 12,
+    "brightness": -7.48
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.328923,
+    "ra": 37.998293,
+    "dec": -13.914973,
+    "frame_index": 13,
+    "brightness": -7.29
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.354309,
+    "ra": 37.941478,
+    "dec": -14.021907,
+    "frame_index": 14,
+    "brightness": -7.73
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.379695,
+    "ra": 37.893822,
+    "dec": -14.117436,
+    "frame_index": 15,
+    "brightness": -7.96
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.405081,
+    "ra": 37.842468,
+    "dec": -14.215281,
+    "frame_index": 16,
+    "brightness": -7.76
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.430467,
+    "ra": 37.793712,
+    "dec": -14.316524,
+    "frame_index": 17,
+    "brightness": -7.76
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.455853,
+    "ra": 37.736313,
+    "dec": -14.415425,
+    "frame_index": 18,
+    "brightness": -8.12
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.481239,
+    "ra": 37.680909,
+    "dec": -14.514671,
+    "frame_index": 19,
+    "brightness": -8.2
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.506625,
+    "ra": 37.623833,
+    "dec": -14.627716,
+    "frame_index": 20,
+    "brightness": -8.39
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.532011,
+    "ra": 37.576225,
+    "dec": -14.723765,
+    "frame_index": 21,
+    "brightness": -8.35
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.557397,
+    "ra": 37.519454,
+    "dec": -14.8301,
+    "frame_index": 22,
+    "brightness": -8.84
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.582783,
+    "ra": 37.468439,
+    "dec": -14.930968,
+    "frame_index": 23,
+    "brightness": -8.84
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.608169,
+    "ra": 37.413831,
+    "dec": -15.032436,
+    "frame_index": 24,
+    "brightness": -8.93
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.633555,
+    "ra": 37.357479,
+    "dec": -15.144229,
+    "frame_index": 25,
+    "brightness": -8.83
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.658941,
+    "ra": 37.308424,
+    "dec": -15.242374,
+    "frame_index": 26,
+    "brightness": -9.06
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.684327,
+    "ra": 37.24979,
+    "dec": -15.344258,
+    "frame_index": 27,
+    "brightness": -9.05
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.709713,
+    "ra": 37.192038,
+    "dec": -15.455143,
+    "frame_index": 28,
+    "brightness": -9.28
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.735099,
+    "ra": 37.148426,
+    "dec": -15.565256,
+    "frame_index": 29,
+    "brightness": -9.34
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.760485,
+    "ra": 37.077075,
+    "dec": -15.663382,
+    "frame_index": 30,
+    "brightness": -9.21
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.785871,
+    "ra": 37.02694,
+    "dec": -15.765912,
+    "frame_index": 31,
+    "brightness": -9.38
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.811257,
+    "ra": 36.963029,
+    "dec": -15.882837,
+    "frame_index": 32,
+    "brightness": -9.7
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.836643,
+    "ra": 36.917367,
+    "dec": -15.991517,
+    "frame_index": 33,
+    "brightness": -9.31
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.862029,
+    "ra": 36.856896,
+    "dec": -16.107161,
+    "frame_index": 34,
+    "brightness": -9.31
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.887415,
+    "ra": 36.799418,
+    "dec": -16.204835,
+    "frame_index": 35,
+    "brightness": -9.34
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.912801,
+    "ra": 36.736083,
+    "dec": -16.316991,
+    "frame_index": 36,
+    "brightness": -9.3
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.938187,
+    "ra": 36.683632,
+    "dec": -16.426123,
+    "frame_index": 37,
+    "brightness": -9.62
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.963573,
+    "ra": 36.621843,
+    "dec": -16.538098,
+    "frame_index": 38,
+    "brightness": -9.5
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333643.988959,
+    "ra": 36.565894,
+    "dec": -16.652809,
+    "frame_index": 39,
+    "brightness": -9.34
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.014345,
+    "ra": 36.505438,
+    "dec": -16.765681,
+    "frame_index": 40,
+    "brightness": -9.18
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.039731,
+    "ra": 36.439229,
+    "dec": -16.885302,
+    "frame_index": 41,
+    "brightness": -8.96
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.065117,
+    "ra": 36.377147,
+    "dec": -16.988764,
+    "frame_index": 42,
+    "brightness": -9.24
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.090503,
+    "ra": 36.322441,
+    "dec": -17.106003,
+    "frame_index": 43,
+    "brightness": -8.87
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.115889,
+    "ra": 36.25735,
+    "dec": -17.221062,
+    "frame_index": 44,
+    "brightness": -9.0
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.141275,
+    "ra": 36.199091,
+    "dec": -17.332194,
+    "frame_index": 45,
+    "brightness": -8.7
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.166661,
+    "ra": 36.125558,
+    "dec": -17.442908,
+    "frame_index": 46,
+    "brightness": -8.62
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.192047,
+    "ra": 36.074677,
+    "dec": -17.565192,
+    "frame_index": 47,
+    "brightness": -8.91
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.217433,
+    "ra": 36.013418,
+    "dec": -17.677895,
+    "frame_index": 48,
+    "brightness": -8.45
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.242819,
+    "ra": 35.952976,
+    "dec": -17.798449,
+    "frame_index": 49,
+    "brightness": -8.77
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.268205,
+    "ra": 35.884764,
+    "dec": -17.913585,
+    "frame_index": 50,
+    "brightness": -8.28
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.293591,
+    "ra": 35.830883,
+    "dec": -18.035089,
+    "frame_index": 51,
+    "brightness": -8.16
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.318977,
+    "ra": 35.751035,
+    "dec": -18.146921,
+    "frame_index": 52,
+    "brightness": -8.2
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.344363,
+    "ra": 35.691045,
+    "dec": -18.26384,
+    "frame_index": 53,
+    "brightness": -7.81
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.369749,
+    "ra": 35.631563,
+    "dec": -18.39251,
+    "frame_index": 54,
+    "brightness": -7.79
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.395135,
+    "ra": 35.568176,
+    "dec": -18.518834,
+    "frame_index": 55,
+    "brightness": -7.48
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.420521,
+    "ra": 35.499876,
+    "dec": -18.634046,
+    "frame_index": 56,
+    "brightness": -7.5
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.445907,
+    "ra": 35.43234,
+    "dec": -18.750172,
+    "frame_index": 57,
+    "brightness": -7.21
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.471293,
+    "ra": 35.368465,
+    "dec": -18.875297,
+    "frame_index": 58,
+    "brightness": -7.25
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.496679,
+    "ra": 35.299295,
+    "dec": -18.990452,
+    "frame_index": 59,
+    "brightness": -6.88
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.522065,
+    "ra": 35.22079,
+    "dec": -19.11621,
+    "frame_index": 60,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.547451,
+    "ra": 35.166872,
+    "dec": -19.248141,
+    "frame_index": 61,
+    "brightness": -7.09
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.572837,
+    "ra": 35.098748,
+    "dec": -19.375685,
+    "frame_index": 62,
+    "brightness": -6.91
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.598223,
+    "ra": 35.019874,
+    "dec": -19.491178,
+    "frame_index": 63,
+    "brightness": -6.65
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.623609,
+    "ra": 34.963566,
+    "dec": -19.604528,
+    "frame_index": 64,
+    "brightness": -6.54
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.648995,
+    "ra": 34.884325,
+    "dec": -19.739868,
+    "frame_index": 65,
+    "brightness": -6.48
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.674381,
+    "ra": 34.822829,
+    "dec": -19.870132,
+    "frame_index": 66,
+    "brightness": -6.42
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.699767,
+    "ra": 34.75255,
+    "dec": -19.989016,
+    "frame_index": 67,
+    "brightness": -6.43
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.725153,
+    "ra": 34.675555,
+    "dec": -20.126621,
+    "frame_index": 68,
+    "brightness": -6.59
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.750539,
+    "ra": 34.599737,
+    "dec": -20.248889,
+    "frame_index": 69,
+    "brightness": -6.14
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.775925,
+    "ra": 34.524725,
+    "dec": -20.379675,
+    "frame_index": 70,
+    "brightness": -6.25
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.801311,
+    "ra": 34.45983,
+    "dec": -20.508561,
+    "frame_index": 71,
+    "brightness": -6.25
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.826697,
+    "ra": 34.386915,
+    "dec": -20.628826,
+    "frame_index": 72,
+    "brightness": -5.71
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.852082,
+    "ra": 34.305565,
+    "dec": -20.770642,
+    "frame_index": 73,
+    "brightness": -5.79
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.877469,
+    "ra": 34.237375,
+    "dec": -20.9038,
+    "frame_index": 74,
+    "brightness": -5.91
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.902855,
+    "ra": 34.161911,
+    "dec": -21.024904,
+    "frame_index": 75,
+    "brightness": -6.08
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.928241,
+    "ra": 34.087604,
+    "dec": -21.167502,
+    "frame_index": 76,
+    "brightness": -5.86
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.953627,
+    "ra": 34.014519,
+    "dec": -21.296825,
+    "frame_index": 77,
+    "brightness": -5.86
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333644.979012,
+    "ra": 33.942373,
+    "dec": -21.437664,
+    "frame_index": 78,
+    "brightness": -5.74
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333645.004399,
+    "ra": 33.868343,
+    "dec": -21.564245,
+    "frame_index": 79,
+    "brightness": -5.63
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333645.029784,
+    "ra": 33.783746,
+    "dec": -21.709428,
+    "frame_index": 80,
+    "brightness": -5.62
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333645.055171,
+    "ra": 33.707476,
+    "dec": -21.833539,
+    "frame_index": 81,
+    "brightness": -5.43
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333645.080557,
+    "ra": 33.625265,
+    "dec": -21.976268,
+    "frame_index": 82,
+    "brightness": -5.62
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333645.105942,
+    "ra": 33.533972,
+    "dec": -22.107843,
+    "frame_index": 83,
+    "brightness": -5.72
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333645.131329,
+    "ra": 33.471541,
+    "dec": -22.250674,
+    "frame_index": 84,
+    "brightness": -5.57
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333645.156714,
+    "ra": 33.387414,
+    "dec": -22.391503,
+    "frame_index": 85,
+    "brightness": -5.58
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333645.182101,
+    "ra": 33.316235,
+    "dec": -22.530523,
+    "frame_index": 86,
+    "brightness": -5.46
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333645.207486,
+    "ra": 33.235097,
+    "dec": -22.671154,
+    "frame_index": 87,
+    "brightness": -5.4
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333645.232872,
+    "ra": 33.141581,
+    "dec": -22.803665,
+    "frame_index": 88,
+    "brightness": -5.46
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333645.258258,
+    "ra": 33.070985,
+    "dec": -22.952091,
+    "frame_index": 89,
+    "brightness": -5.68
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333645.283644,
+    "ra": 32.984205,
+    "dec": -23.086527,
+    "frame_index": 90,
+    "brightness": -5.36
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333645.309031,
+    "ra": 32.904036,
+    "dec": -23.22664,
+    "frame_index": 91,
+    "brightness": -5.57
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333645.334416,
+    "ra": 32.820751,
+    "dec": -23.371312,
+    "frame_index": 92,
+    "brightness": -5.4
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333645.359802,
+    "ra": 32.742058,
+    "dec": -23.517457,
+    "frame_index": 93,
+    "brightness": -5.51
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333645.385188,
+    "ra": 32.648093,
+    "dec": -23.65819,
+    "frame_index": 94,
+    "brightness": -5.42
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333645.410574,
+    "ra": 32.5559,
+    "dec": -23.801516,
+    "frame_index": 95,
+    "brightness": -5.5
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333645.43596,
+    "ra": 32.476125,
+    "dec": -23.941654,
+    "frame_index": 96,
+    "brightness": -5.18
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333645.461346,
+    "ra": 32.399709,
+    "dec": -24.101942,
+    "frame_index": 97,
+    "brightness": -5.66
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333645.486732,
+    "ra": 32.311278,
+    "dec": -24.248912,
+    "frame_index": 98,
+    "brightness": -5.45
+  },
+  {
+    "station_id": "Cleveland-D",
+    "timestamp": 1719333645.512118,
+    "ra": 32.211565,
+    "dec": -24.389922,
+    "frame_index": 99,
+    "brightness": -5.44
+  }
+]

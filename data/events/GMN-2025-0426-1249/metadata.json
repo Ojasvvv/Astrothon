@@ -1,0 +1,19 @@
+{
+  "event_id": "GMN-2025-0426-1249",
+  "utc_timestamp": "2025-04-26T12:49:59Z",
+  "unix_timestamp": 1745671799,
+  "network": "GMN",
+  "station_count": 4,
+  "region": "UK",
+  "estimated_velocity_kms": 44.9,
+  "peak_magnitude": -7.5,
+  "entry_altitude_km": 81.0,
+  "terminal_altitude_km": 21.3,
+  "trajectory_length_km": 64.0,
+  "entry_angle_deg": 69.3,
+  "shower": "Lyrids",
+  "shower_code": "LYR",
+  "radiant_ra": 271.4,
+  "radiant_dec": 33.6,
+  "duration_s": 1.42
+}

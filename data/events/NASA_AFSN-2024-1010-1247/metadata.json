@@ -1,0 +1,19 @@
+{
+  "event_id": "NASA_AFSN-2024-1010-1247",
+  "utc_timestamp": "2024-10-10T12:47:33Z",
+  "unix_timestamp": 1728564453,
+  "network": "NASA_AFSN",
+  "station_count": 4,
+  "region": "North America E",
+  "estimated_velocity_kms": 58.3,
+  "peak_magnitude": -3.9,
+  "entry_altitude_km": 91.9,
+  "terminal_altitude_km": 18.1,
+  "trajectory_length_km": 84.7,
+  "entry_angle_deg": 60.9,
+  "shower": "Perseids",
+  "shower_code": "PER",
+  "radiant_ra": 46.2,
+  "radiant_dec": 57.4,
+  "duration_s": 1.45
+}

@@ -1,0 +1,19 @@
+{
+  "event_id": "NASA_AFSN-2024-0817-0649",
+  "utc_timestamp": "2024-08-17T06:49:54Z",
+  "unix_timestamp": 1723877394,
+  "network": "NASA_AFSN",
+  "station_count": 3,
+  "region": "North America E",
+  "estimated_velocity_kms": 34.0,
+  "peak_magnitude": -1.1,
+  "entry_altitude_km": 112.4,
+  "terminal_altitude_km": 42.9,
+  "trajectory_length_km": 122.7,
+  "entry_angle_deg": 34.8,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 276.57,
+  "radiant_dec": 53.92,
+  "duration_s": 3.58
+}

@@ -1,0 +1,19 @@
+{
+  "event_id": "GMN-2024-0413-0640",
+  "utc_timestamp": "2024-04-13T06:40:26Z",
+  "unix_timestamp": 1712990426,
+  "network": "GMN",
+  "station_count": 7,
+  "region": "France",
+  "estimated_velocity_kms": 45.8,
+  "peak_magnitude": -5.8,
+  "entry_altitude_km": 108.4,
+  "terminal_altitude_km": 43.0,
+  "trajectory_length_km": 142.3,
+  "entry_angle_deg": 27.8,
+  "shower": "Lyrids",
+  "shower_code": "LYR",
+  "radiant_ra": 271.4,
+  "radiant_dec": 33.6,
+  "duration_s": 3.06
+}

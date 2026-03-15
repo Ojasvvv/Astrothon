@@ -1,0 +1,19 @@
+{
+  "event_id": "FRIPON-2025-0127-2053",
+  "utc_timestamp": "2025-01-27T20:53:25Z",
+  "unix_timestamp": 1738011205,
+  "network": "FRIPON",
+  "station_count": 6,
+  "region": "France",
+  "estimated_velocity_kms": 41.1,
+  "peak_magnitude": -8.7,
+  "entry_altitude_km": 86.7,
+  "terminal_altitude_km": 48.5,
+  "trajectory_length_km": 50.1,
+  "entry_angle_deg": 50.2,
+  "shower": "Quadrantids",
+  "shower_code": "QUA",
+  "radiant_ra": 230.1,
+  "radiant_dec": 48.5,
+  "duration_s": 1.21
+}

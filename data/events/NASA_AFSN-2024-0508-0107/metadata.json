@@ -1,0 +1,19 @@
+{
+  "event_id": "NASA_AFSN-2024-0508-0107",
+  "utc_timestamp": "2024-05-08T01:07:09Z",
+  "unix_timestamp": 1715130429,
+  "network": "NASA_AFSN",
+  "station_count": 4,
+  "region": "UK",
+  "estimated_velocity_kms": 67.6,
+  "peak_magnitude": -6.9,
+  "entry_altitude_km": 110.0,
+  "terminal_altitude_km": 49.8,
+  "trajectory_length_km": 88.9,
+  "entry_angle_deg": 43.1,
+  "shower": "Eta Aquariids",
+  "shower_code": "ETA",
+  "radiant_ra": 338.0,
+  "radiant_dec": -1.0,
+  "duration_s": 1.3
+}

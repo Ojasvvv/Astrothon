@@ -1,0 +1,19 @@
+{
+  "event_id": "GMN-2024-0307-0709",
+  "utc_timestamp": "2024-03-07T07:09:04Z",
+  "unix_timestamp": 1709795344,
+  "network": "GMN",
+  "station_count": 5,
+  "region": "North America E",
+  "estimated_velocity_kms": 36.5,
+  "peak_magnitude": -3.3,
+  "entry_altitude_km": 121.6,
+  "terminal_altitude_km": 38.2,
+  "trajectory_length_km": 136.0,
+  "entry_angle_deg": 38.3,
+  "shower": "Quadrantids",
+  "shower_code": "QUA",
+  "radiant_ra": 230.1,
+  "radiant_dec": 48.5,
+  "duration_s": 3.68
+}

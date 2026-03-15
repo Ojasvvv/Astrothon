@@ -1,0 +1,19 @@
+{
+  "event_id": "AMS-2024-0406-1850",
+  "utc_timestamp": "2024-04-06T18:50:18Z",
+  "unix_timestamp": 1712429418,
+  "network": "AMS",
+  "station_count": 7,
+  "region": "Scandinavia",
+  "estimated_velocity_kms": 66.8,
+  "peak_magnitude": -5.6,
+  "entry_altitude_km": 108.2,
+  "terminal_altitude_km": 20.4,
+  "trajectory_length_km": 96.5,
+  "entry_angle_deg": 65.8,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 278.81,
+  "radiant_dec": -13.49,
+  "duration_s": 1.44
+}

@@ -1,0 +1,19 @@
+{
+  "event_id": "AMS-2025-0714-1039",
+  "utc_timestamp": "2025-07-14T10:39:32Z",
+  "unix_timestamp": 1752489572,
+  "network": "AMS",
+  "station_count": 7,
+  "region": "UK",
+  "estimated_velocity_kms": 14.7,
+  "peak_magnitude": -7.8,
+  "entry_altitude_km": 100.4,
+  "terminal_altitude_km": 54.3,
+  "trajectory_length_km": 63.3,
+  "entry_angle_deg": 47.2,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 241.82,
+  "radiant_dec": 4.83,
+  "duration_s": 4.28
+}

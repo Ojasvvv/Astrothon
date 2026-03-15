@@ -1,0 +1,19 @@
+{
+  "event_id": "GMN-2024-0228-0648",
+  "utc_timestamp": "2024-02-28T06:48:57Z",
+  "unix_timestamp": 1709102937,
+  "network": "GMN",
+  "station_count": 4,
+  "region": "Central Europe",
+  "estimated_velocity_kms": 39.3,
+  "peak_magnitude": -4.5,
+  "entry_altitude_km": 93.2,
+  "terminal_altitude_km": 50.0,
+  "trajectory_length_km": 49.1,
+  "entry_angle_deg": 61.8,
+  "shower": "Quadrantids",
+  "shower_code": "QUA",
+  "radiant_ra": 230.1,
+  "radiant_dec": 48.5,
+  "duration_s": 1.24
+}

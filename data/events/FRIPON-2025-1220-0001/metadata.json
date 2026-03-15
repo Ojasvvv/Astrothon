@@ -1,0 +1,19 @@
+{
+  "event_id": "FRIPON-2025-1220-0001",
+  "utc_timestamp": "2025-12-20T00:01:26Z",
+  "unix_timestamp": 1766188886,
+  "network": "FRIPON",
+  "station_count": 3,
+  "region": "North America E",
+  "estimated_velocity_kms": 32.9,
+  "peak_magnitude": -8.2,
+  "entry_altitude_km": 93.2,
+  "terminal_altitude_km": 41.6,
+  "trajectory_length_km": 76.4,
+  "entry_angle_deg": 42.8,
+  "shower": "S Taurids",
+  "shower_code": "STA",
+  "radiant_ra": 51.0,
+  "radiant_dec": 13.0,
+  "duration_s": 2.31
+}

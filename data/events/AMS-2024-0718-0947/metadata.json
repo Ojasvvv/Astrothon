@@ -1,0 +1,19 @@
+{
+  "event_id": "AMS-2024-0718-0947",
+  "utc_timestamp": "2024-07-18T09:47:04Z",
+  "unix_timestamp": 1721296024,
+  "network": "AMS",
+  "station_count": 7,
+  "region": "France",
+  "estimated_velocity_kms": 16.2,
+  "peak_magnitude": -9.9,
+  "entry_altitude_km": 116.2,
+  "terminal_altitude_km": 19.9,
+  "trajectory_length_km": 104.5,
+  "entry_angle_deg": 67.5,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 189.28,
+  "radiant_dec": 48.39,
+  "duration_s": 6.46
+}

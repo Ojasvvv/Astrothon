@@ -1,0 +1,19 @@
+{
+  "event_id": "FRIPON-2025-1007-0558",
+  "utc_timestamp": "2025-10-07T05:58:28Z",
+  "unix_timestamp": 1759816708,
+  "network": "FRIPON",
+  "station_count": 7,
+  "region": "UK",
+  "estimated_velocity_kms": 65.1,
+  "peak_magnitude": -13.0,
+  "entry_altitude_km": 88.4,
+  "terminal_altitude_km": 35.7,
+  "trajectory_length_km": 56.1,
+  "entry_angle_deg": 69.8,
+  "shower": "Orionids",
+  "shower_code": "ORI",
+  "radiant_ra": 95.0,
+  "radiant_dec": 15.5,
+  "duration_s": 0.86
+}

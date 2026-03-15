@@ -1,0 +1,19 @@
+{
+  "event_id": "FRIPON-2025-0515-2312",
+  "utc_timestamp": "2025-05-15T23:12:49Z",
+  "unix_timestamp": 1747350769,
+  "network": "FRIPON",
+  "station_count": 3,
+  "region": "UK",
+  "estimated_velocity_kms": 45.3,
+  "peak_magnitude": -12.3,
+  "entry_altitude_km": 117.1,
+  "terminal_altitude_km": 47.1,
+  "trajectory_length_km": 147.0,
+  "entry_angle_deg": 29.0,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 118.63,
+  "radiant_dec": -7.32,
+  "duration_s": 3.19
+}

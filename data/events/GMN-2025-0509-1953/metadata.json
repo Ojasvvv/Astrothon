@@ -1,0 +1,19 @@
+{
+  "event_id": "GMN-2025-0509-1953",
+  "utc_timestamp": "2025-05-09T19:53:02Z",
+  "unix_timestamp": 1746820382,
+  "network": "GMN",
+  "station_count": 4,
+  "region": "Scandinavia",
+  "estimated_velocity_kms": 65.4,
+  "peak_magnitude": -3.4,
+  "entry_altitude_km": 127.1,
+  "terminal_altitude_km": 54.1,
+  "trajectory_length_km": 92.8,
+  "entry_angle_deg": 52.4,
+  "shower": "Eta Aquariids",
+  "shower_code": "ETA",
+  "radiant_ra": 338.0,
+  "radiant_dec": -1.0,
+  "duration_s": 1.41
+}

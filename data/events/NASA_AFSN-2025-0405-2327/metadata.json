@@ -1,0 +1,19 @@
+{
+  "event_id": "NASA_AFSN-2025-0405-2327",
+  "utc_timestamp": "2025-04-05T23:27:28Z",
+  "unix_timestamp": 1743895648,
+  "network": "NASA_AFSN",
+  "station_count": 6,
+  "region": "Scandinavia",
+  "estimated_velocity_kms": 46.2,
+  "peak_magnitude": -4.5,
+  "entry_altitude_km": 109.9,
+  "terminal_altitude_km": 24.9,
+  "trajectory_length_km": 96.5,
+  "entry_angle_deg": 62.0,
+  "shower": "Lyrids",
+  "shower_code": "LYR",
+  "radiant_ra": 271.4,
+  "radiant_dec": 33.6,
+  "duration_s": 2.08
+}

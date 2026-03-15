@@ -1,0 +1,19 @@
+{
+  "event_id": "GMN-2025-0224-1013",
+  "utc_timestamp": "2025-02-24T10:13:33Z",
+  "unix_timestamp": 1740392013,
+  "network": "GMN",
+  "station_count": 4,
+  "region": "North America E",
+  "estimated_velocity_kms": 24.5,
+  "peak_magnitude": -11.3,
+  "entry_altitude_km": 102.5,
+  "terminal_altitude_km": 54.5,
+  "trajectory_length_km": 53.2,
+  "entry_angle_deg": 64.8,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 39.35,
+  "radiant_dec": 64.21,
+  "duration_s": 2.17
+}

@@ -1,0 +1,19 @@
+{
+  "event_id": "FRIPON-2025-0920-0758",
+  "utc_timestamp": "2025-09-20T07:58:31Z",
+  "unix_timestamp": 1758355111,
+  "network": "FRIPON",
+  "station_count": 7,
+  "region": "UK",
+  "estimated_velocity_kms": 52.8,
+  "peak_magnitude": -8.8,
+  "entry_altitude_km": 81.8,
+  "terminal_altitude_km": 40.2,
+  "trajectory_length_km": 93.7,
+  "entry_angle_deg": 26.7,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 114.72,
+  "radiant_dec": 61.36,
+  "duration_s": 1.75
+}

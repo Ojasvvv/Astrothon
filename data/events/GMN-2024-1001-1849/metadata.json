@@ -1,0 +1,19 @@
+{
+  "event_id": "GMN-2024-1001-1849",
+  "utc_timestamp": "2024-10-01T18:49:38Z",
+  "unix_timestamp": 1727808577,
+  "network": "GMN",
+  "station_count": 7,
+  "region": "France",
+  "estimated_velocity_kms": 22.7,
+  "peak_magnitude": -10.0,
+  "entry_altitude_km": 112.9,
+  "terminal_altitude_km": 36.4,
+  "trajectory_length_km": 154.7,
+  "entry_angle_deg": 30.2,
+  "shower": "S Taurids",
+  "shower_code": "STA",
+  "radiant_ra": 51.0,
+  "radiant_dec": 13.0,
+  "duration_s": 6.73
+}

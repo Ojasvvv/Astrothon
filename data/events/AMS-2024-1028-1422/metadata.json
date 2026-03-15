@@ -1,0 +1,19 @@
+{
+  "event_id": "AMS-2024-1028-1422",
+  "utc_timestamp": "2024-10-28T14:22:44Z",
+  "unix_timestamp": 1730125364,
+  "network": "AMS",
+  "station_count": 7,
+  "region": "UK",
+  "estimated_velocity_kms": 29.9,
+  "peak_magnitude": -7.2,
+  "entry_altitude_km": 100.6,
+  "terminal_altitude_km": 50.7,
+  "trajectory_length_km": 100.6,
+  "entry_angle_deg": 30.1,
+  "shower": "S Taurids",
+  "shower_code": "STA",
+  "radiant_ra": 51.0,
+  "radiant_dec": 13.0,
+  "duration_s": 3.33
+}

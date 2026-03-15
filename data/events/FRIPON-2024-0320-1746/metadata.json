@@ -1,0 +1,19 @@
+{
+  "event_id": "FRIPON-2024-0320-1746",
+  "utc_timestamp": "2024-03-20T17:46:18Z",
+  "unix_timestamp": 1710956778,
+  "network": "FRIPON",
+  "station_count": 4,
+  "region": "UK",
+  "estimated_velocity_kms": 48.8,
+  "peak_magnitude": -4.5,
+  "entry_altitude_km": 125.8,
+  "terminal_altitude_km": 31.8,
+  "trajectory_length_km": 110.3,
+  "entry_angle_deg": 58.9,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 234.71,
+  "radiant_dec": 51.56,
+  "duration_s": 2.25
+}

@@ -1,0 +1,19 @@
+{
+  "event_id": "GMN-2025-0811-0112",
+  "utc_timestamp": "2025-08-11T01:12:38Z",
+  "unix_timestamp": 1754874758,
+  "network": "GMN",
+  "station_count": 4,
+  "region": "North America E",
+  "estimated_velocity_kms": 28.1,
+  "peak_magnitude": -9.3,
+  "entry_altitude_km": 128.7,
+  "terminal_altitude_km": 21.9,
+  "trajectory_length_km": 115.8,
+  "entry_angle_deg": 67.7,
+  "shower": "S Taurids",
+  "shower_code": "STA",
+  "radiant_ra": 51.0,
+  "radiant_dec": 13.0,
+  "duration_s": 4.11
+}

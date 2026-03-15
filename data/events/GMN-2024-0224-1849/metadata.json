@@ -1,0 +1,19 @@
+{
+  "event_id": "GMN-2024-0224-1849",
+  "utc_timestamp": "2024-02-24T18:49:06Z",
+  "unix_timestamp": 1708800546,
+  "network": "GMN",
+  "station_count": 5,
+  "region": "North America E",
+  "estimated_velocity_kms": 46.9,
+  "peak_magnitude": -4.3,
+  "entry_altitude_km": 102.5,
+  "terminal_altitude_km": 25.7,
+  "trajectory_length_km": 184.1,
+  "entry_angle_deg": 24.9,
+  "shower": "Lyrids",
+  "shower_code": "LYR",
+  "radiant_ra": 271.4,
+  "radiant_dec": 33.6,
+  "duration_s": 3.88
+}

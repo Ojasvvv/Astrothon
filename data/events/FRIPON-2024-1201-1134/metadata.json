@@ -1,0 +1,19 @@
+{
+  "event_id": "FRIPON-2024-1201-1134",
+  "utc_timestamp": "2024-12-01T11:34:46Z",
+  "unix_timestamp": 1733052886,
+  "network": "FRIPON",
+  "station_count": 5,
+  "region": "Central Europe",
+  "estimated_velocity_kms": 48.5,
+  "peak_magnitude": -4.0,
+  "entry_altitude_km": 81.1,
+  "terminal_altitude_km": 34.1,
+  "trajectory_length_km": 53.6,
+  "entry_angle_deg": 61.5,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 327.44,
+  "radiant_dec": 49.55,
+  "duration_s": 1.1
+}

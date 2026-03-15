@@ -1,0 +1,19 @@
+{
+  "event_id": "GMN-2025-1022-0048",
+  "utc_timestamp": "2025-10-22T00:48:01Z",
+  "unix_timestamp": 1761094080,
+  "network": "GMN",
+  "station_count": 5,
+  "region": "France",
+  "estimated_velocity_kms": 15.3,
+  "peak_magnitude": -6.7,
+  "entry_altitude_km": 80.6,
+  "terminal_altitude_km": 50.9,
+  "trajectory_length_km": 32.0,
+  "entry_angle_deg": 68.4,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 247.56,
+  "radiant_dec": 52.64,
+  "duration_s": 2.09
+}

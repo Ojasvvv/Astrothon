@@ -1,0 +1,19 @@
+{
+  "event_id": "FRIPON-2024-0520-1354",
+  "utc_timestamp": "2024-05-20T13:54:11Z",
+  "unix_timestamp": 1716213251,
+  "network": "FRIPON",
+  "station_count": 4,
+  "region": "North America E",
+  "estimated_velocity_kms": 47.7,
+  "peak_magnitude": -1.9,
+  "entry_altitude_km": 98.6,
+  "terminal_altitude_km": 39.9,
+  "trajectory_length_km": 171.8,
+  "entry_angle_deg": 20.2,
+  "shower": "Lyrids",
+  "shower_code": "LYR",
+  "radiant_ra": 271.4,
+  "radiant_dec": 33.6,
+  "duration_s": 3.56
+}

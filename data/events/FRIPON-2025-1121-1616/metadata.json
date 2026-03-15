@@ -1,0 +1,19 @@
+{
+  "event_id": "FRIPON-2025-1121-1616",
+  "utc_timestamp": "2025-11-21T16:16:30Z",
+  "unix_timestamp": 1763741790,
+  "network": "FRIPON",
+  "station_count": 3,
+  "region": "Central Europe",
+  "estimated_velocity_kms": 70.8,
+  "peak_magnitude": -2.7,
+  "entry_altitude_km": 85.5,
+  "terminal_altitude_km": 27.3,
+  "trajectory_length_km": 77.4,
+  "entry_angle_deg": 49.0,
+  "shower": "Orionids",
+  "shower_code": "ORI",
+  "radiant_ra": 95.0,
+  "radiant_dec": 15.5,
+  "duration_s": 1.09
+}

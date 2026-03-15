@@ -1,0 +1,19 @@
+{
+  "event_id": "FRIPON-2024-0922-1028",
+  "utc_timestamp": "2024-09-22T10:28:41Z",
+  "unix_timestamp": 1727000921,
+  "network": "FRIPON",
+  "station_count": 4,
+  "region": "North America E",
+  "estimated_velocity_kms": 69.7,
+  "peak_magnitude": -12.0,
+  "entry_altitude_km": 101.5,
+  "terminal_altitude_km": 44.1,
+  "trajectory_length_km": 103.6,
+  "entry_angle_deg": 33.9,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 20.8,
+  "radiant_dec": 47.16,
+  "duration_s": 1.48
+}

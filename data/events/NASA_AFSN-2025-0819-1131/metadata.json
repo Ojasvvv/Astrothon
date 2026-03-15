@@ -1,0 +1,19 @@
+{
+  "event_id": "NASA_AFSN-2025-0819-1131",
+  "utc_timestamp": "2025-08-19T11:31:19Z",
+  "unix_timestamp": 1755603079,
+  "network": "NASA_AFSN",
+  "station_count": 5,
+  "region": "UK",
+  "estimated_velocity_kms": 59.7,
+  "peak_magnitude": -5.9,
+  "entry_altitude_km": 127.3,
+  "terminal_altitude_km": 23.5,
+  "trajectory_length_km": 162.5,
+  "entry_angle_deg": 40.3,
+  "shower": "Perseids",
+  "shower_code": "PER",
+  "radiant_ra": 46.2,
+  "radiant_dec": 57.4,
+  "duration_s": 2.69
+}

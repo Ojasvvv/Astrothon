@@ -1,0 +1,19 @@
+{
+  "event_id": "GMN-2024-1103-2121",
+  "utc_timestamp": "2024-11-03T21:21:02Z",
+  "unix_timestamp": 1730668862,
+  "network": "GMN",
+  "station_count": 3,
+  "region": "North America E",
+  "estimated_velocity_kms": 72.1,
+  "peak_magnitude": -6.4,
+  "entry_altitude_km": 94.9,
+  "terminal_altitude_km": 42.3,
+  "trajectory_length_km": 64.7,
+  "entry_angle_deg": 54.8,
+  "shower": "Leonids",
+  "shower_code": "LEO",
+  "radiant_ra": 153.0,
+  "radiant_dec": 21.6,
+  "duration_s": 0.89
+}

@@ -1,0 +1,19 @@
+{
+  "event_id": "FRIPON-2025-0828-1346",
+  "utc_timestamp": "2025-08-28T13:46:53Z",
+  "unix_timestamp": 1756388813,
+  "network": "FRIPON",
+  "station_count": 4,
+  "region": "UK",
+  "estimated_velocity_kms": 46.5,
+  "peak_magnitude": -5.3,
+  "entry_altitude_km": 93.5,
+  "terminal_altitude_km": 22.8,
+  "trajectory_length_km": 100.3,
+  "entry_angle_deg": 45.3,
+  "shower": "Quadrantids",
+  "shower_code": "QUA",
+  "radiant_ra": 230.1,
+  "radiant_dec": 48.5,
+  "duration_s": 2.14
+}

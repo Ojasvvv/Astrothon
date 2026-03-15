@@ -1,0 +1,19 @@
+{
+  "event_id": "NASA_AFSN-2025-0311-0253",
+  "utc_timestamp": "2025-03-11T02:53:07Z",
+  "unix_timestamp": 1741661587,
+  "network": "NASA_AFSN",
+  "station_count": 5,
+  "region": "Central Europe",
+  "estimated_velocity_kms": 65.4,
+  "peak_magnitude": -12.5,
+  "entry_altitude_km": 84.9,
+  "terminal_altitude_km": 20.6,
+  "trajectory_length_km": 75.8,
+  "entry_angle_deg": 58.4,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 226.08,
+  "radiant_dec": -17.56,
+  "duration_s": 1.15
+}

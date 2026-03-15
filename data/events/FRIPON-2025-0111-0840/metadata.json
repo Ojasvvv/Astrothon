@@ -1,0 +1,19 @@
+{
+  "event_id": "FRIPON-2025-0111-0840",
+  "utc_timestamp": "2025-01-11T08:40:38Z",
+  "unix_timestamp": 1736584838,
+  "network": "FRIPON",
+  "station_count": 7,
+  "region": "Scandinavia",
+  "estimated_velocity_kms": 71.1,
+  "peak_magnitude": -7.9,
+  "entry_altitude_km": 82.8,
+  "terminal_altitude_km": 46.8,
+  "trajectory_length_km": 67.0,
+  "entry_angle_deg": 32.8,
+  "shower": "Leonids",
+  "shower_code": "LEO",
+  "radiant_ra": 153.0,
+  "radiant_dec": 21.6,
+  "duration_s": 0.93
+}

@@ -1,0 +1,19 @@
+{
+  "event_id": "GMN-2024-1109-1337",
+  "utc_timestamp": "2024-11-09T13:37:03Z",
+  "unix_timestamp": 1731159423,
+  "network": "GMN",
+  "station_count": 7,
+  "region": "UK",
+  "estimated_velocity_kms": 31.9,
+  "peak_magnitude": -6.9,
+  "entry_altitude_km": 86.1,
+  "terminal_altitude_km": 36.4,
+  "trajectory_length_km": 85.9,
+  "entry_angle_deg": 35.7,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 256.52,
+  "radiant_dec": -1.88,
+  "duration_s": 2.67
+}

@@ -1,0 +1,19 @@
+{
+  "event_id": "AMS-2025-1101-0107",
+  "utc_timestamp": "2025-11-01T01:07:59Z",
+  "unix_timestamp": 1761959279,
+  "network": "AMS",
+  "station_count": 7,
+  "region": "Scandinavia",
+  "estimated_velocity_kms": 69.4,
+  "peak_magnitude": -9.4,
+  "entry_altitude_km": 96.9,
+  "terminal_altitude_km": 31.5,
+  "trajectory_length_km": 74.3,
+  "entry_angle_deg": 62.0,
+  "shower": "Leonids",
+  "shower_code": "LEO",
+  "radiant_ra": 153.0,
+  "radiant_dec": 21.6,
+  "duration_s": 1.07
+}

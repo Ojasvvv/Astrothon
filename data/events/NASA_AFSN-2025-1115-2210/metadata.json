@@ -1,0 +1,19 @@
+{
+  "event_id": "NASA_AFSN-2025-1115-2210",
+  "utc_timestamp": "2025-11-15T22:10:46Z",
+  "unix_timestamp": 1763244645,
+  "network": "NASA_AFSN",
+  "station_count": 7,
+  "region": "UK",
+  "estimated_velocity_kms": 70.6,
+  "peak_magnitude": -12.8,
+  "entry_altitude_km": 106.7,
+  "terminal_altitude_km": 37.3,
+  "trajectory_length_km": 76.1,
+  "entry_angle_deg": 66.1,
+  "shower": "Leonids",
+  "shower_code": "LEO",
+  "radiant_ra": 153.0,
+  "radiant_dec": 21.6,
+  "duration_s": 1.08
+}

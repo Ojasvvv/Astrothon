@@ -1,0 +1,19 @@
+{
+  "event_id": "AMS-2025-0401-1127",
+  "utc_timestamp": "2025-04-01T11:27:55Z",
+  "unix_timestamp": 1743506874,
+  "network": "AMS",
+  "station_count": 6,
+  "region": "France",
+  "estimated_velocity_kms": 52.5,
+  "peak_magnitude": -3.1,
+  "entry_altitude_km": 119.1,
+  "terminal_altitude_km": 52.6,
+  "trajectory_length_km": 123.3,
+  "entry_angle_deg": 33.1,
+  "shower": "Lyrids",
+  "shower_code": "LYR",
+  "radiant_ra": 271.4,
+  "radiant_dec": 33.6,
+  "duration_s": 2.33
+}

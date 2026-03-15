@@ -1,0 +1,19 @@
+{
+  "event_id": "NASA_AFSN-2024-0808-1407",
+  "utc_timestamp": "2024-08-08T14:07:00Z",
+  "unix_timestamp": 1723126020,
+  "network": "NASA_AFSN",
+  "station_count": 3,
+  "region": "UK",
+  "estimated_velocity_kms": 33.7,
+  "peak_magnitude": -7.1,
+  "entry_altitude_km": 83.2,
+  "terminal_altitude_km": 22.3,
+  "trajectory_length_km": 134.1,
+  "entry_angle_deg": 27.2,
+  "shower": "Ursids",
+  "shower_code": "URS",
+  "radiant_ra": 217.0,
+  "radiant_dec": 75.0,
+  "duration_s": 3.96
+}

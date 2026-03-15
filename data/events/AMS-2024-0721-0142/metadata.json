@@ -1,0 +1,19 @@
+{
+  "event_id": "AMS-2024-0721-0142",
+  "utc_timestamp": "2024-07-21T01:42:27Z",
+  "unix_timestamp": 1721526147,
+  "network": "AMS",
+  "station_count": 4,
+  "region": "Central Europe",
+  "estimated_velocity_kms": 27.0,
+  "peak_magnitude": -12.6,
+  "entry_altitude_km": 124.8,
+  "terminal_altitude_km": 49.4,
+  "trajectory_length_km": 129.8,
+  "entry_angle_deg": 35.9,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 301.38,
+  "radiant_dec": 64.41,
+  "duration_s": 4.77
+}

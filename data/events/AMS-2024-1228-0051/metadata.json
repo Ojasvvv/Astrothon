@@ -1,0 +1,19 @@
+{
+  "event_id": "AMS-2024-1228-0051",
+  "utc_timestamp": "2024-12-28T00:51:18Z",
+  "unix_timestamp": 1735347078,
+  "network": "AMS",
+  "station_count": 7,
+  "region": "UK",
+  "estimated_velocity_kms": 33.6,
+  "peak_magnitude": -5.0,
+  "entry_altitude_km": 93.3,
+  "terminal_altitude_km": 54.5,
+  "trajectory_length_km": 53.0,
+  "entry_angle_deg": 47.5,
+  "shower": "Ursids",
+  "shower_code": "URS",
+  "radiant_ra": 217.0,
+  "radiant_dec": 75.0,
+  "duration_s": 1.57
+}

@@ -1,0 +1,19 @@
+{
+  "event_id": "FRIPON-2024-0211-0505",
+  "utc_timestamp": "2024-02-11T05:05:06Z",
+  "unix_timestamp": 1707627906,
+  "network": "FRIPON",
+  "station_count": 6,
+  "region": "France",
+  "estimated_velocity_kms": 63.8,
+  "peak_magnitude": -3.6,
+  "entry_altitude_km": 119.0,
+  "terminal_altitude_km": 52.6,
+  "trajectory_length_km": 151.7,
+  "entry_angle_deg": 26.4,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 65.17,
+  "radiant_dec": 14.23,
+  "duration_s": 2.34
+}

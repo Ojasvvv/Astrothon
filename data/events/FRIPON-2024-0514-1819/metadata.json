@@ -1,0 +1,19 @@
+{
+  "event_id": "FRIPON-2024-0514-1819",
+  "utc_timestamp": "2024-05-14T18:19:37Z",
+  "unix_timestamp": 1715710777,
+  "network": "FRIPON",
+  "station_count": 3,
+  "region": "North America E",
+  "estimated_velocity_kms": 30.4,
+  "peak_magnitude": -6.2,
+  "entry_altitude_km": 107.6,
+  "terminal_altitude_km": 38.2,
+  "trajectory_length_km": 102.4,
+  "entry_angle_deg": 43.0,
+  "shower": "Ursids",
+  "shower_code": "URS",
+  "radiant_ra": 217.0,
+  "radiant_dec": 75.0,
+  "duration_s": 3.35
+}

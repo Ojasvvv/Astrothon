@@ -1,0 +1,19 @@
+{
+  "event_id": "AMS-2024-1209-0635",
+  "utc_timestamp": "2024-12-09T06:35:06Z",
+  "unix_timestamp": 1733726106,
+  "network": "AMS",
+  "station_count": 6,
+  "region": "France",
+  "estimated_velocity_kms": 35.0,
+  "peak_magnitude": -7.5,
+  "entry_altitude_km": 118.0,
+  "terminal_altitude_km": 29.9,
+  "trajectory_length_km": 157.3,
+  "entry_angle_deg": 34.4,
+  "shower": "Geminids",
+  "shower_code": "GEM",
+  "radiant_ra": 112.3,
+  "radiant_dec": 32.5,
+  "duration_s": 4.46
+}

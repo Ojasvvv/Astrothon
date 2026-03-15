@@ -1,0 +1,19 @@
+{
+  "event_id": "GMN-2024-0806-1118",
+  "utc_timestamp": "2024-08-06T11:18:40Z",
+  "unix_timestamp": 1722943120,
+  "network": "GMN",
+  "station_count": 7,
+  "region": "North America E",
+  "estimated_velocity_kms": 57.5,
+  "peak_magnitude": -8.2,
+  "entry_altitude_km": 110.1,
+  "terminal_altitude_km": 41.5,
+  "trajectory_length_km": 110.0,
+  "entry_angle_deg": 39.0,
+  "shower": "Perseids",
+  "shower_code": "PER",
+  "radiant_ra": 46.2,
+  "radiant_dec": 57.4,
+  "duration_s": 1.9
+}

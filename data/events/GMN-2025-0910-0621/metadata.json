@@ -1,0 +1,19 @@
+{
+  "event_id": "GMN-2025-0910-0621",
+  "utc_timestamp": "2025-09-10T06:21:07Z",
+  "unix_timestamp": 1757485267,
+  "network": "GMN",
+  "station_count": 4,
+  "region": "Scandinavia",
+  "estimated_velocity_kms": 50.3,
+  "peak_magnitude": -10.7,
+  "entry_altitude_km": 120.1,
+  "terminal_altitude_km": 44.1,
+  "trajectory_length_km": 104.1,
+  "entry_angle_deg": 47.5,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 193.79,
+  "radiant_dec": 6.53,
+  "duration_s": 2.05
+}

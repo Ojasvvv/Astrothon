@@ -1,0 +1,19 @@
+{
+  "event_id": "FRIPON-2025-0418-1246",
+  "utc_timestamp": "2025-04-18T12:46:53Z",
+  "unix_timestamp": 1744980413,
+  "network": "FRIPON",
+  "station_count": 5,
+  "region": "UK",
+  "estimated_velocity_kms": 47.2,
+  "peak_magnitude": -6.6,
+  "entry_altitude_km": 80.2,
+  "terminal_altitude_km": 40.4,
+  "trajectory_length_km": 46.9,
+  "entry_angle_deg": 58.3,
+  "shower": "Lyrids",
+  "shower_code": "LYR",
+  "radiant_ra": 271.4,
+  "radiant_dec": 33.6,
+  "duration_s": 0.99
+}

@@ -1,0 +1,19 @@
+{
+  "event_id": "NASA_AFSN-2024-0902-1854",
+  "utc_timestamp": "2024-09-02T18:54:17Z",
+  "unix_timestamp": 1725303257,
+  "network": "NASA_AFSN",
+  "station_count": 7,
+  "region": "France",
+  "estimated_velocity_kms": 25.1,
+  "peak_magnitude": -2.9,
+  "entry_altitude_km": 89.8,
+  "terminal_altitude_km": 45.4,
+  "trajectory_length_km": 73.0,
+  "entry_angle_deg": 37.8,
+  "shower": "Sporadic",
+  "shower_code": "SPO",
+  "radiant_ra": 320.33,
+  "radiant_dec": 56.96,
+  "duration_s": 2.89
+}

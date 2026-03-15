@@ -1,0 +1,19 @@
+{
+  "event_id": "GMN-2025-0618-1516",
+  "utc_timestamp": "2025-06-18T15:16:15Z",
+  "unix_timestamp": 1750259774,
+  "network": "GMN",
+  "station_count": 4,
+  "region": "UK",
+  "estimated_velocity_kms": 62.0,
+  "peak_magnitude": -12.2,
+  "entry_altitude_km": 117.4,
+  "terminal_altitude_km": 46.4,
+  "trajectory_length_km": 145.6,
+  "entry_angle_deg": 29.5,
+  "shower": "Eta Aquariids",
+  "shower_code": "ETA",
+  "radiant_ra": 338.0,
+  "radiant_dec": -1.0,
+  "duration_s": 2.33
+}
