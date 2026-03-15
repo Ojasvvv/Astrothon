@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Meteor_in_the_night_sky.jpg/1200px-Meteor_in_the_night_sky.jpg" alt="Bolide Banner" width="100%" style="border-radius: 8px; max-height: 300px; object-fit: cover;" />
   <br/><br/>
   <h1>B O L I D E</h1>
   <p><strong>Multi-Station Meteor Trajectory Reconstruction Platform</strong></p>
@@ -31,26 +30,30 @@ BOLIDE operates on a strict decoupling of Data Ingestion, Physics Computation, a
 
 ```mermaid
 graph TD
+    classDef default fill:#0f172a,stroke:#38bdf8,stroke-width:1px,color:#f8fafc;
+    classDef highlight fill:#38bdf8,stroke:#0f172a,stroke-width:1px,color:#0f172a;
+    classDef store fill:#ec4899,stroke:#0f172a,stroke-width:1px,color:#fff;
+    
     subgraph Open Data Sources
-        GMN[Global Meteor Network]
-        NASA[NASA Fireball API]
-        IAU[IAU Meteor Data Centre]
+        GMN[Global Meteor Network]:::default
+        NASA[NASA Fireball API]:::default
+        IAU[IAU Meteor Data Centre]:::default
     end
 
     subgraph BOLIDE Backend Pipeline
-        Ingest[Data Ingesters]
-        Store[(JSON Object Store)]
+        Ingest[Data Ingesters]:::highlight
+        Store[(JSON Object Store)]:::store
         
-        Triangulate[Line-of-Sight SVD Triangulation]
-        Velocity[Whipple-Jacchia Velocity Fitting]
-        Orbit[Geocentric to Heliocentric Orbit]
-        MC[Monte Carlo Uncertainty Simulator]
+        Triangulate[Line-of-Sight SVD Triangulation]:::default
+        Velocity[Whipple-Jacchia Velocity Fitting]:::default
+        Orbit[Geocentric to Heliocentric Orbit]:::default
+        MC[Monte Carlo Uncertainty Simulator]:::default
     end
 
     subgraph BOLIDE Frontend Client
-        Dash[Interactive Detail Dashboard]
-        Map[3D WebGL Earth Trajectories]
-        Charts[SVG Velocity & Orbit Renderers]
+        Dash[Interactive Detail Dashboard]:::highlight
+        Map[3D WebGL Earth Trajectories]:::default
+        Charts[SVG Velocity & Orbit Renderers]:::default
     end
 
     GMN --> Ingest
