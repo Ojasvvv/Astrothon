@@ -152,7 +152,7 @@ The mission control for the unified observation catalog.
 
 The core investigative interface — every number computed server-side, rendered client-side.
 
-- **3 interactive trajectory views**: 3D Globe, Ground Track projection, Lines-of-Sight intersection
+- **3 interactive trajectory views**: SVG-rendered 3D Globe, Ground Track projection, Lines-of-Sight intersection
 - **Velocity deceleration chart**: real data points plotted against Linear and Whipple-Jacchia exponential fits, togglable
 - **5 stat cards**: initial velocity (± uncertainty), entry angle, peak magnitude, trajectory length, shower match
 - **Station panel**: per-station angular residuals in arcseconds, frame counts, geographic coordinates
@@ -170,14 +170,13 @@ The core investigative interface — every number computed server-side, rendered
 ### ☀️ 4. Solar System Orbit Explorer (`/orbit`)
 
 - **Heliocentric kinematics**: browse computed orbital elements for every event
-- **Interactive cards**: click any event to see its full Keplerian orbit
-- **Visual orbit diagram**: innerplanets + meteoroid orbit rendered to scale
-- **Orbit classification**: bound, parabolic, or hyperbolic orbits automatically flagged
+- **Interactive cards**: click any event to jump to its full trajectory and orbital analysis
+- **Orbit classification**: bound, parabolic, or hyperbolic orbits automatically flagged via `orbit_type`
 
 ### 🔄 5. Multi-Event Comparison (`/compare`)
 
-- **Side-by-side analysis**: select 2–10 events for simultaneous comparison
-- **Shared sky map**: overlaid radiant directions with 1σ uncertainty ellipses
+- **Side-by-side analysis**: select 2–5 events for simultaneous comparison
+- **Shared sky map**: overlaid radiant positions on a celestial coordinate projection
 - **Orbital elements table**: tabular comparison of a, e, i, ω, Ω across events
 - **Velocity overlay**: normalized deceleration curves on a single chart
 - **Automatic shower association**: cross-reference against IAU meteor shower catalogue
@@ -193,7 +192,7 @@ The core investigative interface — every number computed server-side, rendered
 
 - **Real-time AMS fireball ticker**: latest reported events from the American Meteor Society API
 - **Prioritized display**: multi-station events with magnitude and shower data shown first
-- **Direct event access**: click any live event to view its full analysis
+- **Continuous updates**: latest AMS-reported fireballs streamed into the sidebar panel
 
 ### 📐 8. Physics Engine Reference (`/physics`)
 
@@ -347,7 +346,7 @@ Astrothon/
 | Monte Carlo uncertainty | ✅ | 100 iterations, σ = 30″, 1σ bounds |
 | Multi-event comparison | ✅ | `/compare` with shared sky map + velocity overlay |
 | Shower association (IAU) | ✅ | 1,100+ showers from IAU MDC catalogue |
-| **Stretch**: Meteorite fall | ✅ | Strewn-field computation and map |
+| **Stretch**: Meteorite fall | ✅ | Fall candidate identification + strewn-field computation |
 | **Stretch**: Real-time feed | ✅ | AMS fireball API live integration |
 | **Stretch**: Mass estimate | ✅ | Luminous efficiency computation |
 
