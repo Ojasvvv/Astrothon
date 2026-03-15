@@ -30,9 +30,9 @@ BOLIDE operates on a strict decoupling of Data Ingestion, Physics Computation, a
 
 ```mermaid
 graph TD
-    classDef default fill:#0b1121,stroke:#38bdf8,stroke-width:2px,color:#f8fafc;
-    classDef highlight fill:#1e1b4b,stroke:#a855f7,stroke-width:2px,color:#ffffff;
-    classDef store fill:#0b1121,stroke:#ec4899,stroke-width:2px,color:#ffffff;
+    classDef default fill:transparent,stroke:#38bdf8,stroke-width:2px,color:#f8fafc;
+    classDef highlight fill:transparent,stroke:#a855f7,stroke-width:2px,color:#ffffff;
+    classDef store fill:transparent,stroke:#ec4899,stroke-width:2px,color:#ffffff;
     
     subgraph Open Data Sources
         GMN[Global Meteor Network]:::default
