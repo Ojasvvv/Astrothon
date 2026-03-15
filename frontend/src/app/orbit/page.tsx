@@ -9,7 +9,7 @@ export default function OrbitExplorerPage() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch(`${API}/api/events?page_size=30`)
+    fetch(`${API}/api/events?page_size=120`)
       .then(r => r.json()).then(d => { setEvents(d.events || []); setLoading(false); })
       .catch(() => setLoading(false));
   }, []);
@@ -33,7 +33,7 @@ export default function OrbitExplorerPage() {
                   <div className="event-card" style={{padding: 15, height: "auto"}}>
                     <div className="card-id">{ev.event_id}</div>
                     <div className="card-name" style={{fontSize: 14, marginTop: 4}}>
-                      <span style={{color:"var(--accent)"}}>{ev.shower || "Sporadic"}</span> · {ev.estimated_velocity_kms?.toFixed(1)} km/s
+                      <span style={{color:"var(--accent)"}}>{ev.shower || "Sporadic"}</span> · {ev.estimated_velocity_kms ? ev.estimated_velocity_kms.toFixed(1) : (ev.velocity ? Number(ev.velocity).toFixed(1) : "N/A")} km/s
                     </div>
                   </div>
                 </Link>

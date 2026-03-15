@@ -24,19 +24,24 @@ def list_events(
     if not EVENTS_DIR.exists():
         return {"events": [], "total": 0, "page": page, "page_size": page_size}
 
-    for event_dir in sorted(EVENTS_DIR.iterdir(), reverse=True):
+    all_metas = []
+    for event_dir in EVENTS_DIR.iterdir():
         if not event_dir.is_dir():
             continue
         meta_file = event_dir / "metadata.json"
         if not meta_file.exists():
             continue
-
         try:
             with open(meta_file) as f:
                 meta = json.load(f)
         except Exception:
             continue
+        all_metas.append(meta)
 
+    # Sort by timestamp (newest first)
+    all_metas.sort(key=lambda m: m.get("utc_timestamp", ""), reverse=True)
+
+    for meta in all_metas:
         # Apply filters
         if network and meta.get("network", "").upper() != network.upper():
             continue

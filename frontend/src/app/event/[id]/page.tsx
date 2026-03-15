@@ -11,6 +11,7 @@ export default function EventDashboard({ params }: { params: Promise<{ id: strin
   const [data, setData] = useState<any>(null);
   const [traj, setTraj] = useState<any>(null);
   const [loading, setLoading] = useState(true);
+  const [trajLoading, setTrajLoading] = useState(true);
   const [error, setError] = useState<string|null>(null);
   const [reconstructing, setReconstructing] = useState(false);
   const [recomputing, setRecomputing] = useState(false);
@@ -35,8 +36,8 @@ export default function EventDashboard({ params }: { params: Promise<{ id: strin
       .catch(() => {});
 
     fetch(`${API}/api/events/${encodeURIComponent(eventId)}/trajectory`)
-      .then(r => r.ok ? r.json() : null).then(d => { setTraj(d); setLoading(false); })
-      .catch(() => setLoading(false));
+      .then(r => r.ok ? r.json() : null).then(d => { setTraj(d); setTrajLoading(false); })
+      .catch(() => setTrajLoading(false));
   }, [unwrappedParams.id, eventId]);
 
   const handleReconstruct = () => {
@@ -58,19 +59,22 @@ export default function EventDashboard({ params }: { params: Promise<{ id: strin
   const massEst = traj?.mass_estimate;
   const uncertainty = traj?.uncertainty;
 
-  const v0 = vel?.initial_velocity_kms || meta.estimated_velocity_kms || 30;
-  const decel = vel?.deceleration_kms2 || -2;
-  const entryAngle = t?.entry_angle_deg || 35;
-  const peakMag = meta.peak_magnitude || -5;
-  const trajLen = t?.trajectory_length_km || meta.trajectory_length_km || 200;
+  const v0 = vel?.initial_velocity_kms ?? meta.estimated_velocity_kms ?? null;
+  const decel = vel?.deceleration_kms2 ?? null;
+  const entryAngle = t?.entry_angle_deg ?? null;
+  const peakMag = meta.peak_magnitude ?? null;
+  const trajLen = t?.trajectory_length_km ?? meta.trajectory_length_km ?? null;
   const shower = showerMatch?.shower_name || meta.shower || "Sporadic";
   const showerConf = showerMatch?.confidence || 0;
+  
+  const entryAlt = t?.entry_altitude_km ?? meta.entry_altitude_km ?? null;
+  const termAlt = t?.terminal_altitude_km ?? meta.terminal_altitude_km ?? null;
 
   const statCount = meta.station_count || 0;
   const ptsCount = t?.num_observations || 0;
 
-  if (loading) {
-    return <div className="wrap">Loading...</div>;
+  if (loading || trajLoading) {
+    return <div className="wrap"><div className="loader"><div className="spinner" /></div></div>;
   }
 
   if (error) {
@@ -170,7 +174,7 @@ export default function EventDashboard({ params }: { params: Promise<{ id: strin
       <div className="stat-row">
         <div className="stat-card" style={{"--al":"var(--accent)"} as any}>
           <div className="sl">Initial velocity</div>
-          <div className="sv">{v0.toFixed(1)}<small> km/s</small></div>
+          <div className="sv">{v0 !== null ? <>{v0.toFixed(1)}<small> km/s</small></> : "N/A"}</div>
           <div className="ss">
             {uncertainty?.initial_velocity?.std ?
               <span className="badge bg">±{uncertainty.initial_velocity.std.toFixed(2)} km/s</span> :
@@ -179,19 +183,19 @@ export default function EventDashboard({ params }: { params: Promise<{ id: strin
         </div>
         <div className="stat-card" style={{"--al":"var(--accent2)"} as any}>
           <div className="sl">Entry angle</div>
-          <div className="sv">{entryAngle.toFixed(1)}<small>°</small></div>
-          <div className="ss"><span className="badge bo">{entryAngle < 30 ? "Steep" : entryAngle < 50 ? "Shallow" : "Grazing"}</span></div>
+          <div className="sv">{entryAngle !== null ? <>{entryAngle.toFixed(1)}<small>°</small></> : "N/A"}</div>
+          <div className="ss"><span className="badge bo">{entryAngle !== null ? (entryAngle < 30 ? "Steep" : entryAngle < 50 ? "Shallow" : "Grazing") : "Unknown"}</span></div>
         </div>
         <div className="stat-card" style={{"--al":"var(--accent3)"} as any}>
           <div className="sl">Peak magnitude</div>
-          <div className="sv">{peakMag.toFixed(1)}<small> mag</small></div>
-          <div className="ss"><span className="badge bp">{peakMag < -6 ? "Fireball class" : peakMag < -3 ? "Bright" : "Normal"}</span></div>
+          <div className="sv">{peakMag !== null ? <>{peakMag.toFixed(1)}<small> mag</small></> : "N/A"}</div>
+          <div className="ss"><span className="badge bp">{peakMag !== null ? (peakMag < -6 ? "Fireball class" : peakMag < -3 ? "Bright" : "Normal") : "Unknown"}</span></div>
         </div>
         <div className="stat-card" style={{"--al":"#38bdf8"} as any}>
           <div className="sl">Trajectory length</div>
-          <div className="sv">{Math.round(trajLen)}<small> km</small></div>
+          <div className="sv">{trajLen !== null ? <>{Math.round(trajLen)}<small> km</small></> : "N/A"}</div>
           <div className="ss" style={{fontFamily:"var(--mono)",fontSize:8,color:"var(--muted)"}}>
-            {Math.round(t?.entry_altitude_km || meta.entry_altitude_km || 95)} → {Math.round(t?.terminal_altitude_km || meta.terminal_altitude_km || 25)} km alt.
+            {entryAlt !== null ? Math.round(entryAlt) : "?"} → {termAlt !== null ? Math.round(termAlt) : "?"} km alt.
           </div>
         </div>
         <div className="stat-card" style={{"--al":"#facc15"} as any}>
@@ -215,7 +219,7 @@ export default function EventDashboard({ params }: { params: Promise<{ id: strin
             </div>
           </div>
           <div className="globe-wrap">
-            <TrajectoryViewer trajectory={t} stations={data?.stations} />
+            <TrajectoryViewer trajectory={t} stations={data?.stations} activeView={activeView} />
             <div className="globe-coords left">
               Entry: {(t?.entry_lat||0).toFixed(1)}°N / {(t?.entry_lon||0).toFixed(1)}°E / {(t?.entry_altitude_km||95).toFixed(1)} km<br/>
               Terminal: {(t?.terminal_altitude_km||25).toFixed(1)} km alt.<br/>
@@ -255,11 +259,11 @@ export default function EventDashboard({ params }: { params: Promise<{ id: strin
               <div className="vel-nums">
                 <div>
                   <div className="vdl">Init. velocity</div>
-                  <div className="vbig">{v0.toFixed(1)}<small> km/s</small></div>
+                  <div className="vbig">{v0 !== null ? <>{v0.toFixed(1)}<small> km/s</small></> : "N/A"}</div>
                 </div>
                 <div className="vright">
                   <div className="vdl">Deceleration</div>
-                  <div className="vd">{decel.toFixed(1)} km/s²</div>
+                  <div className="vd">{decel !== null ? <>{decel.toFixed(1)} km/s²</> : "N/A"}</div>
                 </div>
               </div>
               <VelocityChart velocity={vel} model={velModel} />
@@ -284,7 +288,7 @@ export default function EventDashboard({ params }: { params: Promise<{ id: strin
                     <span className="sdot" style={{background: color}} />
                     <div>
                       <div className="sname">{st.station_id}</div>
-                      <div className="sloc">{st.latitude.toFixed(1)}°N · {st.longitude.toFixed(1)}°E</div>
+                      <div className="sloc">{st.latitude !== undefined && st.latitude !== null ? st.latitude.toFixed(1) + "°N" : "N/A"} · {st.longitude !== undefined && st.longitude !== null ? st.longitude.toFixed(1) + "°E" : "N/A"}</div>
                     </div>
                   </div>
                   <div style={{textAlign:"right"}}>
@@ -332,9 +336,9 @@ export default function EventDashboard({ params }: { params: Promise<{ id: strin
             <div><div className="oe-n">Geocentric RA</div>
               <div className="oe-v">{(radiant?.ra_deg||0).toFixed(1)}<span className="oe-u">°</span></div></div>
             <div><div className="oe-n">Geocentric Dec</div>
-              <div className="oe-v">{(radiant?.dec_deg||0) > 0 ? "+" : ""}{(radiant?.dec_deg||0).toFixed(1)}<span className="oe-u">°</span></div></div>
+              <div className="oe-v">{(radiant?.dec_deg||0) > 0 ? "+" : ""}{(radiant?.dec_deg ?? null) !== null ? radiant.dec_deg.toFixed(1) : "N/A"}<span className="oe-u">°</span></div></div>
             <div><div className="oe-n">Vg</div>
-              <div className="oe-v">{(orbit?.geocentric_velocity_kms||v0).toFixed(1)}<span className="oe-u"> km/s</span></div></div>
+              <div className="oe-v">{(orbit?.geocentric_velocity_kms ?? v0) !== null ? (orbit?.geocentric_velocity_kms ?? v0).toFixed(1) : "N/A"}<span className="oe-u"> km/s</span></div></div>
             <div><div className="oe-n">Separation</div>
               <div className="oe-v">{(showerMatch?.separation_deg||0).toFixed(1)}<span className="oe-u">°</span></div></div>
           </div>
@@ -394,13 +398,12 @@ export default function EventDashboard({ params }: { params: Promise<{ id: strin
         <div style={{flex:1}}>
           <div className="summary-title">What happened</div>
           <div className="summary-text">
-            {shower !== "Sporadic" ? `A fragment associated with the ${shower} meteor shower` : "A sporadic meteoroid"} entered Earth&apos;s atmosphere at <em>{v0.toFixed(1)} km/s</em>
+            {shower !== "Sporadic" ? `A fragment associated with the ${shower} meteor shower` : "A sporadic meteoroid"} entered Earth&apos;s atmosphere at <em>{v0 !== null ? v0.toFixed(1) + " km/s" : "an unknown velocity"}</em>
             {meta.region ? ` over ${meta.region}` : ""}. It was observed by <em>{meta.station_count} camera stations</em> and
             burned {""}
-            {(t?.terminal_altitude_km || meta.terminal_altitude_km || 25) > 15 ? "up completely" : "down to low altitude"} at {Math.round(t?.terminal_altitude_km || meta.terminal_altitude_km || 25)} km altitude
-            after travelling {Math.round(trajLen)} km.
-            The peak brightness reached magnitude <em>{peakMag.toFixed(1)}</em>
-            {peakMag < -6 ? ` — ${Math.round(Math.pow(10, -0.4*(peakMag+12.7)))}× brighter than a full moon` : ""}.
+            {(t?.terminal_altitude_km ?? meta.terminal_altitude_km ?? 25) > 15 ? "up completely" : "down to low altitude"} at {Math.round(t?.terminal_altitude_km ?? meta.terminal_altitude_km ?? 25)} km altitude
+            after travelling {trajLen !== null ? Math.round(trajLen) + " km" : "an unknown distance"}.
+            {peakMag !== null ? <> The peak brightness reached magnitude <em>{peakMag.toFixed(1)}</em>{peakMag < -6 ? ` — ${Math.round(Math.pow(10, -0.4*(peakMag+12.7)))}× brighter than a full moon` : ""}.</> : ""}
             This reconstruction carries <em>{quality?.label || "pending"} scientific confidence</em>.
             {massEst?.mass_grams ? ` Estimated meteoroid mass: ${massEst.mass_grams.toFixed(1)} grams.` : ""}
           </div>
@@ -412,7 +415,65 @@ export default function EventDashboard({ params }: { params: Promise<{ id: strin
 
 /* ── Sub-components ─────────────────────────────────── */
 
-function TrajectoryViewer({ trajectory, stations }: { trajectory: any; stations: any[] }) {
+function TrajectoryViewer({ trajectory, stations, activeView }: { trajectory: any; stations: any[]; activeView?: string }) {
+  const view = activeView || "3D";
+
+  // Ground Track view — top-down 2D projection
+  if (view === "Ground track") {
+    return (
+      <svg width="480" height="310" viewBox="0 0 480 310">
+        <rect width="480" height="310" rx="4" fill="rgba(8,13,26,0.5)" />
+        {/* Grid */}
+        {[0,1,2,3,4].map(i => <line key={`h${i}`} x1="0" y1={i*77.5} x2="480" y2={i*77.5} stroke="rgba(255,255,255,.04)" strokeWidth=".5" />)}
+        {[0,1,2,3,4,5].map(i => <line key={`v${i}`} x1={i*96} y1="0" x2={i*96} y2="310" stroke="rgba(255,255,255,.04)" strokeWidth=".5" />)}
+        {/* Station dots */}
+        {(stations || []).slice(0, 7).map((st: any, i: number) => {
+          const x = 120 + (st.longitude || i*10) * 2;
+          const y = 155 - (st.latitude || i*5) * 1.5;
+          return <g key={i}><circle cx={x} cy={y} r="4" fill="none" stroke="var(--accent)" strokeWidth="1" /><circle cx={x} cy={y} r="1.5" fill="var(--accent)" /></g>;
+        })}
+        {/* Trajectory line — simplified ground projection */}
+        <line x1="320" y1="80" x2="220" y2="200" stroke="rgba(255,107,74,.15)" strokeWidth="8" strokeLinecap="round" />
+        <line x1="320" y1="80" x2="220" y2="200" stroke="#ff6b4a" strokeWidth="2" strokeLinecap="round" />
+        <circle cx="320" cy="80" r="5" fill="none" stroke="var(--accent2)" strokeWidth="1.3" /><circle cx="320" cy="80" r="2" fill="var(--accent2)" />
+        <circle cx="220" cy="200" r="4" fill="none" stroke="#facc15" strokeWidth="1" /><circle cx="220" cy="200" r="1.5" fill="#facc15" />
+        <text x="335" y="78" fill="rgba(255,107,74,.85)" fontSize="9" fontFamily="'Space Mono',monospace">Entry</text>
+        <text x="230" y="215" fill="rgba(250,204,21,.75)" fontSize="9" fontFamily="'Space Mono',monospace">Terminal</text>
+        <text x="240" y="20" fill="rgba(255,255,255,.2)" fontSize="10" fontFamily="'Space Mono',monospace" textAnchor="middle">GROUND TRACK PROJECTION</text>
+      </svg>
+    );
+  }
+
+  // LOS rays view — shows lines of sight from stations
+  if (view === "LOS rays") {
+    return (
+      <svg width="480" height="310" viewBox="0 0 480 310">
+        <rect width="480" height="310" rx="4" fill="rgba(8,13,26,0.5)" />
+        <ellipse cx="240" cy="280" rx="200" ry="20" fill="none" stroke="rgba(255,255,255,.06)" strokeWidth="0.5" />
+        {/* Stations along the bottom arc */}
+        {(stations || []).slice(0, 7).map((st: any, i: number) => {
+          const angle = -Math.PI + (i + 1) / ((stations?.length || 7) + 1) * Math.PI;
+          const sx = 240 + Math.cos(angle) * 180;
+          const sy = 280 + Math.sin(angle) * 15;
+          return (
+            <g key={i} opacity=".85">
+              <line x1={sx} y1={sy} x2="240" y2="80" stroke="rgba(74,244,196,.15)" strokeWidth=".8" strokeDasharray="4,3" />
+              <circle cx={sx} cy={sy} r="4" fill="none" stroke="var(--accent)" strokeWidth="1" />
+              <circle cx={sx} cy={sy} r="1.5" fill="var(--accent)" />
+            </g>
+          );
+        })}
+        {/* Trajectory */}
+        <line x1="280" y1="40" x2="240" y2="120" stroke="rgba(255,107,74,.15)" strokeWidth="6" strokeLinecap="round" />
+        <line x1="280" y1="40" x2="240" y2="120" stroke="#ff6b4a" strokeWidth="2" strokeLinecap="round" />
+        <circle cx="280" cy="40" r="4.5" fill="none" stroke="var(--accent2)" strokeWidth="1.3" /><circle cx="280" cy="40" r="2" fill="var(--accent2)" />
+        <circle cx="240" cy="120" r="3.5" fill="none" stroke="#facc15" strokeWidth="1" /><circle cx="240" cy="120" r="1.5" fill="#facc15" />
+        <text x="240" y="20" fill="rgba(255,255,255,.2)" fontSize="10" fontFamily="'Space Mono',monospace" textAnchor="middle">LINES OF SIGHT INTERSECTION</text>
+      </svg>
+    );
+  }
+
+  // Default 3D globe view
   return (
     <svg width="480" height="310" viewBox="0 0 480 310">
       <defs>

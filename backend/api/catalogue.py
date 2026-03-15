@@ -12,7 +12,7 @@ router = APIRouter(prefix="/api", tags=["catalogue"])
 @router.get("/events")
 async def get_events(
     page: int = Query(1, ge=1),
-    page_size: int = Query(20, ge=1, le=100),
+    page_size: int = Query(20, ge=1, le=500),
     network: Optional[str] = None,
     shower: Optional[str] = None,
     min_velocity: Optional[float] = None,

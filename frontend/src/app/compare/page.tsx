@@ -123,9 +123,14 @@ export default function ComparePage() {
                     ].map(([label, key]) => (
                       <tr key={String(key)}>
                         <td style={{color:"var(--muted)"}}>{String(label)}</td>
-                        {events.map((ev: any, i: number) => (
-                          <td key={i}>{(ev.orbital_elements?.[String(key)] || 0).toFixed(3)}</td>
-                        ))}
+                        {events.map((ev: any, i: number) => {
+                          const val = ev.orbital_elements?.[String(key)];
+                          return (
+                            <td key={i}>
+                              {val !== undefined && val !== null && val !== 0 ? val.toFixed(3) : "N/A"}
+                            </td>
+                          );
+                        })}
                       </tr>
                     ))}
                   </tbody>
@@ -139,7 +144,9 @@ export default function ComparePage() {
                 <div className="pt">Velocity Profiles · Overlay</div>
               </div>
               <div style={{padding:16}}>
-                <svg width="100%" viewBox="0 0 280 120" style={{overflow:"visible"}}>
+                {events.some((ev: any) => ev.velocity?.velocity_profile?.distances_km?.length > 1) ? (
+                  <>
+                    <svg width="100%" viewBox="0 0 280 120" style={{overflow:"visible"}}>
                   {[0,30,60,90,120].map(y => <line key={y} x1="0" y1={y} x2="280" y2={y} stroke="rgba(255,255,255,.04)" strokeWidth=".5" />)}
                   {events.map((ev: any, i: number) => {
                     const vp = ev.velocity?.velocity_profile;
@@ -155,7 +162,13 @@ export default function ComparePage() {
                   })}
                   <text x="0" y="135" fill="rgba(255,255,255,.18)" fontSize="7" fontFamily="'Space Mono',monospace">0 km</text>
                   <text x="280" y="135" fill="rgba(255,255,255,.18)" fontSize="7" fontFamily="'Space Mono',monospace" textAnchor="end">max</text>
-                </svg>
+                    </svg>
+                  </>
+                ) : (
+                  <div style={{padding:"40px 0",textAlign:"center",fontFamily:"var(--mono)",fontSize:10,color:"var(--dim)"}}>
+                    VELOCITY PROFILES N/A FOR SELECTED EVENTS
+                  </div>
+                )}
                 <div style={{display:"flex",gap:12,marginTop:8,flexWrap:"wrap"}}>
                   {events.map((ev: any, i: number) => (
                     <div key={i} style={{display:"flex",alignItems:"center",gap:4}}>
@@ -190,7 +203,7 @@ export default function ComparePage() {
                   </div>
                   <div style={{textAlign:"right"}}>
                     <div className="sresid" style={{color: (ev.shower_match?.confidence || 0) > 70 ? "var(--accent)" : "#facc15"}}>
-                      {(ev.shower_match?.confidence || 0).toFixed(0)}%
+                      {ev.shower_match?.confidence ? `${ev.shower_match.confidence.toFixed(0)}%` : "N/A"}
                     </div>
                     <div className="sframes">{ev.quality?.label || "—"}</div>
                   </div>

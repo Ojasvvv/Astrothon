@@ -10,8 +10,13 @@ export default function MonteCarloPage() {
   const [results, setResults] = useState<Record<string, any>>({});
 
   useEffect(() => {
-    fetch(`${API}/api/events?page_size=20`)
-      .then(r => r.json()).then(d => { setEvents(d.events || []); setLoading(false); })
+    fetch(`${API}/api/events?page_size=100`)
+      .then(r => r.json()).then(d => {
+        // Sort: multi-station events first (MC-eligible), then single-station
+        const sorted = (d.events || []).sort((a: any, b: any) => (b.station_count || 0) - (a.station_count || 0));
+        setEvents(sorted);
+        setLoading(false);
+      })
       .catch(() => setLoading(false));
   }, []);
 
@@ -43,7 +48,7 @@ export default function MonteCarloPage() {
         <div>
           <div className="summary-title" style={{color: "#38bdf8"}}>Run Monte Carlo Simulation</div>
           <div className="summary-text" style={{lineHeight: 1.6}}>
-            Perturb astrometric observations with Gaussian noise ($3\sigma$ bounds) to estimate robust standard deviations ($\sigma$) and confidence intervals for velocity, radiant coordinates, and Keplerian orbital parameters. Select an event to run the $N=100$ iteration simulation directly on the Python backend.
+            Perturb astrometric observations with Gaussian noise (3σ bounds) to estimate robust standard deviations (σ) and confidence intervals for velocity, radiant coordinates, and Keplerian orbital parameters. Select an event to run the $N=100$ iteration simulation directly on the Python backend.
           </div>
         </div>
       </div>
@@ -70,10 +75,10 @@ export default function MonteCarloPage() {
                   </div>
                   {!res && (
                     <button className={`btn ${isRunning ? "btn-ghost" : "btn-ghost"}`} 
-                      style={isRunning ? {opacity: 0.5, cursor: "not-allowed"} : {color: "#38bdf8", borderColor:"rgba(56,189,248,0.3)"}}
+                      style={ (isRunning || ev.station_count < 2) ? {opacity: 0.5, cursor: "not-allowed"} : {color: "#38bdf8", borderColor:"rgba(56,189,248,0.3)"}}
                       onClick={() => runSimulation(ev.event_id)}
-                      disabled={isRunning || runningId !== null}>
-                      {isRunning ? "Computing..." : "Run MC Simulation"}
+                      disabled={isRunning || runningId !== null || ev.station_count < 2}>
+                      {isRunning ? "Computing..." : (ev.station_count < 2 ? "Requires 2+ Stations" : "Run MC Simulation")}
                     </button>
                   )}
                 </div>
@@ -83,24 +88,24 @@ export default function MonteCarloPage() {
                   <div style={{marginTop: 16, paddingTop: 16, borderTop: "1px solid rgba(255,255,255,0.05)"}}>
                     <div style={{display:"grid",gridTemplateColumns:"1fr 1fr",gap:12}}>
                       <div>
-                        <div style={{fontFamily:"var(--mono)",fontSize:9,color:"var(--dim)",marginBottom:4}}>VELOCITY $\sigma$</div>
+                        <div style={{fontFamily:"var(--mono)",fontSize:9,color:"var(--dim)",marginBottom:4}}>VELOCITY σ</div>
                         <div style={{fontSize:16,color:"#38bdf8"}}>
-                          ±{res.initial_velocity?.std?.toFixed(2) || "0.00"} <span style={{fontSize:10}}>km/s</span>
+                          {res.n_success === 0 ? "N/A" : `±${res.initial_velocity?.std?.toFixed(2) || "0.00"}`} <span style={{fontSize:10}}>km/s</span>
                         </div>
                       </div>
                       <div>
                         <div style={{fontFamily:"var(--mono)",fontSize:9,color:"var(--dim)",marginBottom:4}}>RADIANT AREA</div>
                         <div style={{fontSize:16,color:"#38bdf8"}}>
-                          {res.radiant_ellipse?.area_deg2?.toFixed(2) || "0.00"} <span style={{fontSize:10}}>deg²</span>
+                          {res.n_success === 0 ? "N/A" : (res.radiant_ellipse?.area_deg2?.toFixed(4) || "0.0000")} <span style={{fontSize:10}}>{res.n_success === 0 ? "" : "deg²"}</span>
                         </div>
                       </div>
                       <div>
                         <div style={{fontFamily:"var(--mono)",fontSize:9,color:"var(--dim)",marginBottom:4}}>RA UNCERTAINTY</div>
-                        <div style={{fontSize:14}}>±{res.radiant_ra?.std?.toFixed(2) || "0.00"}°</div>
+                        <div style={{fontSize:14}}>{res.n_success === 0 ? "N/A" : `±${res.radiant_ra?.std?.toFixed(4) || "0.0000"}°`}</div>
                       </div>
                       <div>
                         <div style={{fontFamily:"var(--mono)",fontSize:9,color:"var(--dim)",marginBottom:4}}>DEC UNCERTAINTY</div>
-                        <div style={{fontSize:14}}>±{res.radiant_dec?.std?.toFixed(2) || "0.00"}°</div>
+                        <div style={{fontSize:14}}>{res.n_success === 0 ? "N/A" : `±${res.radiant_dec?.std?.toFixed(4) || "0.0000"}°`}</div>
                       </div>
                     </div>
                   </div>

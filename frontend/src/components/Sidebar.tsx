@@ -5,8 +5,6 @@ import { usePathname } from "next/navigation";
 const NAV_ITEMS = [
   { group: "Explore", items: [
     { label: "Live feed", href: "/", icon: "◉" },
-    { label: "Catalogue", href: "/", icon: "≡" },
-    { label: "Comparison", href: "/compare", icon: "❙❙" },
   ]},
   { group: "Analysis", items: [
     { label: "Orbit explorer", href: "/orbit", icon: "◎" },

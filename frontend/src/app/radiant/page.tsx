@@ -36,10 +36,9 @@ export default function SkyRadiantPage() {
             
             {/* Events */}
             {(events || []).map((ev: any, i: number) => {
-              if (ev.radiant_ra === null || ev.radiant_dec === null) return null;
-              // Mollweide-ish projection
               const ra = ev.radiant_ra;
               const dec = ev.radiant_dec;
+              if (ra == null || dec == null || isNaN(ra) || isNaN(dec)) return null;
               
               // Map RA [0, 360] -> [700, 100] (0 is right, 360 is left)
               // Map Dec [-90, 90] -> [350, 50] (+90 is top, -90 is bottom)
@@ -84,10 +83,11 @@ export default function SkyRadiantPage() {
       <div style={{display:"grid",gap:16,gridTemplateColumns:"1fr 1fr"}}>
         <div className="panel" style={{marginBottom: 0}}>
           <div className="ph" style={{"--al":"var(--accent)"} as any}>
-            <div className="pt">Identified Showers ({Object.keys(stats.showers || {}).length})</div>
+            <div className="pt">Identified Showers ({Object.keys(stats.showers || {}).filter(k => k !== "Sporadic" && k !== "Unknown").length})</div>
           </div>
           <div style={{padding: 20}}>
             {Object.entries(stats.showers || {})
+              .filter(([name]: [string, any]) => name !== "Sporadic" && name !== "Unknown")
               .sort((a: any, b: any) => b[1] - a[1]) // Sort by count desc
               .map(([name, count]: [string, any]) => (
               <div key={name} style={{display:"flex",justifyContent:"space-between",alignItems:"center",padding:"12px 0",borderBottom:"1px solid var(--cb)"}}>
@@ -103,7 +103,7 @@ export default function SkyRadiantPage() {
                 </div>
               </div>
             ))}
-            {Object.keys(stats.showers || {}).length === 0 && <div style={{color:"var(--muted)", fontStyle:"italic"}}>No grouped showers detected yet.</div>}
+            {Object.keys(stats.showers || {}).filter(k => k !== "Sporadic" && k !== "Unknown").length === 0 && <div style={{color:"var(--muted)", fontStyle:"italic"}}>No grouped showers detected yet.</div>}
           </div>
         </div>
 
@@ -114,13 +114,13 @@ export default function SkyRadiantPage() {
           <div style={{padding: 20, display:"flex", flexDirection:"column", gap:15}}>
              <div className="stat-card" style={{background:"rgba(0,0,0,0.2)","--al":"#38bdf8"} as any}>
                 <div className="sl">Total Reconstructed</div>
-                <div className="sv" style={{fontSize:24,marginTop:5}}>{events.filter(e => e.radiant_ra !== null).length} <span style={{fontSize:12,color:"var(--muted)"}}>of {events.length}</span></div>
+                <div className="sv" style={{fontSize:24,marginTop:5}}>{stats.total_with_radiant || events.filter(e => e.radiant_ra != null).length} <span style={{fontSize:12,color:"var(--muted)"}}>of {stats.total_events || events.length}</span></div>
                 <div className="ss">Events with valid LoS intersection</div>
              </div>
              
              <div className="stat-card" style={{background:"rgba(0,0,0,0.2)","--al":"var(--accent2)"} as any}>
                 <div className="sl">Shower Association Rate</div>
-                <div className="sv" style={{fontSize:24,marginTop:5}}>{stats.shower_percentage || "0.0"}%</div>
+                <div className="sv" style={{fontSize:24,marginTop:5}}>{stats.shower_percentage ?? "0.0"}%</div>
                 <div className="ss">Matched via standard IAU radiants</div>
              </div>
              

@@ -145,6 +145,14 @@ def compute_orbital_elements(
     a_j = 5.2044  # Jupiter semi-major axis in AU
     T_j = a_j / a_au + 2 * np.cos(i) * np.sqrt(a_au / a_j * (1 - e ** 2))
 
+    # Orbit classification
+    if e < 1.0 and a_au > 0:
+        orbit_type = "bound"
+    elif abs(e - 1.0) < 0.01:
+        orbit_type = "parabolic"
+    else:
+        orbit_type = "hyperbolic"
+
     return {
         "semi_major_axis_au": float(a_au),
         "eccentricity": float(e),
@@ -158,4 +166,5 @@ def compute_orbital_elements(
         "heliocentric_velocity_kms": float(v_mag / 1000.0),
         "corrected_radiant_ra": float(radiant_ra),
         "corrected_radiant_dec": float(radiant_dec),
+        "orbit_type": orbit_type,
     }

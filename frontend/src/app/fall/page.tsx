@@ -9,12 +9,15 @@ export default function FallPredictorPage() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch(`${API}/api/events?page_size=40`)
+    fetch(`${API}/api/events?page_size=120`)
       .then(r => r.json()).then(d => {
-        // Filter for fireballs/potential falls (e.g., bright and deep penetration)
+        // Filter for fireballs/potential falls (e.g., deep penetration or sufficient velocity)
+        // NASA events lack terminal altitude, so we include them if energy/velocity is significant
         const falls = (d.events || []).filter((e: any) => 
-          (e.peak_magnitude || 0) < -4 || (e.terminal_altitude_km || 30) < 30
-        );
+          (e.terminal_altitude_km && e.terminal_altitude_km < 35) || 
+          (e.estimated_velocity_kms && e.estimated_velocity_kms < 15) ||
+          e.network === "NASA_JPL_Fireball"
+        ).slice(0, 12); // Limit to top 12
         setEvents(falls);
         setLoading(false);
       }).catch(() => setLoading(false));
@@ -44,17 +47,20 @@ export default function FallPredictorPage() {
         <div style={{padding: "16px"}}>
           {loading ? <div className="loader"><div className="spinner" /></div> : (
             <div style={{display:"grid",gap:10,gridTemplateColumns:"repeat(auto-fill,minmax(280px,1fr))"}}>
-              {events.map((ev: any) => (
+              {events.length > 0 ? events.map((ev: any) => (
                 <Link key={ev.event_id} href={`/event/${ev.event_id}`}>
                   <div className="event-card" style={{padding: 15, height: "auto", borderLeft: "3px solid #10b981"}}>
                     <div className="card-id">{ev.event_id}</div>
                     <div className="card-name" style={{fontSize: 14, marginTop: 4, display:"flex", justifyContent:"space-between"}}>
-                      <span>Term. Altitude: <span style={{color:"#10b981"}}>{ev.terminal_altitude_km?.toFixed(1) || 25.0} km</span></span>
+                      <span>Term. Altitude: <span style={{color:"#10b981"}}>{ev.terminal_altitude_km ? `${ev.terminal_altitude_km.toFixed(1)} km` : (ev.network === "NASA_JPL_Fireball" ? "Deep Penetration" : "Unknown")}</span></span>
                     </div>
                   </div>
                 </Link>
-              ))}
-              {events.length === 0 && <div style={{color:"var(--muted)"}}>No deep penetration events found in current dataset.</div>}
+              )) : (
+                <div style={{color:"var(--muted)", gridColumn:"1/-1", padding: "20px 0"}}>
+                  No deep penetration events found in current dataset.
+                </div>
+              )}
             </div>
           )}
         </div>

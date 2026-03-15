@@ -11,13 +11,13 @@ export default function DiagnosticsPage() {
   }, []);
 
   return (
-    <div className="wrap">
+    <div style={{display:"flex", flexDirection:"column", gap: 20}}>
       <div className="sec-head">
         <div className="sec-title">System Diagnostics</div>
         <div style={{fontFamily:"var(--mono)",fontSize:10,color:"var(--dim)"}}>PIPELINE HEALTH & PERF</div>
       </div>
 
-      <div className="content-grid" style={{marginTop: 20}}>
+      <div style={{display:"grid",gap:16,gridTemplateColumns:"repeat(auto-fill,minmax(250px,1fr))",marginTop: 20}}>
         <div className="stat-card" style={{"--al":"var(--accent)"} as any}>
           <div className="sl">API Status</div>
           <div className="sv" style={{color:"var(--accent)",fontSize:16,marginTop:8}}>ONLINE</div>
@@ -37,7 +37,7 @@ export default function DiagnosticsPage() {
         </div>
       </div>
 
-      <div className="panel" style={{marginTop: 20}}>
+      <div className="panel" style={{marginTop: 20, gridColumn:"1/-1"}}>
         <div className="ph">
           <div className="pt">Geospatial Networks</div>
         </div>

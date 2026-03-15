@@ -130,9 +130,12 @@ def run_monte_carlo(
         cov = np.cov(ra_arr, dec_arr)
         eigenvalues, eigenvectors = np.linalg.eigh(cov)
         # Semi-axes of 1σ ellipse
+        semi_major = float(np.sqrt(max(eigenvalues)))
+        semi_minor = float(np.sqrt(max(min(eigenvalues), 0)))
         stats["radiant_ellipse"] = {
-            "semi_major_deg": float(np.sqrt(max(eigenvalues))),
-            "semi_minor_deg": float(np.sqrt(max(min(eigenvalues), 0))),
+            "semi_major_deg": semi_major,
+            "semi_minor_deg": semi_minor,
+            "area_deg2": float(np.pi * semi_major * semi_minor),
             "angle_deg": float(np.degrees(np.arctan2(eigenvectors[1, 1], eigenvectors[0, 1]))),
             "center_ra": float(np.mean(ra_arr)),
             "center_dec": float(np.mean(dec_arr)),

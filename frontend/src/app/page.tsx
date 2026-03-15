@@ -27,10 +27,12 @@ const SHOWER_COLORS: Record<string, string> = {
 
 function EventCardThumb({ event }: { event: Event }) {
   const color = SHOWER_COLORS[event.shower_code] || "var(--accent)";
-  const x1 = 60 + Math.random() * 120;
-  const y1 = 10 + Math.random() * 20;
-  const x2 = 40 + Math.random() * 100;
-  const y2 = 50 + Math.random() * 25;
+  // Deterministic position from event_id hash
+  const hash = event.event_id.split("").reduce((a: number, c: string) => a + c.charCodeAt(0), 0);
+  const x1 = 60 + (hash % 120);
+  const y1 = 10 + ((hash * 7) % 20);
+  const x2 = 40 + ((hash * 13) % 100);
+  const y2 = 50 + ((hash * 3) % 25);
   return (
     <svg viewBox="0 0 240 80" preserveAspectRatio="xMidYMid meet">
       <circle cx="30" cy="15" r="0.8" fill="rgba(255,255,255,.5)" />
@@ -95,14 +97,14 @@ export default function CataloguePage() {
         <div className="filter-bar">
           <input className="search-box" placeholder="Search events…" type="text"
             value={search} onChange={e => { setSearch(e.target.value); setPage(1); }} />
-          {["", "GMN", "NASA_AFSN", "FRIPON", "AMS"].map(n => (
+          {["", "GMN", "NASA_JPL_Fireball", "NASA_AFSN", "FRIPON", "AMS"].map(n => (
             <button key={n} className={`filter-chip ${network === n ? "active" : ""}`}
               onClick={() => { setNetwork(n); setPage(1); }}>
               {n || "All Networks"}
             </button>
           ))}
           <span style={{width:1,height:16,background:"var(--cb)",margin:"0 4px"}} />
-          {["", "Perseids", "Geminids", "Leonids", "Sporadic"].map(s => (
+          {["", "Geminids", "Eta Aquariids", "Lyrids", "Perseids", "Quadrantids", "Sporadic"].map(s => (
             <button key={s} className={`filter-chip orange ${shower === s ? "active" : ""}`}
               onClick={() => { setShower(s); setPage(1); }}>
               {s || "All Showers"}
@@ -150,7 +152,7 @@ export default function CataloguePage() {
                       </div>
                       <div className="cs-item">
                         <div className="cs-val" style={{color:"var(--accent)"}}>
-                          {Math.round(70 + Math.random() * 25)}
+                          {ev.station_count >= 3 ? "High" : ev.station_count >= 2 ? "Med" : "Est"}
                         </div>
                         <div className="cs-lbl">quality</div>
                       </div>
@@ -196,7 +198,7 @@ export default function CataloguePage() {
                     <div className="fi-mag" style={{
                       color: (item.peak_magnitude || 0) < -6 ? "#facc15" :
                         (item.peak_magnitude || 0) < -3 ? "var(--accent2)" : "var(--muted)"
-                    }}>{item.peak_magnitude?.toFixed(1)}</div>
+                    }}>{item.peak_magnitude != null ? item.peak_magnitude.toFixed(1) : "N/A"}</div>
                     <div className="fi-age">{item.station_count} st.</div>
                   </div>
                 </div>
@@ -212,18 +214,28 @@ export default function CataloguePage() {
         </div>
 
         <div className="sparkline-panel">
-          <div className="spark-title">24h Activity · Events per Hour</div>
+          <div className="spark-title">Network Distribution · Events by Source</div>
           <svg width="100%" viewBox="0 0 260 55" style={{overflow:"visible"}}>
             <line x1="0" y1="55" x2="260" y2="55" stroke="rgba(255,255,255,.06)" strokeWidth=".5" />
-            {Array.from({length: 21}, (_, i) => {
-              const h = 5 + Math.random() * 40;
-              return <rect key={i} x={i*12} y={55-h} width="8" height={h}
-                fill={i === 20 ? "var(--accent)" : `rgba(74,244,196,${0.2 + h/80})`} rx="1" />;
-            })}
-            <text x="0" y="65" fill="rgba(255,255,255,.2)" fontSize="7"
-              fontFamily="'Space Mono',monospace">00:00</text>
-            <text x="260" y="65" fill="rgba(255,255,255,.2)" fontSize="7"
-              fontFamily="'Space Mono',monospace" textAnchor="end">24:00</text>
+            {(() => {
+              const entries = Object.entries(stats.networks || {});
+              const n = entries.length || 1;
+              const barW = Math.min(40, Math.floor(240 / n) - 4);
+              const spacing = Math.floor(260 / n);
+              const maxN = Math.max(...entries.map(([,c]) => Number(c)), 1);
+              const colors = ["var(--accent2)", "var(--accent)", "var(--accent3)", "#facc15", "#38bdf8", "#f472b6"];
+              return entries.map(([name, count]: [string, any], i: number) => {
+                const h = Math.max(5, (Number(count) / maxN) * 48);
+                return (
+                  <g key={name}>
+                    <rect x={i * spacing + (spacing - barW) / 2} y={55-h} width={barW} height={h}
+                      fill={colors[i % colors.length]} rx="2" opacity={0.8} />
+                    <text x={i * spacing + spacing / 2} y="65" fill="rgba(255,255,255,.3)" fontSize="6"
+                      fontFamily="'Space Mono',monospace" textAnchor="middle">{name.substring(0, 6)}</text>
+                  </g>
+                );
+              });
+            })()}
           </svg>
           <div style={{display:"flex",justifyContent:"space-between",marginTop:10}}>
             <div style={{textAlign:"center"}}>

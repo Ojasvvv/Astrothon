@@ -1,0 +1,90 @@
+{
+  "trajectory": {
+    "start": [],
+    "end": [],
+    "direction": [],
+    "entry_altitude_km": 0.0,
+    "terminal_altitude_km": 32.0,
+    "trajectory_length_km": 0.0,
+    "entry_angle_deg": 0.0,
+    "convergence_angle_Q": 0.0,
+    "median_residual_arcsec": 0.0,
+    "rms_residual_arcsec": 0.0,
+    "station_residuals": {},
+    "num_observations": 0,
+    "num_inliers": 0,
+    "entry_lat": 4.1,
+    "entry_lon": -173.4
+  },
+  "velocity": {
+    "initial_velocity_kms": null,
+    "deceleration_kms2": null,
+    "entry_angle_deg": null,
+    "linear_model": {
+      "v0": null,
+      "a": null,
+      "chi_squared": null
+    },
+    "whipple_jacchia_model": {
+      "v_inf": null,
+      "K": null,
+      "chi_squared": null
+    },
+    "velocity_profile": {
+      "times": [],
+      "distances_km": [],
+      "altitudes_km": [],
+      "velocity_observed_kms": [],
+      "velocity_linear_kms": [],
+      "velocity_wj_kms": [],
+      "distance_fit_linear_km": []
+    }
+  },
+  "radiant": {
+    "ra_deg": null,
+    "dec_deg": null,
+    "corrected_ra": null,
+    "corrected_dec": null
+  },
+  "orbital_elements": {
+    "error": "Orbit computation not attempted"
+  },
+  "timing_offsets_ms": {},
+  "shower_match": null,
+  "quality": {
+    "composite_score": 45,
+    "label": "Estimated",
+    "breakdown": {
+      "velocity_data": {
+        "score": 0,
+        "weight": 0.25,
+        "value": null
+      },
+      "geolocation": {
+        "score": 80,
+        "weight": 0.2,
+        "value": "4.1, -173.4"
+      },
+      "altitude": {
+        "score": 80,
+        "weight": 0.15,
+        "value": 32.0
+      },
+      "energy": {
+        "score": 80,
+        "weight": 0.1,
+        "value": 0.19
+      },
+      "multi_station": {
+        "score": 0,
+        "weight": 0.3,
+        "value": "Single station"
+      }
+    }
+  },
+  "fall_prediction": null,
+  "mass_estimate": null,
+  "pipeline_errors": [
+    "Insufficient stations for 3D triangulation. Showing summary data only."
+  ]
+}

@@ -123,13 +123,16 @@ def fit_velocity(
         distances = distances[idx]
         altitudes = altitudes[idx]
 
+    # Maximum physical velocity for an Earth-bound meteor (km/s)
+    MAX_V = 72.0
+
     # ── Fit linear deceleration model ──────────────────────────────────
     try:
-        v0_guess = distances[-1] / max(times[-1], 1e-6)  # crude initial guess
+        v0_guess = min(distances[-1] / max(times[-1], 1e-6), MAX_V)
         popt_lin, _ = curve_fit(
             _linear_model, times, distances,
             p0=[v0_guess, -2.0],
-            bounds=([0, -200], [100, 0]),
+            bounds=([0, -200], [MAX_V, 0]),
             maxfev=2000,
         )
         v0_lin, a_lin = popt_lin
@@ -137,7 +140,7 @@ def fit_velocity(
         residuals_lin = distances - dist_fit_lin
         chi2_lin = float(np.sum(residuals_lin ** 2) / max(len(times) - 2, 1))
     except Exception:
-        v0_lin = float(distances[-1] / max(times[-1], 1e-6))
+        v0_lin = min(float(distances[-1] / max(times[-1], 1e-6)), MAX_V)
         a_lin = -2.0
         chi2_lin = 999.0
         dist_fit_lin = _linear_model(times, v0_lin, a_lin)
@@ -163,7 +166,7 @@ def fit_velocity(
             options={"maxiter": 200, "xatol": 0.05, "fatol": 0.01},
         )
         v_inf_wj, K_wj = result_wj.x
-        v_inf_wj = abs(v_inf_wj)
+        v_inf_wj = min(abs(v_inf_wj), MAX_V)
         K_wj = abs(K_wj)
         v_pred_wj = _wj_velocity(distances_m, v_inf_wj * 1000.0, K_wj, altitudes) / 1000.0
         chi2_wj = float(np.sum((v_pred_wj - vel_obs) ** 2) / max(len(times) - 2, 1))
@@ -204,112 +207,6 @@ def fit_velocity(
         },
     }
 
-
-    # Extract timestamps and positions
-    start_eci = np.array(trajectory_start)
-    times = []
-    distances = []
-    altitudes = []
-
-    t0 = trajectory_points[0]["timestamp"]
-    for tp in trajectory_points:
-        eci = np.array(tp["eci"])
-        dist = np.linalg.norm(eci - start_eci) / 1000.0  # km
-        alt = (np.linalg.norm(eci) - EARTH_RADIUS) / 1000.0  # km
-        t = tp["timestamp"] - t0  # seconds
-        times.append(t)
-        distances.append(dist)
-        altitudes.append(alt)
-
-    times = np.array(times)
-    distances = np.array(distances)
-    altitudes = np.array(altitudes)
-
-    # Remove duplicate times
-    mask = np.diff(times, prepend=-1) > 0
-    times = times[mask]
-    distances = distances[mask]
-    altitudes = altitudes[mask]
-
-    if len(times) < 3:
-        return _minimal_result(trajectory_points)
-
-    # ── Fit linear deceleration model ──
-    try:
-        popt_lin, pcov_lin = curve_fit(
-            _linear_model, times, distances,
-            p0=[60.0, -2.0],
-            maxfev=5000,
-        )
-        v0_lin, a_lin = popt_lin
-        dist_fit_lin = _linear_model(times, *popt_lin)
-        residuals_lin = distances - dist_fit_lin
-        chi2_lin = float(np.sum(residuals_lin ** 2) / max(len(times) - 2, 1))
-    except Exception:
-        v0_lin, a_lin = 60.0, -2.0
-        chi2_lin = 999.0
-        dist_fit_lin = _linear_model(times, v0_lin, a_lin)
-
-    # ── Fit Whipple-Jacchia model ──
-    try:
-        # Estimate velocities from distance-time data
-        vel_obs = np.gradient(distances, times)
-        vel_obs = np.abs(vel_obs)
-
-        # Convert distances to metres for density integral
-        distances_m = distances * 1000.0
-
-        def wj_cost(params):
-            v_inf, K = params
-            if v_inf <= 0 or K <= 0:
-                return 1e12
-            v_pred = _wj_velocity(distances_m, v_inf * 1000, K, altitudes)
-            return np.sum((v_pred / 1000 - vel_obs) ** 2)
-
-        result_wj = minimize(wj_cost, [abs(v0_lin), 1e-4],
-                             method='Nelder-Mead',
-                             options={"maxiter": 3000})
-        v_inf_wj = result_wj.x[0]
-        K_wj = result_wj.x[1]
-        v_pred_wj = _wj_velocity(distances_m, v_inf_wj * 1000, K_wj, altitudes) / 1000
-        chi2_wj = float(np.sum((v_pred_wj - vel_obs) ** 2) / max(len(times) - 2, 1))
-    except Exception:
-        v_inf_wj = abs(v0_lin)
-        K_wj = 0.0
-        v_pred_wj = vel_obs if len(vel_obs) > 0 else np.array([60.0])
-        chi2_wj = 999.0
-
-    # ── Compute velocity profile arrays for plotting ──
-    velocity_linear = _linear_velocity(times, v0_lin, a_lin)
-    velocity_observed = np.abs(np.gradient(distances, times))
-
-    # ── Entry angle ──
-    entry_alt = altitudes[0] if len(altitudes) > 0 else 100.0
-
-    return {
-        "initial_velocity_kms": abs(float(v0_lin)),
-        "deceleration_kms2": float(a_lin),
-        "entry_angle_deg": None,  # set by triangulation
-        "linear_model": {
-            "v0": abs(float(v0_lin)),
-            "a": float(a_lin),
-            "chi_squared": chi2_lin,
-        },
-        "whipple_jacchia_model": {
-            "v_inf": float(v_inf_wj),
-            "K": float(K_wj),
-            "chi_squared": chi2_wj,
-        },
-        "velocity_profile": {
-            "times": times.tolist(),
-            "distances_km": distances.tolist(),
-            "altitudes_km": altitudes.tolist(),
-            "velocity_observed_kms": velocity_observed.tolist(),
-            "velocity_linear_kms": velocity_linear.tolist(),
-            "velocity_wj_kms": v_pred_wj.tolist(),
-            "distance_fit_linear_km": dist_fit_lin.tolist(),
-        },
-    }
 
 
 def _minimal_result(points):
