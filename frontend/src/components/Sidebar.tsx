@@ -7,6 +7,7 @@ const NAV_ITEMS = [
     { label: "Live feed", href: "/", icon: "◉" },
   ]},
   { group: "Analysis", items: [
+    { label: "Compare", href: "/compare", icon: "⊞" },
     { label: "Orbit explorer", href: "/orbit", icon: "◎" },
     { label: "Monte Carlo", href: "/montecarlo", icon: "⤴" },
     { label: "Fall predictor", href: "/fall", icon: "⬇" },

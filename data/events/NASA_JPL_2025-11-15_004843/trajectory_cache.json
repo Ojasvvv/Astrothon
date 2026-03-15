@@ -1,0 +1,112 @@
+{
+  "trajectory": {
+    "start": [],
+    "end": [],
+    "direction": [],
+    "entry_altitude_km": 0.0,
+    "terminal_altitude_km": 30.0,
+    "trajectory_length_km": 0.0,
+    "entry_angle_deg": 0.0,
+    "convergence_angle_Q": 0.0,
+    "median_residual_arcsec": 0.0,
+    "rms_residual_arcsec": 0.0,
+    "station_residuals": {},
+    "num_observations": 0,
+    "num_inliers": 0,
+    "entry_lat": -62.2,
+    "entry_lon": -94.7
+  },
+  "velocity": {
+    "initial_velocity_kms": 16.0,
+    "deceleration_kms2": null,
+    "entry_angle_deg": null,
+    "linear_model": {
+      "v0": 16.0,
+      "a": null,
+      "chi_squared": null
+    },
+    "whipple_jacchia_model": {
+      "v_inf": 16.0,
+      "K": null,
+      "chi_squared": null
+    },
+    "velocity_profile": {
+      "times": [],
+      "distances_km": [],
+      "altitudes_km": [],
+      "velocity_observed_kms": [],
+      "velocity_linear_kms": [],
+      "velocity_wj_kms": [],
+      "distance_fit_linear_km": []
+    }
+  },
+  "radiant": {
+    "ra_deg": 292.3875258311629,
+    "dec_deg": -62.2,
+    "corrected_ra": 292.38745297707953,
+    "corrected_dec": -62.20000000000422
+  },
+  "orbital_elements": {
+    "semi_major_axis_au": -5.094374749137298,
+    "eccentricity": 1.1875249847422567,
+    "inclination_deg": 16.870238836152645,
+    "argument_of_perihelion_deg": 336.5921522996847,
+    "longitude_of_ascending_node_deg": 53.75995867654274,
+    "perihelion_distance_au": 0.9553225471033093,
+    "aphelion_distance_au": 11.144072045377905,
+    "tisserand_parameter": 0.19121043249064762,
+    "geocentric_velocity_kms": 19.522463881385466,
+    "heliocentric_velocity_kms": 44.140621303173,
+    "corrected_radiant_ra": 292.38745297707953,
+    "corrected_radiant_dec": -62.20000000000422,
+    "orbit_type": "hyperbolic",
+    "estimated": true
+  },
+  "timing_offsets_ms": {},
+  "shower_match": {
+    "shower_code": "JDP",
+    "shower_name": "June delta-Pavonids                     ",
+    "separation_deg": 2.7237657166683538,
+    "velocity_reference_kms": 39.3,
+    "radiant_ra_reference": 298.1,
+    "radiant_dec_reference": -62.9,
+    "in_activity_window": false,
+    "confidence": 0.0
+  },
+  "quality": {
+    "composite_score": 70,
+    "label": "Estimated",
+    "breakdown": {
+      "velocity_data": {
+        "score": 80,
+        "weight": 0.25,
+        "value": 16.0
+      },
+      "geolocation": {
+        "score": 80,
+        "weight": 0.2,
+        "value": "-62.2, -94.7"
+      },
+      "altitude": {
+        "score": 80,
+        "weight": 0.15,
+        "value": 30.0
+      },
+      "energy": {
+        "score": 80,
+        "weight": 0.1,
+        "value": 0.32
+      },
+      "multi_station": {
+        "score": 0,
+        "weight": 0.3,
+        "value": "Single station"
+      }
+    }
+  },
+  "fall_prediction": null,
+  "mass_estimate": null,
+  "pipeline_errors": [
+    "Insufficient stations for 3D triangulation. Showing summary data only."
+  ]
+}

@@ -5,8 +5,11 @@ from __future__ import annotations
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
 from typing import List
-from backend.data.store import get_trajectory_cache, get_event
+import logging
 
+from backend.data.store import get_trajectory_cache, get_event, save_trajectory_cache
+
+log = logging.getLogger(__name__)
 router = APIRouter(prefix="/api", tags=["comparison"])
 
 
@@ -27,16 +30,29 @@ async def compare_events(req: CompareRequest):
         event = get_event(eid)
         if event is None:
             continue
+
+        # Try cache first, otherwise run reconstruction on-the-fly
         cache = get_trajectory_cache(eid)
+        if cache is None:
+            try:
+                from backend.api.analysis import _run_reconstruction
+                log.info(f"Compare: running reconstruction for {eid}")
+                cache = _run_reconstruction(event)
+                save_trajectory_cache(eid, cache)
+            except Exception as e:
+                log.error(f"Compare: reconstruction failed for {eid}: {e}")
+                cache = {}
+
         results.append({
             "event_id": eid,
             "metadata": event.get("metadata", {}),
-            "trajectory": cache.get("trajectory", {}) if cache else {},
-            "velocity": cache.get("velocity", {}) if cache else {},
-            "orbital_elements": cache.get("orbital_elements", {}) if cache else {},
-            "radiant": cache.get("radiant", {}) if cache else {},
-            "shower_match": cache.get("shower_match") if cache else None,
-            "quality": cache.get("quality", {}) if cache else {},
+            "trajectory": cache.get("trajectory", {}),
+            "velocity": cache.get("velocity", {}),
+            "orbital_elements": cache.get("orbital_elements", {}),
+            "radiant": cache.get("radiant", {}),
+            "shower_match": cache.get("shower_match"),
+            "quality": cache.get("quality", {}),
         })
 
     return {"events": results, "count": len(results)}
+
