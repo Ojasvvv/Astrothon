@@ -30,17 +30,18 @@ BOLIDE operates on a strict decoupling of Data Ingestion, Physics Computation, a
 
 ```mermaid
 graph TD
-    classDef default fill:transparent,stroke:#38bdf8,stroke-width:2px,color:#f8fafc;
-    classDef highlight fill:transparent,stroke:#a855f7,stroke-width:2px,color:#ffffff;
-    classDef store fill:transparent,stroke:#ec4899,stroke-width:2px,color:#ffffff;
+    classDef default fill:#0b1121,stroke:#38bdf8,stroke-width:2px,color:#f8fafc;
+    classDef highlight fill:#1e1b4b,stroke:#a855f7,stroke-width:2px,color:#ffffff;
+    classDef store fill:#0b1121,stroke:#ec4899,stroke-width:2px,color:#ffffff;
     
-    subgraph Open Data Sources
+    subgraph OpenData [Open Data Sources]
         GMN[Global Meteor Network]:::default
         NASA[NASA Fireball API]:::default
         IAU[IAU Meteor Data Centre]:::default
     end
+    style OpenData fill:transparent,stroke:#38bdf8,stroke-width:1px,stroke-dasharray: 5 5
 
-    subgraph BOLIDE Backend Pipeline
+    subgraph Backend [BOLIDE Backend Pipeline]
         Ingest[Data Ingesters]:::highlight
         Store[(JSON Object Store)]:::store
         
@@ -49,12 +50,14 @@ graph TD
         Orbit[Geocentric to Heliocentric Orbit]:::default
         MC[Monte Carlo Uncertainty Simulator]:::default
     end
+    style Backend fill:transparent,stroke:#a855f7,stroke-width:1px,stroke-dasharray: 5 5
 
-    subgraph BOLIDE Frontend Client
+    subgraph Frontend [BOLIDE Frontend Client]
         Dash[Interactive Detail Dashboard]:::highlight
         Map[3D WebGL Earth Trajectories]:::default
         Charts[SVG Velocity & Orbit Renderers]:::default
     end
+    style Frontend fill:transparent,stroke:#ec4899,stroke-width:1px,stroke-dasharray: 5 5
 
     GMN --> Ingest
     NASA --> Ingest
